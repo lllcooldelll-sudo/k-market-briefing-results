@@ -1,0 +1,33 @@
+{
+  "as_of": "2026-07-20",
+  "regime": "혼조 — 선별 접근 (벤치마크가 MA50·MA200 사이)",
+  "regime_tone": "mixed",
+  "rs_top5": [
+    {
+      "code": "SNDK",
+      "name": "Sandisk",
+      "sector": "Information Technology"
+    },
+    {
+      "code": "DELL",
+      "name": "Dell Technologies",
+      "sector": "Information Technology"
+    },
+    {
+      "code": "MU",
+      "name": "Micron Technology",
+      "sector": "Information Technology"
+    },
+    {
+      "code": "PANW",
+      "name": "Palo Alto Networks",
+      "sector": "Information Technology"
+    },
+    {
+      "code": "DDOG",
+      "name": "Datadog",
+      "sector": "Information Technology"
+    }
+  ],
+  "semis_leading": true
+}

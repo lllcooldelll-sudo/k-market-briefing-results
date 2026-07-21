@@ -1,0 +1,89 @@
+{
+  "entries": [
+    {
+      "date": "2026-07-20",
+      "picks": [
+        {
+          "code": "AMD",
+          "name": "Advanced Micro Devices",
+          "market": "US",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 503.57
+        },
+        {
+          "code": "HPE",
+          "name": "Hewlett Packard Enterprise",
+          "market": "US",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 44.56
+        },
+        {
+          "code": "CSCO",
+          "name": "Cisco",
+          "market": "US",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 110.7
+        },
+        {
+          "code": "DAL",
+          "name": "Delta Air Lines",
+          "market": "US",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 84.54
+        },
+        {
+          "code": "ASML",
+          "name": "ASML",
+          "market": "US",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 1739.02
+        },
+        {
+          "code": "GEV",
+          "name": "GE Vernova",
+          "market": "US",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 1079.18
+        },
+        {
+          "code": "BEN",
+          "name": "Franklin Resources",
+          "market": "US",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 32.23
+        },
+        {
+          "code": "GS",
+          "name": "Goldman Sachs",
+          "market": "US",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 1055.03
+        },
+        {
+          "code": "IBKR",
+          "name": "Interactive Brokers",
+          "market": "US",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 91.68
+        },
+        {
+          "code": "HST",
+          "name": "Host Hotels & Resorts",
+          "market": "US",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 24.06
+        }
+      ]
+    }
+  ]
+}
