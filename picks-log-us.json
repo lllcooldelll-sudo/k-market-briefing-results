@@ -9,7 +9,9 @@
           "market": "US",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 503.57
+          "close": 503.57,
+          "realized_next_return": 8.11,
+          "won": true
         },
         {
           "code": "HPE",
@@ -17,7 +19,9 @@
           "market": "US",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 44.56
+          "close": 44.56,
+          "realized_next_return": 4.85,
+          "won": true
         },
         {
           "code": "CSCO",
@@ -25,7 +29,9 @@
           "market": "US",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 110.7
+          "close": 110.7,
+          "realized_next_return": 1.34,
+          "won": true
         },
         {
           "code": "DAL",
@@ -33,7 +39,9 @@
           "market": "US",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 84.54
+          "close": 84.54,
+          "realized_next_return": 0.11,
+          "won": true
         },
         {
           "code": "ASML",
@@ -41,7 +49,9 @@
           "market": "US",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1739.02
+          "close": 1739.02,
+          "realized_next_return": 3.59,
+          "won": true
         },
         {
           "code": "GEV",
@@ -49,7 +59,9 @@
           "market": "US",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 1079.18
+          "close": 1079.18,
+          "realized_next_return": -0.03,
+          "won": false
         },
         {
           "code": "BEN",
@@ -57,7 +69,9 @@
           "market": "US",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 32.23
+          "close": 32.23,
+          "realized_next_return": 1.24,
+          "won": true
         },
         {
           "code": "GS",
@@ -65,7 +79,9 @@
           "market": "US",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1055.03
+          "close": 1055.03,
+          "realized_next_return": 2.89,
+          "won": true
         },
         {
           "code": "IBKR",
@@ -73,7 +89,9 @@
           "market": "US",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 91.68
+          "close": 91.68,
+          "realized_next_return": 2.99,
+          "won": true
         },
         {
           "code": "NTAP",
@@ -81,7 +99,94 @@
           "market": "US",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 161.16
+          "close": 161.16,
+          "realized_next_return": 2.85,
+          "won": true
+        }
+      ]
+    },
+    {
+      "date": "2026-07-21",
+      "picks": [
+        {
+          "code": "CSCO",
+          "name": "Cisco",
+          "market": "US",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 112.18
+        },
+        {
+          "code": "DELL",
+          "name": "Dell Technologies",
+          "market": "US",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 404.15
+        },
+        {
+          "code": "DAL",
+          "name": "Delta Air Lines",
+          "market": "US",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 84.63
+        },
+        {
+          "code": "GEV",
+          "name": "GE Vernova",
+          "market": "US",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 1078.81
+        },
+        {
+          "code": "ASML",
+          "name": "ASML",
+          "market": "US",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1801.51
+        },
+        {
+          "code": "CRWD",
+          "name": "CrowdStrike",
+          "market": "US",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 191.15
+        },
+        {
+          "code": "BEN",
+          "name": "Franklin Resources",
+          "market": "US",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 32.63
+        },
+        {
+          "code": "MGM",
+          "name": "MGM Resorts",
+          "market": "US",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 45.67
+        },
+        {
+          "code": "AMD",
+          "name": "Advanced Micro Devices",
+          "market": "US",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 544.43
+        },
+        {
+          "code": "TXN",
+          "name": "Texas Instruments",
+          "market": "US",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 291.3
         }
       ]
     }
