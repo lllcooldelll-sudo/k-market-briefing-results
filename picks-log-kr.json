@@ -1,0 +1,169 @@
+{
+  "entries": [
+    {
+      "date": "2026-07-21",
+      "picks": [
+        {
+          "code": "005950",
+          "name": "이수화학",
+          "market": "KOSPI",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 12600.0
+        },
+        {
+          "code": "006340",
+          "name": "대원전선",
+          "market": "KOSPI",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 11840.0
+        },
+        {
+          "code": "003060",
+          "name": "에이프로젠바이오로직스",
+          "market": "KOSPI",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 1980.0
+        },
+        {
+          "code": "007460",
+          "name": "에이프로젠",
+          "market": "KOSPI",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 2175.0
+        },
+        {
+          "code": "281820",
+          "name": "케이씨텍",
+          "market": "KOSPI",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 100300.0
+        },
+        {
+          "code": "402340",
+          "name": "SK스퀘어",
+          "market": "KOSPI",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 1253000.0
+        },
+        {
+          "code": "475150",
+          "name": "SK이터닉스",
+          "market": "KOSPI",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 55900.0
+        },
+        {
+          "code": "034730",
+          "name": "SK",
+          "market": "KOSPI",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 596000.0
+        },
+        {
+          "code": "161890",
+          "name": "한국콜마",
+          "market": "KOSPI",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 101700.0
+        },
+        {
+          "code": "009150",
+          "name": "삼성전기",
+          "market": "KOSPI",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 1310000.0
+        },
+        {
+          "code": "101160",
+          "name": "월덱스",
+          "market": "KOSDAQ",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 29450.0
+        },
+        {
+          "code": "053060",
+          "name": "세동",
+          "market": "KOSDAQ",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 1411.0
+        },
+        {
+          "code": "137080",
+          "name": "나래나노텍",
+          "market": "KOSDAQ",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 5290.0
+        },
+        {
+          "code": "036800",
+          "name": "나이스정보통신",
+          "market": "KOSDAQ",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 29000.0
+        },
+        {
+          "code": "212560",
+          "name": "네오오토",
+          "market": "KOSDAQ",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 10560.0
+        },
+        {
+          "code": "017890",
+          "name": "한국알콜",
+          "market": "KOSDAQ",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 13170.0
+        },
+        {
+          "code": "007390",
+          "name": "네이처셀",
+          "market": "KOSDAQ",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 24750.0
+        },
+        {
+          "code": "102370",
+          "name": "케이옥션",
+          "market": "KOSDAQ",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 3020.0
+        },
+        {
+          "code": "214260",
+          "name": "라파스",
+          "market": "KOSDAQ",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 8550.0
+        },
+        {
+          "code": "058450",
+          "name": "한주에이알티",
+          "market": "KOSDAQ",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 4615.0
+        }
+      ]
+    }
+  ]
+}

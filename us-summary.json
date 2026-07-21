@@ -2,6 +2,12 @@
   "as_of": "2026-07-20",
   "regime": "혼조 — 선별 접근 (벤치마크가 MA50·MA200 사이)",
   "regime_tone": "mixed",
+  "oscillator": {
+    "level": "탐욕",
+    "stance": "신중",
+    "label": "탐욕 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.64, osc -0.001 ↓)"
+  },
+  "sector_leaders": "반도체(76) · 바이오(71) · 지역은행(61) · Information Technology(58)",
   "rs_top5": [
     {
       "code": "SNDK",

@@ -76,12 +76,12 @@
           "close": 91.68
         },
         {
-          "code": "HST",
-          "name": "Host Hotels & Resorts",
+          "code": "NTAP",
+          "name": "NetApp",
           "market": "US",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 24.06
+          "close": 161.16
         }
       ]
     }
