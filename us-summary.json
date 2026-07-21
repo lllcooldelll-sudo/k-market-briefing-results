@@ -8,6 +8,27 @@
     "label": "탐욕 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.64, osc -0.001 ↓)"
   },
   "sector_leaders": "반도체(76) · 바이오(71) · 지역은행(61) · Information Technology(58)",
+  "peakout": {
+    "date": "2026-07-21",
+    "n": 40,
+    "breadth_score": 50.8,
+    "above_ma20": 2.0,
+    "above_ma60": 20.0,
+    "above_ma200": 98.0,
+    "slope_5d": -19.4,
+    "slope_10d": -26.0,
+    "falling_days_10d": 10,
+    "breadth_from_20d_high": -42.0,
+    "bearish_divergence": false,
+    "strong_divergence": false,
+    "risk_level": "주의"
+  },
+  "exposure": {
+    "max_pct": 60,
+    "margin_ok": false,
+    "note": "주도주 둔화 — 비중 축소·신용 금지",
+    "risk_level": "주의"
+  },
   "rs_top5": [
     {
       "code": "SNDK",
