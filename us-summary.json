@@ -1,24 +1,24 @@
 {
-  "as_of": "2026-07-21",
+  "as_of": "2026-07-22",
   "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
   "regime_tone": "risk_on",
   "oscillator": {
     "level": "탐욕",
-    "stance": "우호",
-    "label": "탐욕 · 공포 진정·반등 초입 → 눌림 매수 유효 (F&G 0.68, osc -0.000 ↑)"
+    "stance": "신중",
+    "label": "탐욕 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.68, osc -0.000 ↓)"
   },
-  "sector_leaders": "반도체(83) · 바이오(74) · Information Technology(62) · 에너지 E&P(60)",
+  "sector_leaders": "반도체(83) · 바이오(70) · 에너지 E&P(63) · Information Technology(62)",
   "peakout": {
     "date": "2026-07-22",
     "n": 40,
-    "breadth_score": 51.0,
-    "above_ma20": 18.0,
+    "breadth_score": 51.2,
+    "above_ma20": 20.0,
     "above_ma60": 38.0,
     "above_ma200": 98.0,
-    "slope_5d": -18.6,
-    "slope_10d": -22.5,
+    "slope_5d": -18.4,
+    "slope_10d": -22.3,
     "falling_days_10d": 10,
-    "breadth_from_20d_high": -41.0,
+    "breadth_from_20d_high": -40.8,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "주의",
@@ -500,18 +500,23 @@
         "b": 52.7
       },
       {
-        "i": 629.13,
-        "b": 51.0
+        "i": 630.59,
+        "b": 51.2
       }
     ]
   },
   "exposure": {
-    "max_pct": 75,
+    "max_pct": 60,
     "margin_ok": false,
     "note": "주도주 둔화 — 비중 축소·신용 금지",
     "risk_level": "주의"
   },
   "rs_top5": [
+    {
+      "code": "DELL",
+      "name": "Dell Technologies",
+      "sector": "Information Technology"
+    },
     {
       "code": "SNDK",
       "name": "Sandisk",
@@ -520,11 +525,6 @@
     {
       "code": "MU",
       "name": "Micron Technology",
-      "sector": "Information Technology"
-    },
-    {
-      "code": "DELL",
-      "name": "Dell Technologies",
       "sector": "Information Technology"
     },
     {

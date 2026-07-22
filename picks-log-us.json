@@ -125,7 +125,8 @@
           "sector": "Information Technology",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 112.18
+          "close": 112.18,
+          "ret_d1": 0.03
         },
         {
           "code": "DELL",
@@ -134,7 +135,8 @@
           "sector": "Information Technology",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 404.15
+          "close": 404.15,
+          "ret_d1": 9.32
         },
         {
           "code": "DAL",
@@ -143,7 +145,8 @@
           "sector": "Industrials",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 84.63
+          "close": 84.63,
+          "ret_d1": -1.31
         },
         {
           "code": "GEV",
@@ -152,7 +155,8 @@
           "sector": "Industrials",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1078.81
+          "close": 1078.81,
+          "ret_d1": -8.69
         },
         {
           "code": "ASML",
@@ -161,7 +165,8 @@
           "sector": "",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 1801.51
+          "close": 1801.51,
+          "ret_d1": 0.02
         },
         {
           "code": "CRWD",
@@ -170,7 +175,8 @@
           "sector": "Information Technology",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 191.15
+          "close": 191.15,
+          "ret_d1": -1.43
         },
         {
           "code": "BEN",
@@ -179,7 +185,8 @@
           "sector": "Financials",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 32.63
+          "close": 32.63,
+          "ret_d1": -0.77
         },
         {
           "code": "MGM",
@@ -188,7 +195,8 @@
           "sector": "Consumer Discretionary",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 45.67
+          "close": 45.67,
+          "ret_d1": -0.39
         },
         {
           "code": "AMD",
@@ -197,7 +205,8 @@
           "sector": "Information Technology",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 544.43
+          "close": 544.43,
+          "ret_d1": 1.45
         },
         {
           "code": "TXN",
@@ -206,7 +215,103 @@
           "sector": "Information Technology",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 291.3
+          "close": 291.3,
+          "ret_d1": 0.99
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "picks": [
+        {
+          "code": "DAL",
+          "name": "Delta Air Lines",
+          "market": "US",
+          "sector": "Industrials",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 83.52
+        },
+        {
+          "code": "CSCO",
+          "name": "Cisco",
+          "market": "US",
+          "sector": "Information Technology",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 112.21
+        },
+        {
+          "code": "FFIV",
+          "name": "F5, Inc.",
+          "market": "US",
+          "sector": "Information Technology",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 400.61
+        },
+        {
+          "code": "ASML",
+          "name": "ASML",
+          "market": "US",
+          "sector": "",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1801.86
+        },
+        {
+          "code": "DDOG",
+          "name": "Datadog",
+          "market": "US",
+          "sector": "Information Technology",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 245.77
+        },
+        {
+          "code": "MGM",
+          "name": "MGM Resorts",
+          "market": "US",
+          "sector": "Consumer Discretionary",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 45.49
+        },
+        {
+          "code": "BEN",
+          "name": "Franklin Resources",
+          "market": "US",
+          "sector": "Financials",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 32.38
+        },
+        {
+          "code": "CRWD",
+          "name": "CrowdStrike",
+          "market": "US",
+          "sector": "Information Technology",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 188.42
+        },
+        {
+          "code": "FTNT",
+          "name": "Fortinet",
+          "market": "US",
+          "sector": "Information Technology",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 155.05
+        },
+        {
+          "code": "TXN",
+          "name": "Texas Instruments",
+          "market": "US",
+          "sector": "Information Technology",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 294.19
         }
       ]
     }
