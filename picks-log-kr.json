@@ -215,7 +215,8 @@
           "sector": "화학",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 12600.0
+          "close": 12600.0,
+          "ret_d1": 7.86
         },
         {
           "code": "006340",
@@ -224,7 +225,8 @@
           "sector": "전기장비",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 11840.0
+          "close": 11840.0,
+          "ret_d1": 4.98
         },
         {
           "code": "003060",
@@ -233,7 +235,8 @@
           "sector": "제약",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 1980.0
+          "close": 1980.0,
+          "ret_d1": 0.15
         },
         {
           "code": "007460",
@@ -242,7 +245,8 @@
           "sector": "제약",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 2175.0
+          "close": 2175.0,
+          "ret_d1": -1.38
         },
         {
           "code": "281820",
@@ -251,7 +255,8 @@
           "sector": "반도체와반도체장비",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 100300.0
+          "close": 100300.0,
+          "ret_d1": -12.26
         },
         {
           "code": "402340",
@@ -260,7 +265,8 @@
           "sector": "반도체와반도체장비",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 1253000.0
+          "close": 1253000.0,
+          "ret_d1": -1.84
         },
         {
           "code": "475150",
@@ -269,7 +275,8 @@
           "sector": "에너지장비및서비스",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 55900.0
+          "close": 55900.0,
+          "ret_d1": 13.24
         },
         {
           "code": "034730",
@@ -278,7 +285,8 @@
           "sector": "석유와가스",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 596000.0
+          "close": 596000.0,
+          "ret_d1": 5.03
         },
         {
           "code": "161890",
@@ -287,7 +295,8 @@
           "sector": "화장품",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 101700.0
+          "close": 101700.0,
+          "ret_d1": -2.75
         },
         {
           "code": "009150",
@@ -296,7 +305,8 @@
           "sector": "전자장비와기기",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 1310000.0
+          "close": 1310000.0,
+          "ret_d1": 3.36
         },
         {
           "code": "101160",
@@ -305,7 +315,8 @@
           "sector": "반도체와반도체장비",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 29450.0
+          "close": 29450.0,
+          "ret_d1": 1.19
         },
         {
           "code": "053060",
@@ -314,7 +325,8 @@
           "sector": "자동차부품",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1411.0
+          "close": 1411.0,
+          "ret_d1": -0.57
         },
         {
           "code": "137080",
@@ -323,7 +335,8 @@
           "sector": "디스플레이장비및부품",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 5290.0
+          "close": 5290.0,
+          "ret_d1": -2.65
         },
         {
           "code": "036800",
@@ -332,7 +345,8 @@
           "sector": "상업서비스와공급품",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 29000.0
+          "close": 29000.0,
+          "ret_d1": 0.17
         },
         {
           "code": "212560",
@@ -341,7 +355,8 @@
           "sector": "자동차부품",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 10560.0
+          "close": 10560.0,
+          "ret_d1": 6.06
         },
         {
           "code": "017890",
@@ -350,7 +365,8 @@
           "sector": "화학",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 13170.0
+          "close": 13170.0,
+          "ret_d1": 0.0
         },
         {
           "code": "007390",
@@ -359,7 +375,8 @@
           "sector": "생물공학",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 24750.0
+          "close": 24750.0,
+          "ret_d1": -8.18
         },
         {
           "code": "102370",
@@ -368,7 +385,8 @@
           "sector": "판매업체",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 3020.0
+          "close": 3020.0,
+          "ret_d1": 1.66
         },
         {
           "code": "214260",
@@ -377,7 +395,8 @@
           "sector": "화장품",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 8550.0
+          "close": 8550.0,
+          "ret_d1": 6.78
         },
         {
           "code": "058450",
@@ -386,7 +405,193 @@
           "sector": "방송과엔터테인먼트",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 4615.0
+          "close": 4615.0,
+          "ret_d1": -5.42
+        }
+      ]
+    },
+    {
+      "date": "2026-07-22",
+      "picks": [
+        {
+          "code": "006340",
+          "name": "대원전선",
+          "market": "KOSPI",
+          "sector": "전기장비",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 12370.0
+        },
+        {
+          "code": "003060",
+          "name": "에이프로젠바이오로직스",
+          "market": "KOSPI",
+          "sector": "제약",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 1988.0
+        },
+        {
+          "code": "007460",
+          "name": "에이프로젠",
+          "market": "KOSPI",
+          "sector": "제약",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 2145.0
+        },
+        {
+          "code": "034730",
+          "name": "SK",
+          "market": "KOSPI",
+          "sector": "석유와가스",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 626000.0
+        },
+        {
+          "code": "066570",
+          "name": "LG전자",
+          "market": "KOSPI",
+          "sector": "전자제품",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 183300.0
+        },
+        {
+          "code": "000500",
+          "name": "가온전선",
+          "market": "KOSPI",
+          "sector": "전기장비",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 212000.0
+        },
+        {
+          "code": "005950",
+          "name": "이수화학",
+          "market": "KOSPI",
+          "sector": "화학",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 13590.0
+        },
+        {
+          "code": "009150",
+          "name": "삼성전기",
+          "market": "KOSPI",
+          "sector": "전자장비와기기",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 1351000.0
+        },
+        {
+          "code": "402340",
+          "name": "SK스퀘어",
+          "market": "KOSPI",
+          "sector": "반도체와반도체장비",
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 1228000.0
+        },
+        {
+          "code": "010950",
+          "name": "S-Oil",
+          "market": "KOSPI",
+          "sector": "석유와가스",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 142100.0
+        },
+        {
+          "code": "053060",
+          "name": "세동",
+          "market": "KOSDAQ",
+          "sector": "자동차부품",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 1403.0
+        },
+        {
+          "code": "036800",
+          "name": "나이스정보통신",
+          "market": "KOSDAQ",
+          "sector": "상업서비스와공급품",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 29000.0
+        },
+        {
+          "code": "101160",
+          "name": "월덱스",
+          "market": "KOSDAQ",
+          "sector": "반도체와반도체장비",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 29750.0
+        },
+        {
+          "code": "252990",
+          "name": "샘씨엔에스",
+          "market": "KOSDAQ",
+          "sector": "반도체와반도체장비",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 13770.0
+        },
+        {
+          "code": "017890",
+          "name": "한국알콜",
+          "market": "KOSDAQ",
+          "sector": "화학",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 13170.0
+        },
+        {
+          "code": "214450",
+          "name": "파마리서치",
+          "market": "KOSDAQ",
+          "sector": "건강관리장비와용품",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 325500.0
+        },
+        {
+          "code": "170920",
+          "name": "엘티씨",
+          "market": "KOSDAQ",
+          "sector": "반도체와반도체장비",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 48250.0
+        },
+        {
+          "code": "092730",
+          "name": "네오팜",
+          "market": "KOSDAQ",
+          "sector": "화장품",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 18640.0
+        },
+        {
+          "code": "204610",
+          "name": "티쓰리",
+          "market": "KOSDAQ",
+          "sector": "게임엔터테인먼트",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 2865.0
+        },
+        {
+          "code": "078130",
+          "name": "국일제지",
+          "market": "KOSDAQ",
+          "sector": "종이와목재",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 4015.0
         }
       ]
     }
