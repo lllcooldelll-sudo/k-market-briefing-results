@@ -11,14 +11,14 @@
   "peakout": {
     "date": "2026-07-22",
     "n": 40,
-    "breadth_score": 51.4,
-    "above_ma20": 20.0,
+    "breadth_score": 51.2,
+    "above_ma20": 18.0,
     "above_ma60": 40.0,
     "above_ma200": 98.0,
-    "slope_5d": -18.2,
-    "slope_10d": -22.1,
+    "slope_5d": -18.3,
+    "slope_10d": -22.2,
     "falling_days_10d": 10,
-    "breadth_from_20d_high": -40.6,
+    "breadth_from_20d_high": -40.7,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "주의",
@@ -500,8 +500,8 @@
         "b": 52.7
       },
       {
-        "i": 631.84,
-        "b": 51.4
+        "i": 628.35,
+        "b": 51.2
       }
     ]
   },
