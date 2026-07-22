@@ -1,6 +1,191 @@
 {
   "entries": [
     {
+      "date": "2026-07-20",
+      "picks": [
+        {
+          "code": "483650",
+          "name": "달바글로벌",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 217000.0
+        },
+        {
+          "code": "003060",
+          "name": "에이프로젠바이오로직스",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 1981.0
+        },
+        {
+          "code": "105560",
+          "name": "KB금융",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 168800.0
+        },
+        {
+          "code": "007460",
+          "name": "에이프로젠",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 2185.0
+        },
+        {
+          "code": "005950",
+          "name": "이수화학",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 12150.0
+        },
+        {
+          "code": "475150",
+          "name": "SK이터닉스",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 55900.0
+        },
+        {
+          "code": "000400",
+          "name": "롯데손해보험",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 2380.0
+        },
+        {
+          "code": "004430",
+          "name": "송원산업",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 11880.0
+        },
+        {
+          "code": "005430",
+          "name": "한국공항",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 82400.0
+        },
+        {
+          "code": "161890",
+          "name": "한국콜마",
+          "market": "KOSPI",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 99500.0
+        },
+        {
+          "code": "101160",
+          "name": "월덱스",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 29450.0
+        },
+        {
+          "code": "017890",
+          "name": "한국알콜",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 13020.0
+        },
+        {
+          "code": "053060",
+          "name": "세동",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 1413.0
+        },
+        {
+          "code": "053160",
+          "name": "프리엠스",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 8900.0
+        },
+        {
+          "code": "036800",
+          "name": "나이스정보통신",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 28400.0
+        },
+        {
+          "code": "212560",
+          "name": "네오오토",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 10660.0
+        },
+        {
+          "code": "368970",
+          "name": "오에스피",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 2280.0
+        },
+        {
+          "code": "192440",
+          "name": "슈피겐코리아",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 28750.0
+        },
+        {
+          "code": "241710",
+          "name": "코스메카코리아",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 77500.0
+        },
+        {
+          "code": "481070",
+          "name": "에이유브랜즈",
+          "market": "KOSDAQ",
+          "sector": "",
+          "status": "(백필)",
+          "rank": 2,
+          "close": 15540.0
+        }
+      ]
+    },
+    {
       "date": "2026-07-21",
       "picks": [
         {
