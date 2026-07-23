@@ -666,7 +666,7 @@
           "type": "추격주의",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 2295.0
+          "close": 2310.0
         },
         {
           "code": "000500",
@@ -686,17 +686,17 @@
           "type": "눌림",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 186300.0
+          "close": 187500.0
         },
         {
-          "code": "281820",
-          "name": "케이씨텍",
+          "code": "034730",
+          "name": "SK",
           "market": "KOSPI",
-          "sector": "반도체와반도체장비",
+          "sector": "석유와가스",
           "type": "눌림",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 85300.0
+          "close": 655000.0
         },
         {
           "code": "000660",
@@ -706,7 +706,7 @@
           "type": "눌림",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 1902000.0
+          "close": 1919000.0
         },
         {
           "code": "402340",
@@ -716,7 +716,17 @@
           "type": "눌림",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 1218000.0
+          "close": 1221000.0
+        },
+        {
+          "code": "281820",
+          "name": "케이씨텍",
+          "market": "KOSPI",
+          "sector": "반도체와반도체장비",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 86100.0
         },
         {
           "code": "003060",
@@ -726,7 +736,7 @@
           "type": "추격주의",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 2100.0
+          "close": 2090.0
         },
         {
           "code": "009150",
@@ -736,7 +746,7 @@
           "type": "추격주의",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 1450000.0
+          "close": 1448000.0
         },
         {
           "code": "011070",
@@ -746,17 +756,7 @@
           "type": "눌림",
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 678000.0
-        },
-        {
-          "code": "004170",
-          "name": "신세계",
-          "market": "KOSPI",
-          "sector": "백화점과일반상점",
-          "type": "눌림",
-          "status": "추세 훼손 주의",
-          "rank": 0,
-          "close": 542000.0
+          "close": 679000.0
         },
         {
           "code": "204610",
@@ -769,16 +769,6 @@
           "close": 2915.0
         },
         {
-          "code": "275630",
-          "name": "에스에스알",
-          "market": "KOSDAQ",
-          "sector": "소프트웨어",
-          "type": "강세지속",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 3830.0
-        },
-        {
           "code": "036800",
           "name": "나이스정보통신",
           "market": "KOSDAQ",
@@ -786,17 +776,7 @@
           "type": "강세지속",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 29850.0
-        },
-        {
-          "code": "101160",
-          "name": "월덱스",
-          "market": "KOSDAQ",
-          "sector": "반도체와반도체장비",
-          "type": "강세지속",
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 30300.0
+          "close": 29800.0
         },
         {
           "code": "065060",
@@ -806,7 +786,7 @@
           "type": "강세지속",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 3180.0
+          "close": 3170.0
         },
         {
           "code": "439090",
@@ -816,27 +796,17 @@
           "type": "강세지속",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 16370.0
+          "close": 16340.0
         },
         {
-          "code": "089140",
-          "name": "넥스턴앤롤코리아",
+          "code": "101160",
+          "name": "월덱스",
           "market": "KOSDAQ",
-          "sector": "기계",
-          "type": "눌림",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 2300.0
-        },
-        {
-          "code": "031510",
-          "name": "오스템",
-          "market": "KOSDAQ",
-          "sector": "자동차부품",
+          "sector": "반도체와반도체장비",
           "type": "강세지속",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 1115.0
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 30400.0
         },
         {
           "code": "252990",
@@ -846,17 +816,47 @@
           "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 14200.0
+          "close": 14040.0
         },
         {
-          "code": "160980",
-          "name": "싸이맥스",
+          "code": "137080",
+          "name": "나래나노텍",
           "market": "KOSDAQ",
-          "sector": "반도체와반도체장비",
+          "sector": "디스플레이장비및부품",
+          "type": "눌림",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 5230.0
+        },
+        {
+          "code": "053060",
+          "name": "세동",
+          "market": "KOSDAQ",
+          "sector": "자동차부품",
+          "type": "눌림",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 1364.0
+        },
+        {
+          "code": "089140",
+          "name": "넥스턴앤롤코리아",
+          "market": "KOSDAQ",
+          "sector": "기계",
           "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 36650.0
+          "close": 2305.0
+        },
+        {
+          "code": "096530",
+          "name": "씨젠",
+          "market": "KOSDAQ",
+          "sector": "생명과학도구및서비스",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 27550.0
         }
       ]
     }
