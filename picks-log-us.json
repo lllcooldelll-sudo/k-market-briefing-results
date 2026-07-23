@@ -228,6 +228,7 @@
           "name": "Delta Air Lines",
           "market": "US",
           "sector": "Industrials",
+          "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 83.52
@@ -237,6 +238,7 @@
           "name": "Cisco",
           "market": "US",
           "sector": "Information Technology",
+          "type": "눌림",
           "status": "초기 반등 관찰",
           "rank": 3,
           "close": 112.21
@@ -246,6 +248,7 @@
           "name": "F5, Inc.",
           "market": "US",
           "sector": "Information Technology",
+          "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 400.61
@@ -255,15 +258,27 @@
           "name": "ASML",
           "market": "US",
           "sector": "",
+          "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 1801.86
+        },
+        {
+          "code": "AMD",
+          "name": "Advanced Micro Devices",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "강세지속",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 552.33
         },
         {
           "code": "DDOG",
           "name": "Datadog",
           "market": "US",
           "sector": "Information Technology",
+          "type": "눌림",
           "status": "조건 혼합",
           "rank": 1,
           "close": 245.77
@@ -273,6 +288,7 @@
           "name": "MGM Resorts",
           "market": "US",
           "sector": "Consumer Discretionary",
+          "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 45.49
@@ -282,6 +298,7 @@
           "name": "Franklin Resources",
           "market": "US",
           "sector": "Financials",
+          "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 32.38
@@ -291,27 +308,20 @@
           "name": "CrowdStrike",
           "market": "US",
           "sector": "Information Technology",
+          "type": "눌림",
           "status": "조건 혼합",
           "rank": 1,
           "close": 188.42
         },
         {
-          "code": "FTNT",
-          "name": "Fortinet",
+          "code": "NTAP",
+          "name": "NetApp",
           "market": "US",
           "sector": "Information Technology",
+          "type": "강세지속",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 155.05
-        },
-        {
-          "code": "TXN",
-          "name": "Texas Instruments",
-          "market": "US",
-          "sector": "Information Technology",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 294.19
+          "close": 166.54
         }
       ]
     }
