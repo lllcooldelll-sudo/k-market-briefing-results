@@ -12,7 +12,8 @@
           "close": 503.57,
           "realized_next_return": 8.11,
           "won": true,
-          "ret_d1": 8.11
+          "ret_d1": 8.11,
+          "ret_d3": 7.17
         },
         {
           "code": "HPE",
@@ -23,7 +24,8 @@
           "close": 44.56,
           "realized_next_return": 4.85,
           "won": true,
-          "ret_d1": 4.85
+          "ret_d1": 4.85,
+          "ret_d3": 6.91
         },
         {
           "code": "CSCO",
@@ -34,7 +36,8 @@
           "close": 110.7,
           "realized_next_return": 1.34,
           "won": true,
-          "ret_d1": 1.34
+          "ret_d1": 1.34,
+          "ret_d3": 1.86
         },
         {
           "code": "DAL",
@@ -45,7 +48,8 @@
           "close": 84.54,
           "realized_next_return": 0.11,
           "won": true,
-          "ret_d1": 0.11
+          "ret_d1": 0.11,
+          "ret_d3": -3.04
         },
         {
           "code": "ASML",
@@ -56,7 +60,8 @@
           "close": 1739.02,
           "realized_next_return": 3.59,
           "won": true,
-          "ret_d1": 3.59
+          "ret_d1": 3.59,
+          "ret_d3": 3.68
         },
         {
           "code": "GEV",
@@ -67,7 +72,8 @@
           "close": 1079.18,
           "realized_next_return": -0.03,
           "won": false,
-          "ret_d1": -0.03
+          "ret_d1": -0.03,
+          "ret_d3": -4.45
         },
         {
           "code": "BEN",
@@ -78,7 +84,8 @@
           "close": 32.23,
           "realized_next_return": 1.24,
           "won": true,
-          "ret_d1": 1.24
+          "ret_d1": 1.24,
+          "ret_d3": 0.19
         },
         {
           "code": "GS",
@@ -89,7 +96,8 @@
           "close": 1055.03,
           "realized_next_return": 2.89,
           "won": true,
-          "ret_d1": 2.89
+          "ret_d1": 2.89,
+          "ret_d3": 1.87
         },
         {
           "code": "IBKR",
@@ -100,7 +108,8 @@
           "close": 91.68,
           "realized_next_return": 2.99,
           "won": true,
-          "ret_d1": 2.99
+          "ret_d1": 2.99,
+          "ret_d3": 0.09
         },
         {
           "code": "NTAP",
@@ -111,7 +120,8 @@
           "close": 161.16,
           "realized_next_return": 2.85,
           "won": true,
-          "ret_d1": 2.85
+          "ret_d1": 2.85,
+          "ret_d3": 2.16
         }
       ]
     },
@@ -231,7 +241,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 83.52
+          "close": 83.52,
+          "ret_d1": -1.86
         },
         {
           "code": "CSCO",
@@ -241,7 +252,8 @@
           "type": "눌림",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 112.21
+          "close": 112.21,
+          "ret_d1": 0.49
         },
         {
           "code": "FFIV",
@@ -251,7 +263,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 400.61
+          "close": 400.61,
+          "ret_d1": -3.13
         },
         {
           "code": "ASML",
@@ -261,7 +274,8 @@
           "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 1801.86
+          "close": 1801.86,
+          "ret_d1": 0.06
         },
         {
           "code": "AMD",
@@ -271,7 +285,8 @@
           "type": "강세지속",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 552.33
+          "close": 552.33,
+          "ret_d1": -2.29
         },
         {
           "code": "DDOG",
@@ -281,7 +296,8 @@
           "type": "눌림",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 245.77
+          "close": 245.77,
+          "ret_d1": -0.56
         },
         {
           "code": "MGM",
@@ -291,7 +307,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 45.49
+          "close": 45.49,
+          "ret_d1": -1.1
         },
         {
           "code": "BEN",
@@ -301,7 +318,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 32.38
+          "close": 32.38,
+          "ret_d1": -0.28
         },
         {
           "code": "CRWD",
@@ -311,7 +329,8 @@
           "type": "눌림",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 188.42
+          "close": 188.42,
+          "ret_d1": -2.65
         },
         {
           "code": "NTAP",
@@ -321,7 +340,113 @@
           "type": "강세지속",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 166.54
+          "close": 166.54,
+          "ret_d1": -1.14
+        }
+      ]
+    },
+    {
+      "date": "2026-07-23",
+      "picks": [
+        {
+          "code": "CNC",
+          "name": "Centene Corporation",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 63.74
+        },
+        {
+          "code": "STX",
+          "name": "Seagate Technology",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 913.36
+        },
+        {
+          "code": "FFIV",
+          "name": "F5, Inc.",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 388.08
+        },
+        {
+          "code": "AMD",
+          "name": "Advanced Micro Devices",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "강세지속",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 539.69
+        },
+        {
+          "code": "DDOG",
+          "name": "Datadog",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 244.39
+        },
+        {
+          "code": "MGM",
+          "name": "MGM Resorts",
+          "market": "US",
+          "sector": "Consumer Discretionary",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 44.99
+        },
+        {
+          "code": "DAL",
+          "name": "Delta Air Lines",
+          "market": "US",
+          "sector": "Industrials",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 81.97
+        },
+        {
+          "code": "CSCO",
+          "name": "Cisco",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 112.76
+        },
+        {
+          "code": "ASML",
+          "name": "ASML",
+          "market": "US",
+          "sector": "",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1803.0
+        },
+        {
+          "code": "FTNT",
+          "name": "Fortinet",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 151.54
         }
       ]
     }

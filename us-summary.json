@@ -1,36 +1,28 @@
 {
-  "as_of": "2026-07-22",
-  "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
-  "regime_tone": "risk_on",
+  "as_of": "2026-07-23",
+  "regime": "혼조 — 선별 접근 (벤치마크가 MA50·MA200 사이)",
+  "regime_tone": "mixed",
   "oscillator": {
     "level": "탐욕",
     "stance": "신중",
-    "label": "탐욕 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.68, osc -0.000 ↓)"
+    "label": "탐욕 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.62, osc -0.004 ↓)"
   },
-  "sector_leaders": "반도체(83) · 바이오(70) · 에너지 E&P(63) · Information Technology(62)",
+  "sector_leaders": "반도체(84) · 바이오(73) · 에너지 E&P(64) · Information Technology(62)",
   "peakout": {
-    "date": "2026-07-22",
+    "date": "2026-07-24",
     "n": 40,
-    "breadth_score": 51.2,
-    "above_ma20": 20.0,
-    "above_ma60": 38.0,
-    "above_ma200": 98.0,
-    "slope_5d": -18.4,
-    "slope_10d": -22.3,
-    "falling_days_10d": 10,
-    "breadth_from_20d_high": -40.8,
+    "breadth_score": 54.8,
+    "above_ma20": 25.0,
+    "above_ma60": 35.0,
+    "above_ma200": 95.0,
+    "slope_5d": -4.4,
+    "slope_10d": -18.4,
+    "falling_days_10d": 8,
+    "breadth_from_20d_high": -33.1,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "주의",
     "series": [
-      {
-        "i": 315.91,
-        "b": 69.5
-      },
-      {
-        "i": 332.0,
-        "b": 69.7
-      },
       {
         "i": 340.25,
         "b": 70.6
@@ -502,6 +494,14 @@
       {
         "i": 630.59,
         "b": 51.2
+      },
+      {
+        "i": 636.94,
+        "b": 52.6
+      },
+      {
+        "i": 630.22,
+        "b": 54.8
       }
     ]
   },
@@ -513,13 +513,13 @@
   },
   "rs_top5": [
     {
-      "code": "DELL",
-      "name": "Dell Technologies",
+      "code": "SNDK",
+      "name": "Sandisk",
       "sector": "Information Technology"
     },
     {
-      "code": "SNDK",
-      "name": "Sandisk",
+      "code": "DELL",
+      "name": "Dell Technologies",
       "sector": "Information Technology"
     },
     {
@@ -528,13 +528,13 @@
       "sector": "Information Technology"
     },
     {
-      "code": "AMD",
-      "name": "Advanced Micro Devices",
+      "code": "STX",
+      "name": "Seagate Technology",
       "sector": "Information Technology"
     },
     {
-      "code": "STX",
-      "name": "Seagate Technology",
+      "code": "AMD",
+      "name": "Advanced Micro Devices",
       "sector": "Information Technology"
     }
   ],
