@@ -1441,27 +1441,7 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 79000.0
-        },
-        {
-          "code": "044820",
-          "name": "코스맥스비티아이",
-          "market": "KOSPI",
-          "sector": "건강관리업체및서비스",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 19020.0
-        },
-        {
-          "code": "244920",
-          "name": "에이플러스에셋",
-          "market": "KOSPI",
-          "sector": "손해보험",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 10850.0
+          "close": 79600.0
         },
         {
           "code": "105560",
@@ -1471,27 +1451,7 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 164100.0
-        },
-        {
-          "code": "055550",
-          "name": "신한지주",
-          "market": "KOSPI",
-          "sector": "은행",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 100300.0
-        },
-        {
-          "code": "006340",
-          "name": "대원전선",
-          "market": "KOSPI",
-          "sector": "전기장비",
-          "type": "강세지속",
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 13590.0
+          "close": 165200.0
         },
         {
           "code": "086790",
@@ -1501,27 +1461,37 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 122100.0
+          "close": 123000.0
         },
         {
-          "code": "004430",
-          "name": "송원산업",
+          "code": "244920",
+          "name": "에이플러스에셋",
           "market": "KOSPI",
-          "sector": "화학",
+          "sector": "손해보험",
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 12080.0
+          "close": 10960.0
         },
         {
-          "code": "069730",
-          "name": "DSR제강",
+          "code": "055550",
+          "name": "신한지주",
           "market": "KOSPI",
-          "sector": "철강",
+          "sector": "은행",
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 5500.0
+          "close": 100900.0
+        },
+        {
+          "code": "006340",
+          "name": "대원전선",
+          "market": "KOSPI",
+          "sector": "전기장비",
+          "type": "강세지속",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 13600.0
         },
         {
           "code": "000810",
@@ -1531,47 +1501,37 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 607000.0
+          "close": 609000.0
         },
         {
-          "code": "008470",
-          "name": "부스타",
-          "market": "KOSDAQ",
-          "sector": "기계",
-          "type": "강세지속",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 1721.0
-        },
-        {
-          "code": "339950",
-          "name": "아이비김영",
-          "market": "KOSDAQ",
-          "sector": "교육서비스",
-          "type": "강세지속",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 2730.0
-        },
-        {
-          "code": "439090",
-          "name": "마녀공장",
-          "market": "KOSDAQ",
-          "sector": "화장품",
+          "code": "161390",
+          "name": "한국타이어앤테크놀로지",
+          "market": "KOSPI",
+          "sector": "자동차부품",
           "type": "눌림",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 15860.0
-        },
-        {
-          "code": "236200",
-          "name": "슈프리마",
-          "market": "KOSDAQ",
-          "sector": "전자장비와기기",
-          "type": "강세지속",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 46650.0
+          "close": 66700.0
+        },
+        {
+          "code": "044820",
+          "name": "코스맥스비티아이",
+          "market": "KOSPI",
+          "sector": "건강관리업체및서비스",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 19630.0
+        },
+        {
+          "code": "155660",
+          "name": "DSR",
+          "market": "KOSPI",
+          "sector": "비철금속",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 4380.0
         },
         {
           "code": "290720",
@@ -1581,7 +1541,67 @@
           "type": "강세지속",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 3055.0
+          "close": 3020.0
+        },
+        {
+          "code": "439090",
+          "name": "마녀공장",
+          "market": "KOSDAQ",
+          "sector": "화장품",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 15830.0
+        },
+        {
+          "code": "053280",
+          "name": "예스24",
+          "market": "KOSDAQ",
+          "sector": "인터넷과카탈로그소매",
+          "type": "강세지속",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 3160.0
+        },
+        {
+          "code": "008470",
+          "name": "부스타",
+          "market": "KOSDAQ",
+          "sector": "기계",
+          "type": "강세지속",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 1746.0
+        },
+        {
+          "code": "069330",
+          "name": "유아이디",
+          "market": "KOSDAQ",
+          "sector": "디스플레이장비및부품",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 1058.0
+        },
+        {
+          "code": "236200",
+          "name": "슈프리마",
+          "market": "KOSDAQ",
+          "sector": "전자장비와기기",
+          "type": "강세지속",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 46900.0
+        },
+        {
+          "code": "368970",
+          "name": "오에스피",
+          "market": "KOSDAQ",
+          "sector": "식품",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 2260.0
         },
         {
           "code": "340570",
@@ -1591,37 +1611,7 @@
           "type": "강세지속",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 57100.0
-        },
-        {
-          "code": "101160",
-          "name": "월덱스",
-          "market": "KOSDAQ",
-          "sector": "반도체와반도체장비",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 28850.0
-        },
-        {
-          "code": "017890",
-          "name": "한국알콜",
-          "market": "KOSDAQ",
-          "sector": "화학",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 13070.0
-        },
-        {
-          "code": "143240",
-          "name": "사람인",
-          "market": "KOSDAQ",
-          "sector": "상업서비스와공급품",
-          "type": "강세지속",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 16170.0
+          "close": 57200.0
         },
         {
           "code": "001540",
@@ -1631,7 +1621,17 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 10490.0
+          "close": 10540.0
+        },
+        {
+          "code": "197140",
+          "name": "디지캡",
+          "market": "KOSDAQ",
+          "sector": "소프트웨어",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 2025.0
         }
       ]
     }
