@@ -1969,9 +1969,9 @@
           "market": "KOSPI",
           "sector": "은행",
           "type": "눌림",
-          "status": "초기 반등 관찰",
-          "rank": 3,
-          "close": 166500.0
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 167400.0
         },
         {
           "code": "086790",
@@ -1981,7 +1981,7 @@
           "type": "눌림",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 124700.0
+          "close": 124600.0
         },
         {
           "code": "055550",
@@ -1991,37 +1991,7 @@
           "type": "눌림",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 100300.0
-        },
-        {
-          "code": "244920",
-          "name": "에이플러스에셋",
-          "market": "KOSPI",
-          "sector": "손해보험",
-          "type": "강세지속",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 11280.0
-        },
-        {
-          "code": "004430",
-          "name": "송원산업",
-          "market": "KOSPI",
-          "sector": "화학",
-          "type": "눌림",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 11510.0
-        },
-        {
-          "code": "069730",
-          "name": "DSR제강",
-          "market": "KOSPI",
-          "sector": "철강",
-          "type": "눌림",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 5310.0
+          "close": 100800.0
         },
         {
           "code": "044820",
@@ -2031,17 +2001,7 @@
           "type": "눌림",
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 19510.0
-        },
-        {
-          "code": "084870",
-          "name": "TBH글로벌",
-          "market": "KOSPI",
-          "sector": "섬유,의류,신발,호화품",
-          "type": "눌림",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 1882.0
+          "close": 19420.0
         },
         {
           "code": "415640",
@@ -2051,7 +2011,37 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 10440.0
+          "close": 10350.0
+        },
+        {
+          "code": "069730",
+          "name": "DSR제강",
+          "market": "KOSPI",
+          "sector": "철강",
+          "type": "눌림",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 5280.0
+        },
+        {
+          "code": "004430",
+          "name": "송원산업",
+          "market": "KOSPI",
+          "sector": "화학",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 11480.0
+        },
+        {
+          "code": "084870",
+          "name": "TBH글로벌",
+          "market": "KOSPI",
+          "sector": "섬유,의류,신발,호화품",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1900.0
         },
         {
           "code": "155660",
@@ -2061,7 +2051,27 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 4295.0
+          "close": 4290.0
+        },
+        {
+          "code": "007070",
+          "name": "GS리테일",
+          "market": "KOSPI",
+          "sector": "백화점과일반상점",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 24600.0
+        },
+        {
+          "code": "270870",
+          "name": "뉴트리",
+          "market": "KOSDAQ",
+          "sector": "건강관리업체및서비스",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 4245.0
         },
         {
           "code": "008470",
@@ -2069,39 +2079,9 @@
           "market": "KOSDAQ",
           "sector": "기계",
           "type": "강세지속",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 1720.0
-        },
-        {
-          "code": "148930",
-          "name": "에이치와이티씨",
-          "market": "KOSDAQ",
-          "sector": "전기제품",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 3065.0
-        },
-        {
-          "code": "339950",
-          "name": "아이비김영",
-          "market": "KOSDAQ",
-          "sector": "교육서비스",
-          "type": "강세지속",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 2740.0
-        },
-        {
-          "code": "017890",
-          "name": "한국알콜",
-          "market": "KOSDAQ",
-          "sector": "화학",
-          "type": "눌림",
-          "status": "초기 반등 관찰",
-          "rank": 3,
-          "close": 12930.0
+          "close": 1740.0
         },
         {
           "code": "093190",
@@ -2111,17 +2091,37 @@
           "type": "강세지속",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 8240.0
+          "close": 8210.0
         },
         {
-          "code": "065060",
-          "name": "지엔코",
+          "code": "120240",
+          "name": "대정화금",
           "market": "KOSDAQ",
-          "sector": "섬유,의류,신발,호화품",
+          "sector": "화학",
           "type": "강세지속",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 3210.0
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 14100.0
+        },
+        {
+          "code": "017890",
+          "name": "한국알콜",
+          "market": "KOSDAQ",
+          "sector": "화학",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 12990.0
+        },
+        {
+          "code": "148930",
+          "name": "에이치와이티씨",
+          "market": "KOSDAQ",
+          "sector": "전기제품",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 3050.0
         },
         {
           "code": "197140",
@@ -2129,29 +2129,9 @@
           "market": "KOSDAQ",
           "sector": "소프트웨어",
           "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 2010.0
-        },
-        {
-          "code": "051160",
-          "name": "지어소프트",
-          "market": "KOSDAQ",
-          "sector": "판매업체",
-          "type": "강세지속",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 7390.0
-        },
-        {
-          "code": "290720",
-          "name": "푸드나무",
-          "market": "KOSDAQ",
-          "sector": "식품",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 2925.0
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 2005.0
         },
         {
           "code": "241710",
@@ -2161,7 +2141,27 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 80200.0
+          "close": 80000.0
+        },
+        {
+          "code": "339950",
+          "name": "아이비김영",
+          "market": "KOSDAQ",
+          "sector": "교육서비스",
+          "type": "강세지속",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 2760.0
+        },
+        {
+          "code": "032280",
+          "name": "삼일",
+          "market": "KOSDAQ",
+          "sector": "항공화물운송과물류",
+          "type": "강세지속",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1282.0
         }
       ]
     }
