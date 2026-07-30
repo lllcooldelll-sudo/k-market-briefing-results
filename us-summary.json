@@ -1,32 +1,28 @@
 {
-  "as_of": "2026-07-28",
+  "as_of": "2026-07-29",
   "regime": "혼조 — 선별 접근 (벤치마크가 MA50·MA200 사이)",
   "regime_tone": "mixed",
   "oscillator": {
-    "level": "탐욕",
-    "stance": "우호",
-    "label": "탐욕 · 공포 진정·반등 초입 → 눌림 매수 유효 (F&G 0.63, osc -0.008 ↑)"
+    "level": "중립",
+    "stance": "신중",
+    "label": "중립 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.58, osc -0.010 ↓)"
   },
-  "sector_leaders": "바이오(68) · Health Care(63) · 지역은행(63) · 반도체(61)",
+  "sector_leaders": "바이오(68) · Health Care(65) · 지역은행(64) · 에너지 E&P(62)",
   "peakout": {
-    "date": "2026-07-29",
+    "date": "2026-07-30",
     "n": 40,
-    "breadth_score": 42.0,
+    "breadth_score": 34.4,
     "above_ma20": 0.0,
-    "above_ma60": 5.0,
-    "above_ma200": 85.0,
-    "slope_5d": -9.2,
-    "slope_10d": -27.6,
+    "above_ma60": 0.0,
+    "above_ma200": 78.0,
+    "slope_5d": -18.2,
+    "slope_10d": -30.6,
     "falling_days_10d": 8,
-    "breadth_from_20d_high": -41.5,
+    "breadth_from_20d_high": -47.6,
     "bearish_divergence": false,
     "strong_divergence": false,
-    "risk_level": "위험",
+    "risk_level": "투매 진행",
     "series": [
-      {
-        "i": 330.07,
-        "b": 76.6
-      },
       {
         "i": 329.36,
         "b": 76.0
@@ -500,16 +496,20 @@
         "b": 47.2
       },
       {
-        "i": 498.05,
-        "b": 42.0
+        "i": 469.46,
+        "b": 40.9
+      },
+      {
+        "i": 468.95,
+        "b": 34.4
       }
     ]
   },
   "exposure": {
-    "max_pct": 60,
+    "max_pct": 30,
     "margin_ok": false,
-    "note": "주도주 둔화 — 비중 축소·신용 금지",
-    "risk_level": "위험"
+    "note": "주도주 폭 붕괴 — 현금 비중 확대·신용 금지",
+    "risk_level": "투매 진행"
   },
   "rs_top5": [
     {
@@ -518,19 +518,19 @@
       "sector": "Information Technology"
     },
     {
-      "code": "MU",
-      "name": "Micron Technology",
-      "sector": "Information Technology"
-    },
-    {
-      "code": "HPE",
-      "name": "Hewlett Packard Enterprise",
-      "sector": "Information Technology"
-    },
-    {
       "code": "DDOG",
       "name": "Datadog",
       "sector": "Information Technology"
+    },
+    {
+      "code": "FTNT",
+      "name": "Fortinet",
+      "sector": "Information Technology"
+    },
+    {
+      "code": "DVA",
+      "name": "DaVita",
+      "sector": "Health Care"
     },
     {
       "code": "PANW",
@@ -538,5 +538,5 @@
       "sector": "Information Technology"
     }
   ],
-  "semis_leading": true
+  "semis_leading": false
 }
