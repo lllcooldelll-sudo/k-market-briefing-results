@@ -1,32 +1,28 @@
 {
-  "as_of": "2026-07-29",
+  "as_of": "2026-07-30",
   "regime": "혼조 — 선별 접근 (벤치마크가 MA50·MA200 사이)",
   "regime_tone": "mixed",
   "oscillator": {
-    "level": "중립",
-    "stance": "신중",
-    "label": "중립 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.58, osc -0.010 ↓)"
+    "level": "탐욕",
+    "stance": "우호",
+    "label": "탐욕 · 공포 진정·반등 초입 → 눌림 매수 유효 (F&G 0.68, osc -0.004 ↑)"
   },
-  "sector_leaders": "바이오(68) · Health Care(65) · 지역은행(64) · 에너지 E&P(62)",
+  "sector_leaders": "바이오(70) · 반도체(66) · 에너지 E&P(62) · 클라우드(60)",
   "peakout": {
-    "date": "2026-07-30",
+    "date": "2026-07-31",
     "n": 40,
-    "breadth_score": 34.4,
-    "above_ma20": 0.0,
-    "above_ma60": 0.0,
-    "above_ma200": 78.0,
-    "slope_5d": -18.2,
-    "slope_10d": -30.6,
+    "breadth_score": 33.8,
+    "above_ma20": 10.0,
+    "above_ma60": 8.0,
+    "above_ma200": 85.0,
+    "slope_5d": -18.9,
+    "slope_10d": -25.4,
     "falling_days_10d": 8,
-    "breadth_from_20d_high": -47.6,
+    "breadth_from_20d_high": -46.3,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "투매 진행",
     "series": [
-      {
-        "i": 329.36,
-        "b": 76.0
-      },
       {
         "i": 329.19,
         "b": 75.1
@@ -500,13 +496,17 @@
         "b": 40.9
       },
       {
-        "i": 468.95,
-        "b": 34.4
+        "i": 521.55,
+        "b": 35.8
+      },
+      {
+        "i": 539.58,
+        "b": 33.8
       }
     ]
   },
   "exposure": {
-    "max_pct": 30,
+    "max_pct": 40,
     "margin_ok": false,
     "note": "주도주 폭 붕괴 — 현금 비중 확대·신용 금지",
     "risk_level": "투매 진행"
@@ -518,25 +518,25 @@
       "sector": "Information Technology"
     },
     {
+      "code": "MU",
+      "name": "Micron Technology",
+      "sector": "Information Technology"
+    },
+    {
       "code": "DDOG",
       "name": "Datadog",
       "sector": "Information Technology"
     },
     {
-      "code": "FTNT",
-      "name": "Fortinet",
+      "code": "STX",
+      "name": "Seagate Technology",
       "sector": "Information Technology"
     },
     {
-      "code": "DVA",
-      "name": "DaVita",
-      "sector": "Health Care"
-    },
-    {
-      "code": "PANW",
-      "name": "Palo Alto Networks",
+      "code": "WDC",
+      "name": "Western Digital",
       "sector": "Information Technology"
     }
   ],
-  "semis_leading": false
+  "semis_leading": true
 }

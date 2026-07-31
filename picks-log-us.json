@@ -408,7 +408,8 @@
           "rank": 2,
           "close": 63.74,
           "ret_d1": -0.52,
-          "ret_d3": 0.27
+          "ret_d3": 0.27,
+          "ret_w1": -4.55
         },
         {
           "code": "STX",
@@ -420,7 +421,8 @@
           "rank": 4,
           "close": 913.36,
           "ret_d1": -6.75,
-          "ret_d3": -18.18
+          "ret_d3": -18.18,
+          "ret_w1": -6.75
         },
         {
           "code": "FFIV",
@@ -432,7 +434,8 @@
           "rank": 2,
           "close": 388.08,
           "ret_d1": 1.06,
-          "ret_d3": 3.96
+          "ret_d3": 3.96,
+          "ret_w1": 0.17
         },
         {
           "code": "AMD",
@@ -444,7 +447,8 @@
           "rank": 1,
           "close": 539.69,
           "ret_d1": -3.29,
-          "ret_d3": -15.76
+          "ret_d3": -15.76,
+          "ret_w1": -10.06
         },
         {
           "code": "DDOG",
@@ -456,7 +460,8 @@
           "rank": 1,
           "close": 244.39,
           "ret_d1": 1.01,
-          "ret_d3": 2.66
+          "ret_d3": 2.66,
+          "ret_w1": 9.89
         },
         {
           "code": "MGM",
@@ -468,7 +473,8 @@
           "rank": 2,
           "close": 44.99,
           "ret_d1": 1.22,
-          "ret_d3": 2.69
+          "ret_d3": 2.69,
+          "ret_w1": 1.49
         },
         {
           "code": "DAL",
@@ -480,7 +486,8 @@
           "rank": 1,
           "close": 81.97,
           "ret_d1": 3.77,
-          "ret_d3": 9.03
+          "ret_d3": 9.03,
+          "ret_w1": 8.08
         },
         {
           "code": "CSCO",
@@ -492,7 +499,8 @@
           "rank": 3,
           "close": 112.76,
           "ret_d1": 1.25,
-          "ret_d3": 2.5
+          "ret_d3": 2.5,
+          "ret_w1": 0.71
         },
         {
           "code": "ASML",
@@ -504,7 +512,8 @@
           "rank": 4,
           "close": 1803.0,
           "ret_d1": -2.55,
-          "ret_d3": -12.2
+          "ret_d3": -12.2,
+          "ret_w1": -8.41
         },
         {
           "code": "FTNT",
@@ -516,7 +525,8 @@
           "rank": 1,
           "close": 151.54,
           "ret_d1": 0.55,
-          "ret_d3": -1.03
+          "ret_d3": -1.03,
+          "ret_w1": 1.79
         }
       ]
     },
@@ -657,7 +667,8 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 64.08,
-          "ret_d1": -0.27
+          "ret_d1": -0.27,
+          "ret_d3": -5.06
         },
         {
           "code": "WST",
@@ -668,7 +679,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 331.25,
-          "ret_d1": 1.74
+          "ret_d1": 1.74,
+          "ret_d3": 2.52
         },
         {
           "code": "DELL",
@@ -679,7 +691,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 426.91,
-          "ret_d1": -8.15
+          "ret_d1": -8.15,
+          "ret_d3": -5.18
         },
         {
           "code": "CSCO",
@@ -690,7 +703,8 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 114.57,
-          "ret_d1": 0.88
+          "ret_d1": 0.88,
+          "ret_d3": -0.88
         },
         {
           "code": "FTNT",
@@ -701,7 +715,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 152.38,
-          "ret_d1": -1.58
+          "ret_d1": -1.58,
+          "ret_d3": 1.23
         },
         {
           "code": "PANW",
@@ -712,7 +727,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 317.32,
-          "ret_d1": 0.53
+          "ret_d1": 0.53,
+          "ret_d3": 2.63
         },
         {
           "code": "JBHT",
@@ -723,7 +739,8 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 280.96,
-          "ret_d1": -1.19
+          "ret_d1": -1.19,
+          "ret_d3": -4.18
         },
         {
           "code": "MS",
@@ -734,7 +751,8 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 214.56,
-          "ret_d1": -1.39
+          "ret_d1": -1.39,
+          "ret_d3": -2.1
         },
         {
           "code": "CRWD",
@@ -745,7 +763,8 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 180.11,
-          "ret_d1": 0.94
+          "ret_d1": 0.94,
+          "ret_d3": 2.84
         },
         {
           "code": "DDOG",
@@ -756,7 +775,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 251.86,
-          "ret_d1": -0.39
+          "ret_d1": -0.39,
+          "ret_d3": 6.63
         }
       ]
     },
@@ -886,7 +906,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 44.44
+          "close": 44.44,
+          "ret_d1": 6.08
         },
         {
           "code": "HUM",
@@ -896,7 +917,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 365.41
+          "close": 365.41,
+          "ret_d1": 0.34
         },
         {
           "code": "CNC",
@@ -906,7 +928,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 61.82
+          "close": 61.82,
+          "ret_d1": -1.59
         },
         {
           "code": "WST",
@@ -916,7 +939,8 @@
           "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 337.46
+          "close": 337.46,
+          "ret_d1": 0.63
         },
         {
           "code": "JBHT",
@@ -926,7 +950,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 276.14
+          "close": 276.14,
+          "ret_d1": -2.51
         },
         {
           "code": "NTRS",
@@ -936,7 +961,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 177.65
+          "close": 177.65,
+          "ret_d1": 2.74
         },
         {
           "code": "CRWD",
@@ -946,7 +972,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 179.38
+          "close": 179.38,
+          "ret_d1": 3.26
         },
         {
           "code": "FTNT",
@@ -956,7 +983,8 @@
           "type": "눌림",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 153.22
+          "close": 153.22,
+          "ret_d1": 0.67
         },
         {
           "code": "URI",
@@ -966,7 +994,8 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1055.11
+          "close": 1055.11,
+          "ret_d1": 1.28
         },
         {
           "code": "FFIV",
@@ -976,7 +1005,113 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 386.95
+          "close": 386.95,
+          "ret_d1": 0.47
+        }
+      ]
+    },
+    {
+      "date": "2026-07-30",
+      "picks": [
+        {
+          "code": "HUM",
+          "name": "Humana",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 366.66
+        },
+        {
+          "code": "WST",
+          "name": "West Pharmaceutical Services",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 339.59
+        },
+        {
+          "code": "CRWD",
+          "name": "CrowdStrike",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 185.22
+        },
+        {
+          "code": "CNC",
+          "name": "Centene Corporation",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 60.84
+        },
+        {
+          "code": "PANW",
+          "name": "Palo Alto Networks",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 325.68
+        },
+        {
+          "code": "FFIV",
+          "name": "F5, Inc.",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 388.75
+        },
+        {
+          "code": "JBHT",
+          "name": "J.B. Hunt",
+          "market": "US",
+          "sector": "Industrials",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 269.21
+        },
+        {
+          "code": "IBKR",
+          "name": "Interactive Brokers",
+          "market": "US",
+          "sector": "Financials",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 90.48
+        },
+        {
+          "code": "FTNT",
+          "name": "Fortinet",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 154.25
+        },
+        {
+          "code": "LLY",
+          "name": "Lilly (Eli)",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 1154.97
         }
       ]
     }
