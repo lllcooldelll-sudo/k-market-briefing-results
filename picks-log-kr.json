@@ -2786,7 +2786,17 @@
           "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 11520.0
+          "close": 11500.0
+        },
+        {
+          "code": "000810",
+          "name": "삼성화재",
+          "market": "KOSPI",
+          "sector": "손해보험",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 620000.0
         },
         {
           "code": "001450",
@@ -2796,17 +2806,17 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 36700.0
+          "close": 36800.0
         },
         {
-          "code": "069730",
-          "name": "DSR제강",
+          "code": "002810",
+          "name": "삼영무역",
           "market": "KOSPI",
-          "sector": "철강",
+          "sector": "화학",
           "type": "눌림",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 5410.0
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 21600.0
         },
         {
           "code": "055550",
@@ -2816,27 +2826,7 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 101800.0
-        },
-        {
-          "code": "000810",
-          "name": "삼성화재",
-          "market": "KOSPI",
-          "sector": "손해보험",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 615000.0
-        },
-        {
-          "code": "086790",
-          "name": "하나금융지주",
-          "market": "KOSPI",
-          "sector": "은행",
-          "type": "눌림",
-          "status": "초기 반등 관찰",
-          "rank": 3,
-          "close": 127300.0
+          "close": 102300.0
         },
         {
           "code": "161890",
@@ -2849,24 +2839,24 @@
           "close": 101300.0
         },
         {
-          "code": "002810",
-          "name": "삼영무역",
+          "code": "086790",
+          "name": "하나금융지주",
           "market": "KOSPI",
-          "sector": "화학",
+          "sector": "은행",
           "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 21750.0
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 127600.0
         },
         {
-          "code": "137080",
-          "name": "나래나노텍",
-          "market": "KOSDAQ",
-          "sector": "디스플레이장비및부품",
-          "type": "강세지속",
+          "code": "069730",
+          "name": "DSR제강",
+          "market": "KOSPI",
+          "sector": "철강",
+          "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 5310.0
+          "close": 5490.0
         },
         {
           "code": "019540",
@@ -2874,19 +2864,9 @@
           "market": "KOSDAQ",
           "sector": "자동차부품",
           "type": "강세지속",
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 6390.0
-        },
-        {
-          "code": "001540",
-          "name": "안국약품",
-          "market": "KOSDAQ",
-          "sector": "제약",
-          "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 10980.0
+          "close": 6350.0
         },
         {
           "code": "101160",
@@ -2896,17 +2876,7 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 28800.0
-        },
-        {
-          "code": "053060",
-          "name": "세동",
-          "market": "KOSDAQ",
-          "sector": "자동차부품",
-          "type": "눌림",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 1380.0
+          "close": 28900.0
         },
         {
           "code": "017890",
@@ -2916,7 +2886,17 @@
           "type": "눌림",
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 13120.0
+          "close": 13100.0
+        },
+        {
+          "code": "053060",
+          "name": "세동",
+          "market": "KOSDAQ",
+          "sector": "자동차부품",
+          "type": "눌림",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1381.0
         },
         {
           "code": "069330",
@@ -2924,39 +2904,59 @@
           "market": "KOSDAQ",
           "sector": "디스플레이장비및부품",
           "type": "눌림",
-          "status": "초기 반등 관찰",
-          "rank": 3,
-          "close": 1045.0
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1050.0
         },
         {
-          "code": "290720",
-          "name": "푸드나무",
+          "code": "065690",
+          "name": "파커스",
           "market": "KOSDAQ",
-          "sector": "식품",
-          "type": "눌림",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 2975.0
-        },
-        {
-          "code": "004780",
-          "name": "대륙제관",
-          "market": "KOSDAQ",
-          "sector": "포장재",
+          "sector": "컴퓨터와주변기기",
           "type": "강세지속",
           "status": "조건 혼합",
           "rank": 1,
-          "close": 4040.0
+          "close": 1325.0
         },
         {
-          "code": "033130",
-          "name": "디지틀조선",
+          "code": "093380",
+          "name": "풍강",
           "market": "KOSDAQ",
-          "sector": "IT서비스",
+          "sector": "자동차부품",
+          "type": "눌림",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 2605.0
+        },
+        {
+          "code": "275630",
+          "name": "에스에스알",
+          "market": "KOSDAQ",
+          "sector": "소프트웨어",
+          "type": "강세지속",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 3855.0
+        },
+        {
+          "code": "038540",
+          "name": "상상인",
+          "market": "KOSDAQ",
+          "sector": "기타금융",
+          "type": "강세지속",
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 2035.0
+        },
+        {
+          "code": "137080",
+          "name": "나래나노텍",
+          "market": "KOSDAQ",
+          "sector": "디스플레이장비및부품",
           "type": "눌림",
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 1938.0
+          "close": 5330.0
         }
       ]
     }
