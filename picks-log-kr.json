@@ -3032,7 +3032,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 13290.0
+          "close": 13280.0
         },
         {
           "code": "000810",
@@ -3043,18 +3043,7 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 630000.0
-        },
-        {
-          "code": "161890",
-          "name": "한국콜마",
-          "market": "KOSPI",
-          "sector": "화장품",
-          "type": "눌림",
-          "tier": 1,
-          "status": "초기 반등 관찰",
-          "rank": 3,
-          "close": 101900.0
+          "close": 634000.0
         },
         {
           "code": "483650",
@@ -3065,7 +3054,29 @@
           "tier": 2,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 232500.0
+          "close": 233000.0
+        },
+        {
+          "code": "161890",
+          "name": "한국콜마",
+          "market": "KOSPI",
+          "sector": "화장품",
+          "type": "눌림",
+          "tier": 1,
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 102000.0
+        },
+        {
+          "code": "009150",
+          "name": "삼성전기",
+          "market": "KOSPI",
+          "sector": "전자장비와기기",
+          "type": "추격주의",
+          "tier": 1,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 1354000.0
         },
         {
           "code": "010950",
@@ -3076,7 +3087,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 122400.0
+          "close": 122000.0
         },
         {
           "code": "005930",
@@ -3101,15 +3112,15 @@
           "close": 48900.0
         },
         {
-          "code": "009150",
-          "name": "삼성전기",
+          "code": "005090",
+          "name": "SGC에너지",
           "market": "KOSPI",
-          "sector": "전자장비와기기",
-          "type": "추격주의",
-          "tier": 1,
-          "status": "추세 훼손 주의",
-          "rank": 0,
-          "close": 1339000.0
+          "sector": "에너지장비및서비스",
+          "type": "눌림",
+          "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 51000.0
         },
         {
           "code": "003060",
@@ -3120,18 +3131,7 @@
           "tier": 2,
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 2255.0
-        },
-        {
-          "code": "007460",
-          "name": "에이프로젠",
-          "market": "KOSPI",
-          "sector": "제약",
-          "type": "눌림",
-          "tier": 2,
-          "status": "추세 훼손 주의",
-          "rank": 0,
-          "close": 2645.0
+          "close": 2260.0
         },
         {
           "code": "137080",
@@ -3142,7 +3142,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 5350.0
+          "close": 5330.0
         },
         {
           "code": "004780",
@@ -3161,10 +3161,10 @@
           "market": "KOSDAQ",
           "sector": "제약",
           "type": "눌림",
-          "tier": 1,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 11030.0
+          "tier": 2,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 11020.0
         },
         {
           "code": "101160",
@@ -3175,18 +3175,7 @@
           "tier": 2,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 29200.0
-        },
-        {
-          "code": "290720",
-          "name": "푸드나무",
-          "market": "KOSDAQ",
-          "sector": "식품",
-          "type": "눌림",
-          "tier": 1,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 3000.0
+          "close": 29100.0
         },
         {
           "code": "069330",
@@ -3198,6 +3187,17 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 1059.0
+        },
+        {
+          "code": "290720",
+          "name": "푸드나무",
+          "market": "KOSDAQ",
+          "sector": "식품",
+          "type": "눌림",
+          "tier": 1,
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 2930.0
         },
         {
           "code": "053060",
@@ -3241,7 +3241,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 3695.0
+          "close": 3665.0
         }
       ]
     }
