@@ -3032,7 +3032,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 13260.0
+          "close": 13250.0
         },
         {
           "code": "000810",
@@ -3043,7 +3043,7 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 638000.0
+          "close": 637000.0
         },
         {
           "code": "161890",
@@ -3052,9 +3052,9 @@
           "sector": "화장품",
           "type": "눌림",
           "tier": 1,
-          "status": "초기 반등 관찰",
-          "rank": 3,
-          "close": 102200.0
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 102300.0
         },
         {
           "code": "483650",
@@ -3068,17 +3068,6 @@
           "close": 232000.0
         },
         {
-          "code": "009150",
-          "name": "삼성전기",
-          "market": "KOSPI",
-          "sector": "전자장비와기기",
-          "type": "추격주의",
-          "tier": 1,
-          "status": "추세 훼손 주의",
-          "rank": 0,
-          "close": 1365000.0
-        },
-        {
           "code": "010950",
           "name": "S-Oil",
           "market": "KOSPI",
@@ -3087,29 +3076,29 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 122200.0
+          "close": 122500.0
         },
         {
-          "code": "005930",
-          "name": "삼성전자",
+          "code": "009150",
+          "name": "삼성전기",
           "market": "KOSPI",
-          "sector": "반도체와반도체장비",
-          "type": "눌림",
+          "sector": "전자장비와기기",
+          "type": "추격주의",
           "tier": 1,
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 248500.0
+          "close": 1356000.0
         },
         {
-          "code": "005090",
-          "name": "SGC에너지",
+          "code": "028050",
+          "name": "삼성E&A",
           "market": "KOSPI",
-          "sector": "에너지장비및서비스",
+          "sector": "건설",
           "type": "눌림",
-          "tier": 2,
+          "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 50900.0
+          "close": 49100.0
         },
         {
           "code": "003060",
@@ -3123,48 +3112,26 @@
           "close": 2255.0
         },
         {
-          "code": "028050",
-          "name": "삼성E&A",
+          "code": "079550",
+          "name": "LIG디펜스앤에어로스페이스",
           "market": "KOSPI",
-          "sector": "건설",
+          "sector": "우주항공과국방",
           "type": "눌림",
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 49200.0
+          "close": 798000.0
         },
         {
-          "code": "001540",
-          "name": "안국약품",
-          "market": "KOSDAQ",
-          "sector": "제약",
-          "type": "눌림",
-          "tier": 1,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 10890.0
-        },
-        {
-          "code": "137080",
-          "name": "나래나노텍",
-          "market": "KOSDAQ",
-          "sector": "디스플레이장비및부품",
-          "type": "강세지속",
-          "tier": 1,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 5340.0
-        },
-        {
-          "code": "101160",
-          "name": "월덱스",
-          "market": "KOSDAQ",
+          "code": "005930",
+          "name": "삼성전자",
+          "market": "KOSPI",
           "sector": "반도체와반도체장비",
           "type": "눌림",
           "tier": 1,
-          "status": "초기 반등 관찰",
-          "rank": 3,
-          "close": 29000.0
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 246000.0
         },
         {
           "code": "004780",
@@ -3175,7 +3142,40 @@
           "tier": 2,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 4015.0
+          "close": 4000.0
+        },
+        {
+          "code": "001540",
+          "name": "안국약품",
+          "market": "KOSDAQ",
+          "sector": "제약",
+          "type": "눌림",
+          "tier": 1,
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 11020.0
+        },
+        {
+          "code": "101160",
+          "name": "월덱스",
+          "market": "KOSDAQ",
+          "sector": "반도체와반도체장비",
+          "type": "눌림",
+          "tier": 1,
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 28950.0
+        },
+        {
+          "code": "212560",
+          "name": "네오오토",
+          "market": "KOSDAQ",
+          "sector": "자동차부품",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 10690.0
         },
         {
           "code": "053060",
@@ -3189,6 +3189,17 @@
           "close": 1381.0
         },
         {
+          "code": "137080",
+          "name": "나래나노텍",
+          "market": "KOSDAQ",
+          "sector": "디스플레이장비및부품",
+          "type": "강세지속",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 5400.0
+        },
+        {
           "code": "090850",
           "name": "현대이지웰",
           "market": "KOSDAQ",
@@ -3197,40 +3208,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 5590.0
-        },
-        {
-          "code": "069330",
-          "name": "유아이디",
-          "market": "KOSDAQ",
-          "sector": "디스플레이장비및부품",
-          "type": "눌림",
-          "tier": 2,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 1058.0
-        },
-        {
-          "code": "017890",
-          "name": "한국알콜",
-          "market": "KOSDAQ",
-          "sector": "화학",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 13410.0
-        },
-        {
-          "code": "212560",
-          "name": "네오오토",
-          "market": "KOSDAQ",
-          "sector": "자동차부품",
-          "type": "눌림",
-          "tier": 1,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 10630.0
+          "close": 5570.0
         },
         {
           "code": "093380",
@@ -3241,7 +3219,29 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 2600.0
+          "close": 2605.0
+        },
+        {
+          "code": "017890",
+          "name": "한국알콜",
+          "market": "KOSDAQ",
+          "sector": "화학",
+          "type": "강세지속",
+          "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 13480.0
+        },
+        {
+          "code": "188260",
+          "name": "세니젠",
+          "market": "KOSDAQ",
+          "sector": "건강관리장비와용품",
+          "type": "눌림",
+          "tier": 1,
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 1966.0
         }
       ]
     }
