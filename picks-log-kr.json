@@ -3309,6 +3309,17 @@
       "date": "2026-08-06",
       "picks": [
         {
+          "code": "005950",
+          "name": "이수화학",
+          "market": "KOSPI",
+          "sector": "화학",
+          "type": "눌림",
+          "tier": 2,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 13700.0
+        },
+        {
           "code": "000810",
           "name": "삼성화재",
           "market": "KOSPI",
@@ -3317,7 +3328,18 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 643000.0
+          "close": 648000.0
+        },
+        {
+          "code": "006340",
+          "name": "대원전선",
+          "market": "KOSPI",
+          "sector": "전기장비",
+          "type": "강세지속",
+          "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 14400.0
         },
         {
           "code": "004430",
@@ -3331,26 +3353,15 @@
           "close": 11450.0
         },
         {
-          "code": "005950",
-          "name": "이수화학",
+          "code": "161390",
+          "name": "한국타이어앤테크놀로지",
           "market": "KOSPI",
-          "sector": "화학",
+          "sector": "자동차부품",
           "type": "눌림",
-          "tier": 2,
+          "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 13790.0
-        },
-        {
-          "code": "006340",
-          "name": "대원전선",
-          "market": "KOSPI",
-          "sector": "전기장비",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 14570.0
+          "close": 70500.0
         },
         {
           "code": "105560",
@@ -3361,18 +3372,7 @@
           "tier": 1,
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 170800.0
-        },
-        {
-          "code": "161390",
-          "name": "한국타이어앤테크놀로지",
-          "market": "KOSPI",
-          "sector": "자동차부품",
-          "type": "눌림",
-          "tier": 1,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 70400.0
+          "close": 171500.0
         },
         {
           "code": "005090",
@@ -3394,7 +3394,7 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 106800.0
+          "close": 106900.0
         },
         {
           "code": "010120",
@@ -3416,18 +3416,7 @@
           "tier": 1,
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 175100.0
-        },
-        {
-          "code": "950190",
-          "name": "고스트스튜디오",
-          "market": "KOSDAQ",
-          "sector": "게임엔터테인먼트",
-          "type": "눌림",
-          "tier": 1,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 9280.0
+          "close": 175200.0
         },
         {
           "code": "004780",
@@ -3438,29 +3427,7 @@
           "tier": 2,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 4020.0
-        },
-        {
-          "code": "019540",
-          "name": "일지테크",
-          "market": "KOSDAQ",
-          "sector": "자동차부품",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 6440.0
-        },
-        {
-          "code": "101160",
-          "name": "월덱스",
-          "market": "KOSDAQ",
-          "sector": "반도체와반도체장비",
-          "type": "눌림",
-          "tier": 1,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 28500.0
+          "close": 4010.0
         },
         {
           "code": "053060",
@@ -3469,9 +3436,20 @@
           "sector": "자동차부품",
           "type": "눌림",
           "tier": 1,
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 1383.0
+        },
+        {
+          "code": "950190",
+          "name": "고스트스튜디오",
+          "market": "KOSDAQ",
+          "sector": "게임엔터테인먼트",
+          "type": "눌림",
+          "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1379.0
+          "close": 9320.0
         },
         {
           "code": "069330",
@@ -3482,7 +3460,18 @@
           "tier": 1,
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 1051.0
+          "close": 1057.0
+        },
+        {
+          "code": "101160",
+          "name": "월덱스",
+          "market": "KOSDAQ",
+          "sector": "반도체와반도체장비",
+          "type": "눌림",
+          "tier": 1,
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 28450.0
         },
         {
           "code": "093380",
@@ -3493,18 +3482,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 2570.0
-        },
-        {
-          "code": "290720",
-          "name": "푸드나무",
-          "market": "KOSDAQ",
-          "sector": "식품",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 3105.0
+          "close": 2595.0
         },
         {
           "code": "275630",
@@ -3513,20 +3491,42 @@
           "sector": "소프트웨어",
           "type": "눌림",
           "tier": 1,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 3610.0
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 3630.0
         },
         {
-          "code": "332570",
-          "name": "PS일렉트로닉스",
+          "code": "019540",
+          "name": "일지테크",
           "market": "KOSDAQ",
-          "sector": "핸드셋",
+          "sector": "자동차부품",
+          "type": "강세지속",
+          "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 6500.0
+        },
+        {
+          "code": "188260",
+          "name": "세니젠",
+          "market": "KOSDAQ",
+          "sector": "건강관리장비와용품",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1978.0
+        },
+        {
+          "code": "126640",
+          "name": "화신정공",
+          "market": "KOSDAQ",
+          "sector": "자동차부품",
           "type": "눌림",
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 8190.0
+          "close": 4005.0
         }
       ]
     }
