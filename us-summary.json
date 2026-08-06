@@ -1,32 +1,28 @@
 {
-  "as_of": "2026-08-04",
+  "as_of": "2026-08-05",
   "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
   "regime_tone": "risk_on",
   "oscillator": {
     "level": "탐욕",
     "stance": "우호",
-    "label": "탐욕 · 위험선호 강화 → 추세 순응 (F&G 0.79, osc +0.013 ↑)"
+    "label": "탐욕 · 위험선호 강화 → 추세 순응 (F&G 0.78, osc +0.016 ↑)"
   },
-  "sector_leaders": "반도체(71) · 클라우드(70·과열) · 바이오(62) · Information Technology(61)",
+  "sector_leaders": "클라우드(70) · 반도체(67) · 바이오(63) · Information Technology(60)",
   "peakout": {
-    "date": "2026-08-05",
+    "date": "2026-08-06",
     "n": 40,
-    "breadth_score": 43.3,
-    "above_ma20": 55.0,
-    "above_ma60": 28.0,
-    "above_ma200": 90.0,
-    "slope_5d": 2.4,
-    "slope_10d": -7.8,
+    "breadth_score": 43.6,
+    "above_ma20": 35.0,
+    "above_ma60": 12.0,
+    "above_ma200": 88.0,
+    "slope_5d": 7.8,
+    "slope_10d": -9.0,
     "falling_days_10d": 6,
-    "breadth_from_20d_high": -29.8,
+    "breadth_from_20d_high": -29.5,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "위험",
     "series": [
-      {
-        "i": 334.95,
-        "b": 73.5
-      },
       {
         "i": 341.89,
         "b": 73.7
@@ -500,8 +496,12 @@
         "b": 37.6
       },
       {
-        "i": 587.24,
-        "b": 43.3
+        "i": 572.18,
+        "b": 41.5
+      },
+      {
+        "i": 565.57,
+        "b": 43.6
       }
     ]
   },
@@ -518,13 +518,13 @@
       "sector": "Information Technology"
     },
     {
-      "code": "SNDK",
-      "name": "Sandisk",
+      "code": "HPE",
+      "name": "Hewlett Packard Enterprise",
       "sector": "Information Technology"
     },
     {
-      "code": "HPE",
-      "name": "Hewlett Packard Enterprise",
+      "code": "PANW",
+      "name": "Palo Alto Networks",
       "sector": "Information Technology"
     },
     {
@@ -533,10 +533,10 @@
       "sector": "Information Technology"
     },
     {
-      "code": "PANW",
-      "name": "Palo Alto Networks",
+      "code": "MU",
+      "name": "Micron Technology",
       "sector": "Information Technology"
     }
   ],
-  "semis_leading": false
+  "semis_leading": true
 }
