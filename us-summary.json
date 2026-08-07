@@ -1,32 +1,28 @@
 {
-  "as_of": "2026-08-05",
+  "as_of": "2026-08-06",
   "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
   "regime_tone": "risk_on",
   "oscillator": {
     "level": "탐욕",
     "stance": "우호",
-    "label": "탐욕 · 위험선호 강화 → 추세 순응 (F&G 0.78, osc +0.016 ↑)"
+    "label": "탐욕 · 위험선호 강화 → 추세 순응 (F&G 0.78, osc +0.017 ↑)"
   },
-  "sector_leaders": "클라우드(70) · 반도체(67) · 바이오(63) · Information Technology(60)",
+  "sector_leaders": "반도체(68) · 클라우드(67) · 바이오(65) · Information Technology(60)",
   "peakout": {
-    "date": "2026-08-06",
+    "date": "2026-08-07",
     "n": 40,
-    "breadth_score": 43.6,
-    "above_ma20": 35.0,
-    "above_ma60": 12.0,
+    "breadth_score": 45.8,
+    "above_ma20": 42.0,
+    "above_ma60": 15.0,
     "above_ma200": 88.0,
-    "slope_5d": 7.8,
-    "slope_10d": -9.0,
+    "slope_5d": 11.7,
+    "slope_10d": -6.9,
     "falling_days_10d": 6,
-    "breadth_from_20d_high": -29.5,
+    "breadth_from_20d_high": -25.1,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "위험",
     "series": [
-      {
-        "i": 341.89,
-        "b": 73.7
-      },
       {
         "i": 342.69,
         "b": 73.3
@@ -500,8 +496,12 @@
         "b": 41.5
       },
       {
-        "i": 565.57,
-        "b": 43.6
+        "i": 554.34,
+        "b": 44.1
+      },
+      {
+        "i": 550.79,
+        "b": 45.8
       }
     ]
   },
@@ -528,13 +528,13 @@
       "sector": "Information Technology"
     },
     {
-      "code": "DDOG",
-      "name": "Datadog",
+      "code": "MU",
+      "name": "Micron Technology",
       "sector": "Information Technology"
     },
     {
-      "code": "MU",
-      "name": "Micron Technology",
+      "code": "ZBRA",
+      "name": "Zebra Technologies",
       "sector": "Information Technology"
     }
   ],
