@@ -3602,7 +3602,29 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 640000.0
+          "close": 645000.0
+        },
+        {
+          "code": "161890",
+          "name": "한국콜마",
+          "market": "KOSPI",
+          "sector": "화장품",
+          "type": "강세지속",
+          "tier": 1,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 106700.0
+        },
+        {
+          "code": "483650",
+          "name": "달바글로벌",
+          "market": "KOSPI",
+          "sector": "화장품",
+          "type": "강세지속",
+          "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 246000.0
         },
         {
           "code": "161390",
@@ -3613,7 +3635,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 70000.0
+          "close": 70500.0
         },
         {
           "code": "006340",
@@ -3624,7 +3646,18 @@
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 13850.0
+          "close": 13790.0
+        },
+        {
+          "code": "004430",
+          "name": "송원산업",
+          "market": "KOSPI",
+          "sector": "화학",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 12000.0
         },
         {
           "code": "018260",
@@ -3635,62 +3668,18 @@
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 220000.0
+          "close": 221500.0
         },
         {
-          "code": "003060",
-          "name": "에이프로젠바이오로직스",
+          "code": "010120",
+          "name": "LS ELECTRIC",
           "market": "KOSPI",
-          "sector": "제약",
+          "sector": "전기장비",
           "type": "눌림",
           "tier": 2,
           "status": "추세 훼손 주의",
           "rank": 0,
-          "close": 2125.0
-        },
-        {
-          "code": "161890",
-          "name": "한국콜마",
-          "market": "KOSPI",
-          "sector": "화장품",
-          "type": "눌림",
-          "tier": 1,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 105600.0
-        },
-        {
-          "code": "028050",
-          "name": "삼성E&A",
-          "market": "KOSPI",
-          "sector": "건설",
-          "type": "눌림",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 48050.0
-        },
-        {
-          "code": "483650",
-          "name": "달바글로벌",
-          "market": "KOSPI",
-          "sector": "화장품",
-          "type": "눌림",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 243500.0
-        },
-        {
-          "code": "109070",
-          "name": "주성코퍼레이션",
-          "market": "KOSPI",
-          "sector": "해운사",
-          "type": "눌림",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 1463.0
+          "close": 201000.0
         },
         {
           "code": "009420",
@@ -3701,18 +3690,29 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 53300.0
+          "close": 54100.0
         },
         {
-          "code": "900260",
-          "name": "로스웰",
-          "market": "KOSDAQ",
-          "sector": "통신장비",
-          "type": "강세지속",
+          "code": "028050",
+          "name": "삼성E&A",
+          "market": "KOSPI",
+          "sector": "건설",
+          "type": "눌림",
           "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 48100.0
+        },
+        {
+          "code": "290720",
+          "name": "푸드나무",
+          "market": "KOSDAQ",
+          "sector": "식품",
+          "type": "눌림",
+          "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1649.0
+          "close": 2980.0
         },
         {
           "code": "101160",
@@ -3723,40 +3723,7 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 28850.0
-        },
-        {
-          "code": "058610",
-          "name": "에스피지",
-          "market": "KOSDAQ",
-          "sector": "전기제품",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 100400.0
-        },
-        {
-          "code": "004780",
-          "name": "대륙제관",
-          "market": "KOSDAQ",
-          "sector": "포장재",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 4050.0
-        },
-        {
-          "code": "127710",
-          "name": "아시아경제",
-          "market": "KOSDAQ",
-          "sector": "출판",
-          "type": "눌림",
-          "tier": 1,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 1020.0
+          "close": 28650.0
         },
         {
           "code": "222800",
@@ -3767,7 +3734,18 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 109600.0
+          "close": 110000.0
+        },
+        {
+          "code": "004780",
+          "name": "대륙제관",
+          "market": "KOSDAQ",
+          "sector": "포장재",
+          "type": "강세지속",
+          "tier": 2,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 4055.0
         },
         {
           "code": "053060",
@@ -3778,18 +3756,7 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1364.0
-        },
-        {
-          "code": "275630",
-          "name": "에스에스알",
-          "market": "KOSDAQ",
-          "sector": "소프트웨어",
-          "type": "눌림",
-          "tier": 1,
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 3595.0
+          "close": 1368.0
         },
         {
           "code": "126640",
@@ -3800,7 +3767,29 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 3905.0
+          "close": 3895.0
+        },
+        {
+          "code": "066620",
+          "name": "국보디자인",
+          "market": "KOSDAQ",
+          "sector": "건설",
+          "type": "강세지속",
+          "tier": 2,
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 24100.0
+        },
+        {
+          "code": "188260",
+          "name": "세니젠",
+          "market": "KOSDAQ",
+          "sector": "건강관리장비와용품",
+          "type": "눌림",
+          "tier": 1,
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 1980.0
         },
         {
           "code": "094860",
@@ -3809,9 +3798,20 @@
           "sector": "게임엔터테인먼트",
           "type": "눌림",
           "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1352.0
+        },
+        {
+          "code": "348350",
+          "name": "위드텍",
+          "market": "KOSDAQ",
+          "sector": "반도체와반도체장비",
+          "type": "눌림",
+          "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 1328.0
+          "close": 8980.0
         }
       ]
     }
