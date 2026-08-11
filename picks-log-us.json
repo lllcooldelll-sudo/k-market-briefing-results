@@ -1353,7 +1353,8 @@
           "rank": 4,
           "close": 63.76,
           "ret_d1": 0.49,
-          "ret_d3": 0.69
+          "ret_d3": 0.69,
+          "ret_w1": 4.41
         },
         {
           "code": "HUM",
@@ -1365,7 +1366,8 @@
           "rank": 4,
           "close": 374.5,
           "ret_d1": -3.3,
-          "ret_d3": -1.94
+          "ret_d3": -1.94,
+          "ret_w1": 2.99
         },
         {
           "code": "WDC",
@@ -1377,7 +1379,8 @@
           "rank": 1,
           "close": 527.22,
           "ret_d1": 4.05,
-          "ret_d3": -14.36
+          "ret_d3": -14.36,
+          "ret_w1": -16.86
         },
         {
           "code": "STX",
@@ -1389,7 +1392,8 @@
           "rank": 1,
           "close": 831.06,
           "ret_d1": 1.72,
-          "ret_d3": 2.63
+          "ret_d3": 2.63,
+          "ret_w1": -3.62
         },
         {
           "code": "AMD",
@@ -1401,7 +1405,8 @@
           "rank": 1,
           "close": 484.64,
           "ret_d1": 7.0,
-          "ret_d3": 0.96
+          "ret_d3": 0.96,
+          "ret_w1": -3.11
         },
         {
           "code": "AMAT",
@@ -1413,7 +1418,8 @@
           "rank": 4,
           "close": 518.21,
           "ret_d1": 5.48,
-          "ret_d3": 1.79
+          "ret_d3": 1.79,
+          "ret_w1": 0.75
         },
         {
           "code": "UNH",
@@ -1425,7 +1431,8 @@
           "rank": 3,
           "close": 415.36,
           "ret_d1": -1.88,
-          "ret_d3": -2.74
+          "ret_d3": -2.74,
+          "ret_w1": -1.59
         },
         {
           "code": "FFIV",
@@ -1437,7 +1444,8 @@
           "rank": 4,
           "close": 406.35,
           "ret_d1": 1.45,
-          "ret_d3": 1.65
+          "ret_d3": 1.65,
+          "ret_w1": 0.9
         },
         {
           "code": "CSCO",
@@ -1449,7 +1457,8 @@
           "rank": 2,
           "close": 115.86,
           "ret_d1": 5.08,
-          "ret_d3": 4.33
+          "ret_d3": 4.33,
+          "ret_w1": 5.79
         },
         {
           "code": "CVS",
@@ -1461,7 +1470,8 @@
           "rank": 4,
           "close": 105.37,
           "ret_d1": -0.9,
-          "ret_d3": -8.68
+          "ret_d3": -8.68,
+          "ret_w1": -9.21
         }
       ]
     },
@@ -1603,7 +1613,8 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 363.82,
-          "ret_d1": 0.94
+          "ret_d1": 0.94,
+          "ret_d3": 6.01
         },
         {
           "code": "AMAT",
@@ -1615,7 +1626,8 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 534.24,
-          "ret_d1": -1.27
+          "ret_d1": -1.27,
+          "ret_d3": -2.27
         },
         {
           "code": "MU",
@@ -1627,7 +1639,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 893.19,
-          "ret_d1": -1.31
+          "ret_d1": -1.31,
+          "ret_d3": -3.6
         },
         {
           "code": "STX",
@@ -1639,7 +1652,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 837.66,
-          "ret_d1": 1.83
+          "ret_d1": 1.83,
+          "ret_d3": -4.38
         },
         {
           "code": "WDC",
@@ -1651,7 +1665,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 519.17,
-          "ret_d1": -13.03
+          "ret_d1": -13.03,
+          "ret_d3": -15.57
         },
         {
           "code": "INTC",
@@ -1663,7 +1678,8 @@
           "status": "추세 훼손 주의",
           "rank": 0,
           "close": 101.06,
-          "ret_d1": -1.24
+          "ret_d1": -1.24,
+          "ret_d3": -3.5
         },
         {
           "code": "AMD",
@@ -1675,7 +1691,8 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 482.05,
-          "ret_d1": 1.5
+          "ret_d1": 1.5,
+          "ret_d3": -2.59
         },
         {
           "code": "FFIV",
@@ -1687,7 +1704,8 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 411.32,
-          "ret_d1": 0.43
+          "ret_d1": 0.43,
+          "ret_d3": -0.32
         },
         {
           "code": "TER",
@@ -1699,7 +1717,8 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 389.39,
-          "ret_d1": -1.16
+          "ret_d1": -1.16,
+          "ret_d3": -6.24
         },
         {
           "code": "MRVL",
@@ -1711,7 +1730,8 @@
           "status": "추세 훼손 주의",
           "rank": 0,
           "close": 211.02,
-          "ret_d1": -0.23
+          "ret_d1": -0.23,
+          "ret_d3": -1.17
         }
       ]
     },
@@ -1852,7 +1872,8 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 539.14
+          "close": 539.14,
+          "ret_d1": -3.16
         },
         {
           "code": "FTNT",
@@ -1863,7 +1884,8 @@
           "tier": 2,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 159.64
+          "close": 159.64,
+          "ret_d1": 2.86
         },
         {
           "code": "MU",
@@ -1874,7 +1896,8 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 877.57
+          "close": 877.57,
+          "ret_d1": -1.89
         },
         {
           "code": "AMD",
@@ -1885,7 +1908,8 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 483.36
+          "close": 483.36,
+          "ret_d1": -2.86
         },
         {
           "code": "STX",
@@ -1896,7 +1920,8 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 812.76
+          "close": 812.76,
+          "ret_d1": -1.45
         },
         {
           "code": "HUM",
@@ -1907,7 +1932,8 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 385.0
+          "close": 385.0,
+          "ret_d1": 0.18
         },
         {
           "code": "TER",
@@ -1918,7 +1944,8 @@
           "tier": 2,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 379.31
+          "close": 379.31,
+          "ret_d1": -3.75
         },
         {
           "code": "CNC",
@@ -1929,7 +1956,8 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 65.77
+          "close": 65.77,
+          "ret_d1": 1.22
         },
         {
           "code": "BEN",
@@ -1940,7 +1968,8 @@
           "tier": 2,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 33.77
+          "close": 33.77,
+          "ret_d1": -0.74
         },
         {
           "code": "LRCX",
@@ -1951,7 +1980,123 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 311.35
+          "close": 311.35,
+          "ret_d1": -1.59
+        }
+      ]
+    },
+    {
+      "date": "2026-08-10",
+      "picks": [
+        {
+          "code": "MRNA",
+          "name": "Moderna",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 59.81
+        },
+        {
+          "code": "HUM",
+          "name": "Humana",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 385.7
+        },
+        {
+          "code": "AMAT",
+          "name": "Applied Materials",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 522.12
+        },
+        {
+          "code": "MU",
+          "name": "Micron Technology",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 861.0
+        },
+        {
+          "code": "INTC",
+          "name": "Intel",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 97.52
+        },
+        {
+          "code": "STX",
+          "name": "Seagate Technology",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 800.99
+        },
+        {
+          "code": "FFIV",
+          "name": "F5, Inc.",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 409.99
+        },
+        {
+          "code": "CNC",
+          "name": "Centene Corporation",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "tier": 1,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 66.57
+        },
+        {
+          "code": "FLEX",
+          "name": "Flex Ltd.",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 119.7
+        },
+        {
+          "code": "AMD",
+          "name": "Advanced Micro Devices",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 469.56
         }
       ]
     }
