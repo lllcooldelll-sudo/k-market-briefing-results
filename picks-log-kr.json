@@ -4164,17 +4164,6 @@
       "date": "2026-08-11",
       "picks": [
         {
-          "code": "017900",
-          "name": "광전자",
-          "market": "KOSPI",
-          "sector": "전자장비와기기",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 8400.0
-        },
-        {
           "code": "000810",
           "name": "삼성화재",
           "market": "KOSPI",
@@ -4183,40 +4172,18 @@
           "tier": 2,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 640000.0
+          "close": 641000.0
         },
         {
-          "code": "161390",
-          "name": "한국타이어앤테크놀로지",
+          "code": "105560",
+          "name": "KB금융",
           "market": "KOSPI",
-          "sector": "자동차부품",
+          "sector": "은행",
           "type": "눌림",
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 68300.0
-        },
-        {
-          "code": "073240",
-          "name": "금호타이어",
-          "market": "KOSPI",
-          "sector": "자동차부품",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 7320.0
-        },
-        {
-          "code": "009150",
-          "name": "삼성전기",
-          "market": "KOSPI",
-          "sector": "전자장비와기기",
-          "type": "눌림",
-          "tier": 1,
-          "status": "추세 훼손 주의",
-          "rank": 0,
-          "close": 1291000.0
+          "close": 166600.0
         },
         {
           "code": "006340",
@@ -4227,7 +4194,18 @@
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 14720.0
+          "close": 14520.0
+        },
+        {
+          "code": "483650",
+          "name": "달바글로벌",
+          "market": "KOSPI",
+          "sector": "화장품",
+          "type": "강세지속",
+          "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 246000.0
         },
         {
           "code": "010950",
@@ -4238,29 +4216,29 @@
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 141700.0
+          "close": 141600.0
         },
         {
-          "code": "003060",
-          "name": "에이프로젠바이오로직스",
+          "code": "073240",
+          "name": "금호타이어",
           "market": "KOSPI",
-          "sector": "제약",
-          "type": "눌림",
-          "tier": 2,
-          "status": "추세 훼손 주의",
-          "rank": 0,
-          "close": 2145.0
-        },
-        {
-          "code": "483650",
-          "name": "달바글로벌",
-          "market": "KOSPI",
-          "sector": "화장품",
-          "type": "눌림",
+          "sector": "자동차부품",
+          "type": "강세지속",
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 242000.0
+          "close": 7520.0
+        },
+        {
+          "code": "009150",
+          "name": "삼성전기",
+          "market": "KOSPI",
+          "sector": "전자장비와기기",
+          "type": "눌림",
+          "tier": 1,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 1262000.0
         },
         {
           "code": "086790",
@@ -4271,7 +4249,29 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 128600.0
+          "close": 127700.0
+        },
+        {
+          "code": "010060",
+          "name": "OCI홀딩스",
+          "market": "KOSPI",
+          "sector": "화학",
+          "type": "강세지속",
+          "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 273500.0
+        },
+        {
+          "code": "003060",
+          "name": "에이프로젠바이오로직스",
+          "market": "KOSPI",
+          "sector": "제약",
+          "type": "눌림",
+          "tier": 2,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 2155.0
         },
         {
           "code": "222800",
@@ -4282,29 +4282,29 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 116200.0
+          "close": 113900.0
         },
         {
-          "code": "032580",
-          "name": "피델릭스",
+          "code": "290720",
+          "name": "푸드나무",
           "market": "KOSDAQ",
-          "sector": "반도체와반도체장비",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 5290.0
+          "sector": "식품",
+          "type": "눌림",
+          "tier": 1,
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 2930.0
         },
         {
-          "code": "036710",
-          "name": "심텍홀딩스",
+          "code": "950190",
+          "name": "고스트스튜디오",
           "market": "KOSDAQ",
-          "sector": "반도체와반도체장비",
-          "type": "강세지속",
-          "tier": 2,
-          "status": "조건 혼합",
-          "rank": 1,
-          "close": 4180.0
+          "sector": "게임엔터테인먼트",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 9040.0
         },
         {
           "code": "049430",
@@ -4315,7 +4315,7 @@
           "tier": 2,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 20050.0
+          "close": 20100.0
         },
         {
           "code": "101160",
@@ -4329,26 +4329,15 @@
           "close": 29200.0
         },
         {
-          "code": "069330",
-          "name": "유아이디",
+          "code": "275630",
+          "name": "에스에스알",
           "market": "KOSDAQ",
-          "sector": "디스플레이장비및부품",
+          "sector": "소프트웨어",
           "type": "눌림",
           "tier": 1,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 1065.0
-        },
-        {
-          "code": "270870",
-          "name": "뉴트리",
-          "market": "KOSDAQ",
-          "sector": "건강관리업체및서비스",
-          "type": "눌림",
-          "tier": 1,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 4275.0
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 3645.0
         },
         {
           "code": "126640",
@@ -4359,29 +4348,40 @@
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 4185.0
+          "close": 4150.0
         },
         {
-          "code": "024840",
-          "name": "KBI메탈",
+          "code": "069330",
+          "name": "유아이디",
           "market": "KOSDAQ",
-          "sector": "전기장비",
+          "sector": "디스플레이장비및부품",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 1055.0
+        },
+        {
+          "code": "033560",
+          "name": "블루콤",
+          "market": "KOSDAQ",
+          "sector": "부동산",
           "type": "강세지속",
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 5160.0
+          "close": 5130.0
         },
         {
-          "code": "040350",
-          "name": "크레오에스지",
+          "code": "027040",
+          "name": "서울전자통신",
           "market": "KOSDAQ",
-          "sector": "IT서비스",
-          "type": "추격주의",
-          "tier": 1,
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 7410.0
+          "sector": "전자장비와기기",
+          "type": "눌림",
+          "tier": 2,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 2030.0
         }
       ]
     }
