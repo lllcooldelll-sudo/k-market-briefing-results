@@ -14,7 +14,9 @@
           "won": true,
           "ret_d1": 8.11,
           "ret_d3": 7.17,
-          "ret_w1": -1.71
+          "ret_w1": -1.71,
+          "cur": -4.1,
+          "broke": false
         },
         {
           "code": "HPE",
@@ -27,7 +29,9 @@
           "won": true,
           "ret_d1": 4.85,
           "ret_d3": 6.91,
-          "ret_w1": 8.15
+          "ret_w1": 8.15,
+          "cur": 31.93,
+          "broke": false
         },
         {
           "code": "CSCO",
@@ -40,7 +44,9 @@
           "won": true,
           "ret_d1": 1.34,
           "ret_d3": 1.86,
-          "ret_w1": 3.5
+          "ret_w1": 3.5,
+          "cur": 11.91,
+          "broke": false
         },
         {
           "code": "DAL",
@@ -53,7 +59,9 @@
           "won": true,
           "ret_d1": 0.11,
           "ret_d3": -3.04,
-          "ret_w1": 2.52
+          "ret_w1": 2.52,
+          "cur": 6.38,
+          "broke": false
         },
         {
           "code": "ASML",
@@ -66,7 +74,9 @@
           "won": true,
           "ret_d1": 3.59,
           "ret_d3": 3.68,
-          "ret_w1": -4.82
+          "ret_w1": -4.82,
+          "cur": 4.09,
+          "broke": false
         },
         {
           "code": "GEV",
@@ -79,7 +89,9 @@
           "won": false,
           "ret_d1": -0.03,
           "ret_d3": -4.45,
-          "ret_w1": -7.65
+          "ret_w1": -7.65,
+          "cur": -3.64,
+          "broke": false
         },
         {
           "code": "BEN",
@@ -92,7 +104,9 @@
           "won": true,
           "ret_d1": 1.24,
           "ret_d3": 0.19,
-          "ret_w1": 3.07
+          "ret_w1": 3.07,
+          "cur": 4.22,
+          "broke": false
         },
         {
           "code": "GS",
@@ -105,7 +119,9 @@
           "won": true,
           "ret_d1": 2.89,
           "ret_d3": 1.87,
-          "ret_w1": -0.64
+          "ret_w1": -0.64,
+          "cur": -1.69,
+          "broke": false
         },
         {
           "code": "IBKR",
@@ -118,7 +134,9 @@
           "won": true,
           "ret_d1": 2.99,
           "ret_d3": 0.09,
-          "ret_w1": 0.64
+          "ret_w1": 0.64,
+          "cur": -0.02,
+          "broke": false
         },
         {
           "code": "NTAP",
@@ -131,7 +149,9 @@
           "won": true,
           "ret_d1": 2.85,
           "ret_d3": 2.16,
-          "ret_w1": 5.36
+          "ret_w1": 5.36,
+          "cur": 25.37,
+          "broke": false
         }
       ]
     },
@@ -148,7 +168,9 @@
           "close": 112.18,
           "ret_d1": 0.03,
           "ret_d3": 1.77,
-          "ret_w1": 3.03
+          "ret_w1": 3.03,
+          "cur": 10.43,
+          "broke": false
         },
         {
           "code": "DELL",
@@ -160,7 +182,9 @@
           "close": 404.15,
           "ret_d1": 9.32,
           "ret_d3": 8.25,
-          "ret_w1": -2.98
+          "ret_w1": -2.98,
+          "cur": 19.88,
+          "broke": false
         },
         {
           "code": "DAL",
@@ -172,7 +196,9 @@
           "close": 84.63,
           "ret_d1": -1.31,
           "ret_d3": 0.51,
-          "ret_w1": 5.6
+          "ret_w1": 5.6,
+          "cur": 6.26,
+          "broke": false
         },
         {
           "code": "GEV",
@@ -184,7 +210,9 @@
           "close": 1078.81,
           "ret_d1": -8.69,
           "ret_d3": -5.94,
-          "ret_w1": -12.55
+          "ret_w1": -12.55,
+          "cur": -3.61,
+          "broke": false
         },
         {
           "code": "ASML",
@@ -196,7 +224,9 @@
           "close": 1801.51,
           "ret_d1": 0.02,
           "ret_d3": -2.47,
-          "ret_w1": -12.13
+          "ret_w1": -12.13,
+          "cur": 0.48,
+          "broke": false
         },
         {
           "code": "CRWD",
@@ -208,7 +238,9 @@
           "close": 191.15,
           "ret_d1": -1.43,
           "ret_d3": -4.12,
-          "ret_w1": -4.89
+          "ret_w1": -4.89,
+          "cur": 16.02,
+          "broke": false
         },
         {
           "code": "BEN",
@@ -220,7 +252,9 @@
           "close": 32.63,
           "ret_d1": -0.77,
           "ret_d3": -0.43,
-          "ret_w1": 2.15
+          "ret_w1": 2.15,
+          "cur": 2.94,
+          "broke": false
         },
         {
           "code": "MGM",
@@ -232,7 +266,9 @@
           "close": 45.67,
           "ret_d1": -0.39,
           "ret_d3": -0.28,
-          "ret_w1": 1.16
+          "ret_w1": 1.16,
+          "cur": -3.7,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -244,7 +280,9 @@
           "close": 544.43,
           "ret_d1": 1.45,
           "ret_d3": -4.13,
-          "ret_w1": -16.5
+          "ret_w1": -16.5,
+          "cur": -11.3,
+          "broke": false
         },
         {
           "code": "TXN",
@@ -256,7 +294,9 @@
           "close": 291.3,
           "ret_d1": 0.99,
           "ret_d3": -4.02,
-          "ret_w1": -4.88
+          "ret_w1": -4.88,
+          "cur": -5.05,
+          "broke": false
         }
       ]
     },
@@ -274,7 +314,9 @@
           "close": 83.52,
           "ret_d1": -1.86,
           "ret_d3": 3.77,
-          "ret_w1": 3.27
+          "ret_w1": 3.27,
+          "cur": 7.67,
+          "broke": false
         },
         {
           "code": "CSCO",
@@ -287,7 +329,9 @@
           "close": 112.21,
           "ret_d1": 0.49,
           "ret_d3": 2.1,
-          "ret_w1": 0.24
+          "ret_w1": 0.24,
+          "cur": 10.4,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -300,7 +344,9 @@
           "close": 400.61,
           "ret_d1": -3.13,
           "ret_d3": 1.83,
-          "ret_w1": -3.41
+          "ret_w1": -3.41,
+          "cur": 5.58,
+          "broke": false
         },
         {
           "code": "ASML",
@@ -313,7 +359,9 @@
           "close": 1801.86,
           "ret_d1": 0.06,
           "ret_d3": -8.14,
-          "ret_w1": -13.94
+          "ret_w1": -13.94,
+          "cur": 0.46,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -326,7 +374,9 @@
           "close": 552.33,
           "ret_d1": -2.29,
           "ret_d3": -10.39,
-          "ret_w1": -22.23
+          "ret_w1": -22.23,
+          "cur": -12.56,
+          "broke": false
         },
         {
           "code": "DDOG",
@@ -339,7 +389,9 @@
           "close": 245.77,
           "ret_d1": -0.56,
           "ret_d3": 2.48,
-          "ret_w1": 7.5
+          "ret_w1": 7.5,
+          "cur": -1.98,
+          "broke": false
         },
         {
           "code": "MGM",
@@ -352,7 +404,9 @@
           "close": 45.49,
           "ret_d1": -1.1,
           "ret_d3": 1.78,
-          "ret_w1": 0.75
+          "ret_w1": 0.75,
+          "cur": -3.32,
+          "broke": false
         },
         {
           "code": "BEN",
@@ -365,7 +419,9 @@
           "close": 32.38,
           "ret_d1": -0.28,
           "ret_d3": 2.59,
-          "ret_w1": 0.03
+          "ret_w1": 0.03,
+          "cur": 3.74,
+          "broke": false
         },
         {
           "code": "CRWD",
@@ -378,7 +434,9 @@
           "close": 188.42,
           "ret_d1": -2.65,
           "ret_d3": -4.41,
-          "ret_w1": -4.8
+          "ret_w1": -4.8,
+          "cur": 17.71,
+          "broke": false
         },
         {
           "code": "NTAP",
@@ -391,7 +449,9 @@
           "close": 166.54,
           "ret_d1": -1.14,
           "ret_d3": 1.96,
-          "ret_w1": 4.02
+          "ret_w1": 4.02,
+          "cur": 21.32,
+          "broke": false
         }
       ]
     },
@@ -409,7 +469,9 @@
           "close": 63.74,
           "ret_d1": -0.52,
           "ret_d3": 0.27,
-          "ret_w1": -4.55
+          "ret_w1": -4.55,
+          "cur": 5.22,
+          "broke": false
         },
         {
           "code": "STX",
@@ -422,7 +484,9 @@
           "close": 913.36,
           "ret_d1": -6.75,
           "ret_d3": -18.18,
-          "ret_w1": -6.75
+          "ret_w1": -6.75,
+          "cur": -3.85,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -435,7 +499,9 @@
           "close": 388.08,
           "ret_d1": 1.06,
           "ret_d3": 3.96,
-          "ret_w1": 0.17
+          "ret_w1": 0.17,
+          "cur": 8.99,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -448,7 +514,9 @@
           "close": 539.69,
           "ret_d1": -3.29,
           "ret_d3": -15.76,
-          "ret_w1": -10.06
+          "ret_w1": -10.06,
+          "cur": -10.52,
+          "broke": false
         },
         {
           "code": "DDOG",
@@ -461,7 +529,9 @@
           "close": 244.39,
           "ret_d1": 1.01,
           "ret_d3": 2.66,
-          "ret_w1": 9.89
+          "ret_w1": 9.89,
+          "cur": -1.42,
+          "broke": false
         },
         {
           "code": "MGM",
@@ -474,7 +544,9 @@
           "close": 44.99,
           "ret_d1": 1.22,
           "ret_d3": 2.69,
-          "ret_w1": 1.49
+          "ret_w1": 1.49,
+          "cur": -2.24,
+          "broke": false
         },
         {
           "code": "DAL",
@@ -487,7 +559,9 @@
           "close": 81.97,
           "ret_d1": 3.77,
           "ret_d3": 9.03,
-          "ret_w1": 8.08
+          "ret_w1": 8.08,
+          "cur": 9.71,
+          "broke": false
         },
         {
           "code": "CSCO",
@@ -500,7 +574,9 @@
           "close": 112.76,
           "ret_d1": 1.25,
           "ret_d3": 2.5,
-          "ret_w1": 0.71
+          "ret_w1": 0.71,
+          "cur": 9.86,
+          "broke": false
         },
         {
           "code": "ASML",
@@ -513,7 +589,9 @@
           "close": 1803.0,
           "ret_d1": -2.55,
           "ret_d3": -12.2,
-          "ret_w1": -8.41
+          "ret_w1": -8.41,
+          "cur": 0.39,
+          "broke": false
         },
         {
           "code": "FTNT",
@@ -526,7 +604,9 @@
           "close": 151.54,
           "ret_d1": 0.55,
           "ret_d3": -1.03,
-          "ret_w1": 1.79
+          "ret_w1": 1.79,
+          "cur": 6.14,
+          "broke": false
         }
       ]
     },
@@ -544,7 +624,9 @@
           "close": 63.41,
           "ret_d1": 1.06,
           "ret_d3": -2.51,
-          "ret_w1": -1.88
+          "ret_w1": -1.88,
+          "cur": 5.77,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -557,7 +639,9 @@
           "close": 521.95,
           "ret_d1": -5.17,
           "ret_d3": -17.7,
-          "ret_w1": -8.77
+          "ret_w1": -8.77,
+          "cur": -7.48,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -570,7 +654,9 @@
           "close": 392.21,
           "ret_d1": 4.02,
           "ret_d3": -1.34,
-          "ret_w1": 2.64
+          "ret_w1": 2.64,
+          "cur": 7.84,
+          "broke": false
         },
         {
           "code": "ASML",
@@ -583,7 +669,9 @@
           "close": 1757.09,
           "ret_d1": -5.8,
           "ret_d3": -11.75,
-          "ret_w1": -7.29
+          "ret_w1": -7.29,
+          "cur": 3.02,
+          "broke": false
         },
         {
           "code": "DDOG",
@@ -596,7 +684,9 @@
           "close": 246.86,
           "ret_d1": 2.03,
           "ret_d3": 7.02,
-          "ret_w1": 8.55
+          "ret_w1": 8.55,
+          "cur": -2.41,
+          "broke": false
         },
         {
           "code": "DAL",
@@ -609,7 +699,9 @@
           "close": 85.06,
           "ret_d1": 1.89,
           "ret_d3": 1.4,
-          "ret_w1": 2.8
+          "ret_w1": 2.8,
+          "cur": 5.73,
+          "broke": false
         },
         {
           "code": "CSCO",
@@ -622,7 +714,9 @@
           "close": 114.17,
           "ret_d1": 0.35,
           "ret_d3": -1.48,
-          "ret_w1": 1.59
+          "ret_w1": 1.59,
+          "cur": 8.5,
+          "broke": false
         },
         {
           "code": "PANW",
@@ -635,7 +729,9 @@
           "close": 323.79,
           "ret_d1": -2.0,
           "ret_d3": -2.98,
-          "ret_w1": 2.48
+          "ret_w1": 2.48,
+          "cur": 19.53,
+          "broke": false
         },
         {
           "code": "FTNT",
@@ -648,7 +744,9 @@
           "close": 152.37,
           "ret_d1": 0.01,
           "ret_d3": 0.56,
-          "ret_w1": 6.29
+          "ret_w1": 6.29,
+          "cur": 5.56,
+          "broke": false
         },
         {
           "code": "GS",
@@ -661,7 +759,9 @@
           "close": 1061.23,
           "ret_d1": -1.22,
           "ret_d3": -7.58,
-          "ret_w1": -4.04
+          "ret_w1": -4.04,
+          "cur": -2.26,
+          "broke": false
         }
       ]
     },
@@ -679,7 +779,9 @@
           "close": 64.08,
           "ret_d1": -0.27,
           "ret_d3": -5.06,
-          "ret_w1": -0.5
+          "ret_w1": -0.5,
+          "cur": 4.67,
+          "broke": false
         },
         {
           "code": "WST",
@@ -692,7 +794,9 @@
           "close": 331.25,
           "ret_d1": 1.74,
           "ret_d3": 2.52,
-          "ret_w1": 5.04
+          "ret_w1": 5.04,
+          "cur": 6.35,
+          "broke": false
         },
         {
           "code": "DELL",
@@ -705,7 +809,9 @@
           "close": 426.91,
           "ret_d1": -8.15,
           "ret_d3": -5.18,
-          "ret_w1": 0.49
+          "ret_w1": 0.49,
+          "cur": 13.49,
+          "broke": false
         },
         {
           "code": "CSCO",
@@ -718,7 +824,9 @@
           "close": 114.57,
           "ret_d1": 0.88,
           "ret_d3": -0.88,
-          "ret_w1": 1.13
+          "ret_w1": 1.13,
+          "cur": 8.13,
+          "broke": false
         },
         {
           "code": "FTNT",
@@ -731,7 +839,9 @@
           "close": 152.38,
           "ret_d1": -1.58,
           "ret_d3": 1.23,
-          "ret_w1": 7.11
+          "ret_w1": 7.11,
+          "cur": 5.55,
+          "broke": false
         },
         {
           "code": "PANW",
@@ -744,7 +854,9 @@
           "close": 317.32,
           "ret_d1": 0.53,
           "ret_d3": 2.63,
-          "ret_w1": 9.39
+          "ret_w1": 9.39,
+          "cur": 21.96,
+          "broke": false
         },
         {
           "code": "JBHT",
@@ -757,7 +869,9 @@
           "close": 280.96,
           "ret_d1": -1.19,
           "ret_d3": -4.18,
-          "ret_w1": -5.0
+          "ret_w1": -5.0,
+          "cur": -1.78,
+          "broke": false
         },
         {
           "code": "MS",
@@ -770,7 +884,9 @@
           "close": 214.56,
           "ret_d1": -1.39,
           "ret_d3": -2.1,
-          "ret_w1": -1.55
+          "ret_w1": -1.55,
+          "cur": 1.44,
+          "broke": false
         },
         {
           "code": "CRWD",
@@ -783,7 +899,9 @@
           "close": 180.11,
           "ret_d1": 0.94,
           "ret_d3": 2.84,
-          "ret_w1": 12.45
+          "ret_w1": 12.45,
+          "cur": 23.14,
+          "broke": false
         },
         {
           "code": "DDOG",
@@ -796,7 +914,9 @@
           "close": 251.86,
           "ret_d1": -0.39,
           "ret_d3": 6.63,
-          "ret_w1": 8.63
+          "ret_w1": 8.63,
+          "cur": -4.35,
+          "broke": false
         }
       ]
     },
@@ -814,7 +934,9 @@
           "close": 149.98,
           "ret_d1": 2.16,
           "ret_d3": 7.98,
-          "ret_w1": 12.21
+          "ret_w1": 12.21,
+          "cur": 7.24,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -827,7 +949,9 @@
           "close": 63.91,
           "ret_d1": -3.27,
           "ret_d3": -2.64,
-          "ret_w1": 0.25
+          "ret_w1": 0.25,
+          "cur": 4.94,
+          "broke": false
         },
         {
           "code": "JBHT",
@@ -840,7 +964,9 @@
           "close": 277.62,
           "ret_d1": -0.53,
           "ret_d3": -2.11,
-          "ret_w1": -1.13
+          "ret_w1": -1.13,
+          "cur": -0.6,
+          "broke": false
         },
         {
           "code": "WST",
@@ -853,7 +979,9 @@
           "close": 337.0,
           "ret_d1": 0.14,
           "ret_d3": 1.18,
-          "ret_w1": 3.49
+          "ret_w1": 3.49,
+          "cur": 4.54,
+          "broke": false
         },
         {
           "code": "HPE",
@@ -866,7 +994,9 @@
           "close": 45.59,
           "ret_d1": -2.52,
           "ret_d3": 5.07,
-          "ret_w1": 14.92
+          "ret_w1": 14.92,
+          "cur": 28.95,
+          "broke": false
         },
         {
           "code": "IBKR",
@@ -879,7 +1009,9 @@
           "close": 90.91,
           "ret_d1": -5.11,
           "ret_d3": -3.21,
-          "ret_w1": -2.51
+          "ret_w1": -2.51,
+          "cur": 0.82,
+          "broke": false
         },
         {
           "code": "PANW",
@@ -892,7 +1024,9 @@
           "close": 319.0,
           "ret_d1": -1.52,
           "ret_d3": 4.02,
-          "ret_w1": 14.84
+          "ret_w1": 14.84,
+          "cur": 21.32,
+          "broke": false
         },
         {
           "code": "CRWD",
@@ -905,7 +1039,9 @@
           "close": 181.8,
           "ret_d1": -1.33,
           "ret_d3": 4.98,
-          "ret_w1": 16.18
+          "ret_w1": 16.18,
+          "cur": 21.99,
+          "broke": false
         },
         {
           "code": "DDOG",
@@ -918,7 +1054,9 @@
           "close": 250.88,
           "ret_d1": 5.31,
           "ret_d3": 6.81,
-          "ret_w1": 14.86
+          "ret_w1": 14.86,
+          "cur": -3.97,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -931,7 +1069,9 @@
           "close": 403.46,
           "ret_d1": -4.09,
           "ret_d3": -0.22,
-          "ret_w1": 2.18
+          "ret_w1": 2.18,
+          "cur": 4.83,
+          "broke": false
         }
       ]
     },
@@ -949,7 +1089,9 @@
           "close": 44.44,
           "ret_d1": 6.08,
           "ret_d3": 13.05,
-          "ret_w1": 19.76
+          "ret_w1": 19.76,
+          "cur": 32.29,
+          "broke": false
         },
         {
           "code": "HUM",
@@ -962,7 +1104,9 @@
           "close": 365.41,
           "ret_d1": 0.34,
           "ret_d3": 2.49,
-          "ret_w1": -0.44
+          "ret_w1": -0.44,
+          "cur": 6.41,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -975,7 +1119,9 @@
           "close": 61.82,
           "ret_d1": -1.59,
           "ret_d3": 3.14,
-          "ret_w1": 8.36
+          "ret_w1": 8.36,
+          "cur": 8.49,
+          "broke": false
         },
         {
           "code": "WST",
@@ -988,7 +1134,9 @@
           "close": 337.46,
           "ret_d1": 0.63,
           "ret_d3": 3.11,
-          "ret_w1": 4.02
+          "ret_w1": 4.02,
+          "cur": 4.39,
+          "broke": false
         },
         {
           "code": "JBHT",
@@ -1001,7 +1149,9 @@
           "close": 276.14,
           "ret_d1": -2.51,
           "ret_d3": -3.34,
-          "ret_w1": -1.26
+          "ret_w1": -1.26,
+          "cur": -0.07,
+          "broke": false
         },
         {
           "code": "NTRS",
@@ -1014,7 +1164,9 @@
           "close": 177.65,
           "ret_d1": 2.74,
           "ret_d3": 2.56,
-          "ret_w1": 3.79
+          "ret_w1": 3.79,
+          "cur": 7.7,
+          "broke": false
         },
         {
           "code": "CRWD",
@@ -1027,7 +1179,9 @@
           "close": 179.38,
           "ret_d1": 3.26,
           "ret_d3": 12.91,
-          "ret_w1": 16.99
+          "ret_w1": 16.99,
+          "cur": 23.64,
+          "broke": false
         },
         {
           "code": "FTNT",
@@ -1040,7 +1194,9 @@
           "close": 153.22,
           "ret_d1": 0.67,
           "ret_d3": 6.52,
-          "ret_w1": 7.12
+          "ret_w1": 7.12,
+          "cur": 4.97,
+          "broke": false
         },
         {
           "code": "URI",
@@ -1053,7 +1209,9 @@
           "close": 1055.11,
           "ret_d1": 1.28,
           "ret_d3": 5.76,
-          "ret_w1": 10.13
+          "ret_w1": 10.13,
+          "cur": 7.03,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -1066,7 +1224,9 @@
           "close": 386.95,
           "ret_d1": 0.47,
           "ret_d3": 5.01,
-          "ret_w1": 6.3
+          "ret_w1": 6.3,
+          "cur": 9.3,
+          "broke": false
         }
       ]
     },
@@ -1084,7 +1244,9 @@
           "close": 366.66,
           "ret_d1": -0.76,
           "ret_d3": -1.23,
-          "ret_w1": 0.16
+          "ret_w1": 0.16,
+          "cur": 6.05,
+          "broke": false
         },
         {
           "code": "WST",
@@ -1097,7 +1259,9 @@
           "close": 339.59,
           "ret_d1": 0.4,
           "ret_d3": 2.7,
-          "ret_w1": 2.65
+          "ret_w1": 2.65,
+          "cur": 3.74,
+          "broke": false
         },
         {
           "code": "CRWD",
@@ -1110,7 +1274,9 @@
           "close": 185.22,
           "ret_d1": 3.05,
           "ret_d3": 14.04,
-          "ret_w1": 11.97
+          "ret_w1": 11.97,
+          "cur": 19.74,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -1123,7 +1289,9 @@
           "close": 60.84,
           "ret_d1": 2.27,
           "ret_d3": 5.31,
-          "ret_w1": 5.52
+          "ret_w1": 5.52,
+          "cur": 10.24,
+          "broke": false
         },
         {
           "code": "PANW",
@@ -1136,7 +1304,9 @@
           "close": 325.68,
           "ret_d1": 1.89,
           "ret_d3": 12.48,
-          "ret_w1": 10.38
+          "ret_w1": 10.38,
+          "cur": 18.83,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -1149,7 +1319,9 @@
           "close": 388.75,
           "ret_d1": 3.55,
           "ret_d3": 6.05,
-          "ret_w1": 6.26
+          "ret_w1": 6.26,
+          "cur": 8.8,
+          "broke": false
         },
         {
           "code": "JBHT",
@@ -1162,7 +1334,9 @@
           "close": 269.21,
           "ret_d1": 0.94,
           "ret_d3": 1.96,
-          "ret_w1": -0.73
+          "ret_w1": -0.73,
+          "cur": 2.51,
+          "broke": false
         },
         {
           "code": "IBKR",
@@ -1175,7 +1349,9 @@
           "close": 90.48,
           "ret_d1": -2.75,
           "ret_d3": -2.04,
-          "ret_w1": -4.93
+          "ret_w1": -4.93,
+          "cur": 1.3,
+          "broke": false
         },
         {
           "code": "FTNT",
@@ -1188,7 +1364,9 @@
           "close": 154.25,
           "ret_d1": 4.99,
           "ret_d3": 9.1,
-          "ret_w1": 3.8
+          "ret_w1": 3.8,
+          "cur": 4.27,
+          "broke": false
         },
         {
           "code": "LLY",
@@ -1201,7 +1379,9 @@
           "close": 1154.97,
           "ret_d1": -0.53,
           "ret_d3": -3.4,
-          "ret_w1": 3.2
+          "ret_w1": 3.2,
+          "cur": 5.65,
+          "broke": false
         }
       ]
     },
@@ -1219,7 +1399,9 @@
           "close": 363.86,
           "ret_d1": 2.92,
           "ret_d3": -0.01,
-          "ret_w1": 5.81
+          "ret_w1": 5.81,
+          "cur": 6.86,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -1232,7 +1414,9 @@
           "close": 62.22,
           "ret_d1": 2.48,
           "ret_d3": 7.67,
-          "ret_w1": 5.71
+          "ret_w1": 5.71,
+          "cur": 7.79,
+          "broke": false
         },
         {
           "code": "DELL",
@@ -1245,7 +1429,9 @@
           "close": 405.37,
           "ret_d1": 5.83,
           "ret_d3": 14.14,
-          "ret_w1": 11.94
+          "ret_w1": 11.94,
+          "cur": 19.52,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -1258,7 +1444,9 @@
           "close": 402.57,
           "ret_d1": 0.94,
           "ret_d3": 2.17,
-          "ret_w1": -0.58
+          "ret_w1": -0.58,
+          "cur": 5.06,
+          "broke": false
         },
         {
           "code": "JBHT",
@@ -1271,7 +1459,9 @@
           "close": 271.75,
           "ret_d1": -1.78,
           "ret_d3": 0.33,
-          "ret_w1": -1.19
+          "ret_w1": -1.19,
+          "cur": 1.55,
+          "broke": false
         },
         {
           "code": "WST",
@@ -1284,7 +1474,9 @@
           "close": 340.96,
           "ret_d1": 2.05,
           "ret_d3": 2.95,
-          "ret_w1": 3.85
+          "ret_w1": 3.85,
+          "cur": 3.32,
+          "broke": false
         },
         {
           "code": "CRWD",
@@ -1297,7 +1489,9 @@
           "close": 190.86,
           "ret_d1": 6.12,
           "ret_d3": 9.95,
-          "ret_w1": 12.34
+          "ret_w1": 12.34,
+          "cur": 16.2,
+          "broke": false
         },
         {
           "code": "UNH",
@@ -1310,7 +1504,9 @@
           "close": 414.4,
           "ret_d1": 0.23,
           "ret_d3": -0.4,
-          "ret_w1": -1.77
+          "ret_w1": -1.77,
+          "cur": -2.13,
+          "broke": false
         },
         {
           "code": "PANW",
@@ -1323,7 +1519,9 @@
           "close": 331.83,
           "ret_d1": 4.61,
           "ret_d3": 9.29,
-          "ret_w1": 9.65
+          "ret_w1": 9.65,
+          "cur": 16.63,
+          "broke": false
         },
         {
           "code": "CVS",
@@ -1336,7 +1534,9 @@
           "close": 104.43,
           "ret_d1": 0.9,
           "ret_d3": -5.08,
-          "ret_w1": -8.36
+          "ret_w1": -8.36,
+          "cur": -9.3,
+          "broke": false
         }
       ]
     },
@@ -1354,7 +1554,9 @@
           "close": 63.76,
           "ret_d1": 0.49,
           "ret_d3": 0.69,
-          "ret_w1": 4.41
+          "ret_w1": 4.41,
+          "cur": 5.19,
+          "broke": false
         },
         {
           "code": "HUM",
@@ -1367,7 +1569,9 @@
           "close": 374.5,
           "ret_d1": -3.3,
           "ret_d3": -1.94,
-          "ret_w1": 2.99
+          "ret_w1": 2.99,
+          "cur": 3.83,
+          "broke": false
         },
         {
           "code": "WDC",
@@ -1380,7 +1584,9 @@
           "close": 527.22,
           "ret_d1": 4.05,
           "ret_d3": -14.36,
-          "ret_w1": -16.86
+          "ret_w1": -16.86,
+          "cur": -13.87,
+          "broke": false
         },
         {
           "code": "STX",
@@ -1393,7 +1599,9 @@
           "close": 831.06,
           "ret_d1": 1.72,
           "ret_d3": 2.63,
-          "ret_w1": -3.62
+          "ret_w1": -3.62,
+          "cur": 5.67,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -1406,7 +1614,9 @@
           "close": 484.64,
           "ret_d1": 7.0,
           "ret_d3": 0.96,
-          "ret_w1": -3.11
+          "ret_w1": -3.11,
+          "cur": -0.35,
+          "broke": false
         },
         {
           "code": "AMAT",
@@ -1419,7 +1629,9 @@
           "close": 518.21,
           "ret_d1": 5.48,
           "ret_d3": 1.79,
-          "ret_w1": 0.75
+          "ret_w1": 0.75,
+          "cur": 5.78,
+          "broke": false
         },
         {
           "code": "UNH",
@@ -1432,7 +1644,9 @@
           "close": 415.36,
           "ret_d1": -1.88,
           "ret_d3": -2.74,
-          "ret_w1": -1.59
+          "ret_w1": -1.59,
+          "cur": -2.35,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -1445,7 +1659,9 @@
           "close": 406.35,
           "ret_d1": 1.45,
           "ret_d3": 1.65,
-          "ret_w1": 0.9
+          "ret_w1": 0.9,
+          "cur": 4.09,
+          "broke": false
         },
         {
           "code": "CSCO",
@@ -1458,7 +1674,9 @@
           "close": 115.86,
           "ret_d1": 5.08,
           "ret_d3": 4.33,
-          "ret_w1": 5.79
+          "ret_w1": 5.79,
+          "cur": 6.92,
+          "broke": false
         },
         {
           "code": "CVS",
@@ -1471,7 +1689,9 @@
           "close": 105.37,
           "ret_d1": -0.9,
           "ret_d3": -8.68,
-          "ret_w1": -9.21
+          "ret_w1": -9.21,
+          "cur": -10.11,
+          "broke": false
         }
       ]
     },
@@ -1489,7 +1709,9 @@
           "close": 362.16,
           "ret_d1": 0.46,
           "ret_d3": 6.31,
-          "ret_w1": 2.94
+          "ret_w1": 2.94,
+          "cur": 7.36,
+          "broke": false
         },
         {
           "code": "WDC",
@@ -1502,7 +1724,9 @@
           "close": 548.56,
           "ret_d1": -5.36,
           "ret_d3": -20.83,
-          "ret_w1": -20.17
+          "ret_w1": -20.17,
+          "cur": -17.22,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -1515,7 +1739,9 @@
           "close": 64.07,
           "ret_d1": 4.56,
           "ret_d3": 2.65,
-          "ret_w1": 1.26
+          "ret_w1": 1.26,
+          "cur": 4.68,
+          "broke": false
         },
         {
           "code": "AMAT",
@@ -1528,7 +1754,9 @@
           "close": 546.62,
           "ret_d1": -2.26,
           "ret_d3": -1.37,
-          "ret_w1": -3.84
+          "ret_w1": -3.84,
+          "cur": 0.28,
+          "broke": false
         },
         {
           "code": "STX",
@@ -1541,7 +1769,9 @@
           "close": 845.35,
           "ret_d1": -0.91,
           "ret_d3": -3.86,
-          "ret_w1": -2.94
+          "ret_w1": -2.94,
+          "cur": 3.89,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -1554,7 +1784,9 @@
           "close": 518.58,
           "ret_d1": -7.04,
           "ret_d3": -6.79,
-          "ret_w1": -8.53
+          "ret_w1": -8.53,
+          "cur": -6.87,
+          "broke": false
         },
         {
           "code": "MU",
@@ -1567,7 +1799,9 @@
           "close": 892.67,
           "ret_d1": 0.06,
           "ret_d3": -1.69,
-          "ret_w1": -2.71
+          "ret_w1": -2.71,
+          "cur": 2.09,
+          "broke": false
         },
         {
           "code": "CVS",
@@ -1580,7 +1814,9 @@
           "close": 104.42,
           "ret_d1": -5.08,
           "ret_d3": -8.35,
-          "ret_w1": -10.46
+          "ret_w1": -10.46,
+          "cur": -9.29,
+          "broke": false
         },
         {
           "code": "DVA",
@@ -1593,7 +1829,9 @@
           "close": 227.99,
           "ret_d1": -17.24,
           "ret_d3": -19.4,
-          "ret_w1": -21.78
+          "ret_w1": -21.78,
+          "cur": -20.39,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -1606,7 +1844,9 @@
           "close": 412.25,
           "ret_d1": -0.23,
           "ret_d3": -2.92,
-          "ret_w1": 0.42
+          "ret_w1": 0.42,
+          "cur": 2.6,
+          "broke": false
         }
       ]
     },
@@ -1624,7 +1864,10 @@
           "rank": 4,
           "close": 363.82,
           "ret_d1": 0.94,
-          "ret_d3": 6.01
+          "ret_d3": 6.01,
+          "ret_w1": 6.87,
+          "cur": 6.87,
+          "broke": false
         },
         {
           "code": "AMAT",
@@ -1637,7 +1880,10 @@
           "rank": 2,
           "close": 534.24,
           "ret_d1": -1.27,
-          "ret_d3": -2.27
+          "ret_d3": -2.27,
+          "ret_w1": 2.6,
+          "cur": 2.6,
+          "broke": false
         },
         {
           "code": "MU",
@@ -1650,7 +1896,10 @@
           "rank": 1,
           "close": 893.19,
           "ret_d1": -1.31,
-          "ret_d3": -3.6
+          "ret_d3": -3.6,
+          "ret_w1": 2.03,
+          "cur": 2.03,
+          "broke": false
         },
         {
           "code": "STX",
@@ -1663,7 +1912,10 @@
           "rank": 1,
           "close": 837.66,
           "ret_d1": 1.83,
-          "ret_d3": -4.38
+          "ret_d3": -4.38,
+          "ret_w1": 4.84,
+          "cur": 4.84,
+          "broke": false
         },
         {
           "code": "WDC",
@@ -1676,7 +1928,10 @@
           "rank": 1,
           "close": 519.17,
           "ret_d1": -13.03,
-          "ret_d3": -15.57
+          "ret_d3": -15.57,
+          "ret_w1": -12.53,
+          "cur": -12.53,
+          "broke": false
         },
         {
           "code": "INTC",
@@ -1689,7 +1944,10 @@
           "rank": 0,
           "close": 101.06,
           "ret_d1": -1.24,
-          "ret_d3": -3.5
+          "ret_d3": -3.5,
+          "ret_w1": -0.11,
+          "cur": -0.11,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -1702,7 +1960,10 @@
           "rank": 1,
           "close": 482.05,
           "ret_d1": 1.5,
-          "ret_d3": -2.59
+          "ret_d3": -2.59,
+          "ret_w1": 0.18,
+          "cur": 0.18,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -1715,7 +1976,10 @@
           "rank": 2,
           "close": 411.32,
           "ret_d1": 0.43,
-          "ret_d3": -0.32
+          "ret_d3": -0.32,
+          "ret_w1": 2.83,
+          "cur": 2.83,
+          "broke": false
         },
         {
           "code": "TER",
@@ -1728,7 +1992,10 @@
           "rank": 2,
           "close": 389.39,
           "ret_d1": -1.16,
-          "ret_d3": -6.24
+          "ret_d3": -6.24,
+          "ret_w1": 3.43,
+          "cur": 3.43,
+          "broke": false
         },
         {
           "code": "MRVL",
@@ -1741,7 +2008,10 @@
           "rank": 0,
           "close": 211.02,
           "ret_d1": -0.23,
-          "ret_d3": -1.17
+          "ret_d3": -1.17,
+          "ret_w1": 2.87,
+          "cur": 2.87,
+          "broke": false
         }
       ]
     },
@@ -1759,7 +2029,9 @@
           "rank": 4,
           "close": 367.24,
           "ret_d1": 4.84,
-          "ret_d3": 1.52
+          "ret_d3": 1.52,
+          "cur": 5.88,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -1772,7 +2044,9 @@
           "rank": 2,
           "close": 64.2,
           "ret_d1": 2.45,
-          "ret_d3": 1.06
+          "ret_d3": 1.06,
+          "cur": 4.47,
+          "broke": false
         },
         {
           "code": "DELL",
@@ -1785,7 +2059,9 @@
           "rank": 1,
           "close": 437.65,
           "ret_d1": 3.68,
-          "ret_d3": 0.76
+          "ret_d3": 0.76,
+          "cur": 10.7,
+          "broke": false
         },
         {
           "code": "AMAT",
@@ -1798,7 +2074,9 @@
           "rank": 2,
           "close": 527.48,
           "ret_d1": 2.21,
-          "ret_d3": -0.35
+          "ret_d3": -0.35,
+          "cur": 3.92,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -1811,7 +2089,9 @@
           "rank": 4,
           "close": 489.28,
           "ret_d1": -1.21,
-          "ret_d3": -3.06
+          "ret_d3": -3.06,
+          "cur": -1.3,
+          "broke": false
         },
         {
           "code": "FTNT",
@@ -1824,7 +2104,9 @@
           "rank": 1,
           "close": 160.11,
           "ret_d1": -0.29,
-          "ret_d3": 1.11
+          "ret_d3": 1.11,
+          "cur": 0.46,
+          "broke": false
         },
         {
           "code": "STX",
@@ -1837,7 +2119,9 @@
           "rank": 4,
           "close": 852.95,
           "ret_d1": -4.71,
-          "ret_d3": -3.8
+          "ret_d3": -3.8,
+          "cur": 2.96,
+          "broke": false
         },
         {
           "code": "MU",
@@ -1850,7 +2134,9 @@
           "rank": 1,
           "close": 881.47,
           "ret_d1": -0.44,
-          "ret_d3": -1.47
+          "ret_d3": -1.47,
+          "cur": 3.38,
+          "broke": false
         },
         {
           "code": "TER",
@@ -1863,7 +2149,9 @@
           "rank": 2,
           "close": 384.89,
           "ret_d1": -1.45,
-          "ret_d3": -1.38
+          "ret_d3": -1.38,
+          "cur": 4.64,
+          "broke": false
         },
         {
           "code": "MRVL",
@@ -1876,7 +2164,9 @@
           "rank": 0,
           "close": 210.54,
           "ret_d1": 3.89,
-          "ret_d3": 0.84
+          "ret_d3": 0.84,
+          "cur": 3.11,
+          "broke": false
         }
       ]
     },
@@ -1893,7 +2183,10 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 539.14,
-          "ret_d1": -3.16
+          "ret_d1": -3.16,
+          "ret_d3": 1.67,
+          "cur": 1.67,
+          "broke": false
         },
         {
           "code": "FTNT",
@@ -1905,7 +2198,10 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 159.64,
-          "ret_d1": 2.86
+          "ret_d1": 2.86,
+          "ret_d3": 0.75,
+          "cur": 0.75,
+          "broke": false
         },
         {
           "code": "MU",
@@ -1917,7 +2213,10 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 877.57,
-          "ret_d1": -1.89
+          "ret_d1": -1.89,
+          "ret_d3": 3.84,
+          "cur": 3.84,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -1929,7 +2228,10 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 483.36,
-          "ret_d1": -2.86
+          "ret_d1": -2.86,
+          "ret_d3": -0.09,
+          "cur": -0.09,
+          "broke": false
         },
         {
           "code": "STX",
@@ -1941,7 +2243,10 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 812.76,
-          "ret_d1": -1.45
+          "ret_d1": -1.45,
+          "ret_d3": 8.05,
+          "cur": 8.05,
+          "broke": false
         },
         {
           "code": "HUM",
@@ -1953,7 +2258,10 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 385.0,
-          "ret_d1": 0.18
+          "ret_d1": 0.18,
+          "ret_d3": 0.99,
+          "cur": 0.99,
+          "broke": false
         },
         {
           "code": "TER",
@@ -1965,7 +2273,10 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 379.31,
-          "ret_d1": -3.75
+          "ret_d1": -3.75,
+          "ret_d3": 6.18,
+          "cur": 6.18,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -1977,7 +2288,10 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 65.77,
-          "ret_d1": 1.22
+          "ret_d1": 1.22,
+          "ret_d3": 1.98,
+          "cur": 1.98,
+          "broke": false
         },
         {
           "code": "BEN",
@@ -1989,7 +2303,10 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 33.77,
-          "ret_d1": -0.74
+          "ret_d1": -0.74,
+          "ret_d3": -0.53,
+          "cur": -0.53,
+          "broke": false
         },
         {
           "code": "LRCX",
@@ -2001,7 +2318,10 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 311.35,
-          "ret_d1": -1.59
+          "ret_d1": -1.59,
+          "ret_d3": 4.74,
+          "cur": 4.74,
+          "broke": false
         }
       ]
     },
@@ -2018,7 +2338,9 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 59.81,
-          "ret_d1": 1.27
+          "ret_d1": 1.27,
+          "cur": 6.45,
+          "broke": false
         },
         {
           "code": "HUM",
@@ -2030,7 +2352,9 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 385.7,
-          "ret_d1": -3.34
+          "ret_d1": -3.34,
+          "cur": 0.81,
+          "broke": false
         },
         {
           "code": "AMAT",
@@ -2042,7 +2366,9 @@
           "status": "눌림 조건 양호",
           "rank": 2,
           "close": 522.12,
-          "ret_d1": 0.67
+          "ret_d1": 0.67,
+          "cur": 4.99,
+          "broke": false
         },
         {
           "code": "MU",
@@ -2054,7 +2380,9 @@
           "status": "추세 훼손 주의",
           "rank": 0,
           "close": 861.0,
-          "ret_d1": 0.87
+          "ret_d1": 0.87,
+          "cur": 5.84,
+          "broke": false
         },
         {
           "code": "INTC",
@@ -2066,7 +2394,9 @@
           "status": "추세 훼손 주의",
           "rank": 0,
           "close": 97.52,
-          "ret_d1": 0.19
+          "ret_d1": 0.19,
+          "cur": 3.52,
+          "broke": false
         },
         {
           "code": "STX",
@@ -2078,7 +2408,9 @@
           "status": "추세 훼손 주의",
           "rank": 0,
           "close": 800.99,
-          "ret_d1": 2.44
+          "ret_d1": 2.44,
+          "cur": 9.64,
+          "broke": false
         },
         {
           "code": "FFIV",
@@ -2090,7 +2422,9 @@
           "status": "단기 반등 신호",
           "rank": 4,
           "close": 409.99,
-          "ret_d1": 0.98
+          "ret_d1": 0.98,
+          "cur": 3.16,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -2102,7 +2436,9 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 66.57,
-          "ret_d1": -2.54
+          "ret_d1": -2.54,
+          "cur": 0.75,
+          "broke": false
         },
         {
           "code": "FLEX",
@@ -2114,7 +2450,9 @@
           "status": "추세 훼손 주의",
           "rank": 0,
           "close": 119.7,
-          "ret_d1": 2.26
+          "ret_d1": 2.26,
+          "cur": 4.04,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -2126,7 +2464,9 @@
           "status": "조건 혼합",
           "rank": 1,
           "close": 469.56,
-          "ret_d1": 1.01
+          "ret_d1": 1.01,
+          "cur": 2.85,
+          "broke": false
         }
       ]
     },
@@ -2142,7 +2482,10 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 372.82
+          "close": 372.82,
+          "ret_d1": 4.29,
+          "cur": 4.29,
+          "broke": false
         },
         {
           "code": "AMAT",
@@ -2153,7 +2496,10 @@
           "tier": 1,
           "status": "초기 반등 관찰",
           "rank": 3,
-          "close": 525.61
+          "close": 525.61,
+          "ret_d1": 4.29,
+          "cur": 4.29,
+          "broke": false
         },
         {
           "code": "DELL",
@@ -2164,7 +2510,10 @@
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 440.97
+          "close": 440.97,
+          "ret_d1": 9.87,
+          "cur": 9.87,
+          "broke": false
         },
         {
           "code": "MRNA",
@@ -2175,7 +2524,10 @@
           "tier": 1,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 60.57
+          "close": 60.57,
+          "ret_d1": 5.12,
+          "cur": 5.12,
+          "broke": false
         },
         {
           "code": "STX",
@@ -2186,7 +2538,10 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 820.52
+          "close": 820.52,
+          "ret_d1": 7.03,
+          "cur": 7.03,
+          "broke": false
         },
         {
           "code": "FTNT",
@@ -2197,7 +2552,10 @@
           "tier": 2,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 161.89
+          "close": 161.89,
+          "ret_d1": -0.65,
+          "cur": -0.65,
+          "broke": false
         },
         {
           "code": "CNC",
@@ -2208,7 +2566,10 @@
           "tier": 1,
           "status": "눌림 조건 양호",
           "rank": 2,
-          "close": 64.88
+          "close": 64.88,
+          "ret_d1": 3.38,
+          "cur": 3.38,
+          "broke": false
         },
         {
           "code": "MU",
@@ -2219,7 +2580,10 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 868.52
+          "close": 868.52,
+          "ret_d1": 4.92,
+          "cur": 4.92,
+          "broke": false
         },
         {
           "code": "TER",
@@ -2230,7 +2594,10 @@
           "tier": 2,
           "status": "단기 반등 신호",
           "rank": 4,
-          "close": 379.56
+          "close": 379.56,
+          "ret_d1": 6.11,
+          "cur": 6.11,
+          "broke": false
         },
         {
           "code": "AMD",
@@ -2241,7 +2608,155 @@
           "tier": 1,
           "status": "조건 혼합",
           "rank": 1,
-          "close": 474.32
+          "close": 474.32,
+          "ret_d1": 1.82,
+          "cur": 1.82,
+          "broke": false
+        }
+      ]
+    },
+    {
+      "date": "2026-08-12",
+      "picks": [
+        {
+          "code": "AMAT",
+          "name": "Applied Materials",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 548.15,
+          "stop": 526.73,
+          "cur": 0.0,
+          "broke": false
+        },
+        {
+          "code": "MU",
+          "name": "Micron Technology",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 911.29,
+          "stop": 879.09,
+          "cur": -0.0,
+          "broke": false
+        },
+        {
+          "code": "AMD",
+          "name": "Advanced Micro Devices",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 482.93,
+          "stop": 449.12,
+          "cur": -0.0,
+          "broke": false
+        },
+        {
+          "code": "FTNT",
+          "name": "Fortinet",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "강세지속",
+          "tier": 1,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 160.84,
+          "stop": 156.82,
+          "cur": -0.0,
+          "broke": false
+        },
+        {
+          "code": "KLAC",
+          "name": "KLA Corporation",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "조건 혼합",
+          "rank": 1,
+          "close": 208.25,
+          "stop": 199.63,
+          "cur": 0.0,
+          "broke": false
+        },
+        {
+          "code": "LRCX",
+          "name": "Lam Research",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 326.11,
+          "stop": 304.62,
+          "cur": -0.0,
+          "broke": false
+        },
+        {
+          "code": "HUM",
+          "name": "Humana",
+          "market": "US",
+          "sector": "Health Care",
+          "type": "눌림",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 388.83,
+          "stop": 379.11,
+          "cur": -0.0,
+          "broke": false
+        },
+        {
+          "code": "ARM",
+          "name": "ARM",
+          "market": "US",
+          "sector": "",
+          "type": "눌림",
+          "tier": 1,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 271.87,
+          "stop": 265.07,
+          "cur": -0.0,
+          "broke": false
+        },
+        {
+          "code": "STX",
+          "name": "Seagate Technology",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "추격주의",
+          "tier": 1,
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 878.21,
+          "stop": 830.83,
+          "cur": 0.0,
+          "broke": false
+        },
+        {
+          "code": "INTC",
+          "name": "Intel",
+          "market": "US",
+          "sector": "Information Technology",
+          "type": "눌림",
+          "tier": 1,
+          "status": "추세 훼손 주의",
+          "rank": 0,
+          "close": 100.95,
+          "stop": 96.07,
+          "cur": -0.0,
+          "broke": false
         }
       ]
     }
