@@ -1,28 +1,28 @@
 {
-  "as_of": "2026-08-12",
+  "as_of": "2026-08-13",
   "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
   "regime_tone": "risk_on",
-  "oscillator": null,
-  "sector_leaders": "클라우드(79·과열) · 반도체(71) · 바이오(69) · Information Technology(62)",
+  "oscillator": {
+    "level": "탐욕",
+    "stance": "중립",
+    "label": "탐욕 · 탐욕권 둔화 → 과열 경계 (F&G 0.82, osc +0.013 ↓)"
+  },
+  "sector_leaders": "클라우드(83·과열) · 반도체(70) · 바이오(64) · Information Technology(62)",
   "peakout": {
-    "date": "2026-08-13",
+    "date": "2026-08-14",
     "n": 40,
-    "breadth_score": 51.2,
-    "above_ma20": 70.0,
-    "above_ma60": 25.0,
-    "above_ma200": 88.0,
-    "slope_5d": 7.1,
-    "slope_10d": 15.4,
-    "falling_days_10d": 3,
-    "breadth_from_20d_high": -8.0,
+    "breadth_score": 53.8,
+    "above_ma20": 80.0,
+    "above_ma60": 28.0,
+    "above_ma200": 90.0,
+    "slope_5d": 7.2,
+    "slope_10d": 19.7,
+    "falling_days_10d": 2,
+    "breadth_from_20d_high": -0.9,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "중립",
     "series": [
-      {
-        "i": 357.34,
-        "b": 73.2
-      },
       {
         "i": 357.97,
         "b": 73.2
@@ -496,8 +496,12 @@
         "b": 49.2
       },
       {
-        "i": 597.94,
-        "b": 51.2
+        "i": 614.44,
+        "b": 51.7
+      },
+      {
+        "i": 618.8,
+        "b": 53.8
       }
     ]
   },
@@ -514,25 +518,25 @@
       "sector": "Information Technology"
     },
     {
-      "code": "HPE",
-      "name": "Hewlett Packard Enterprise",
-      "sector": "Information Technology"
-    },
-    {
       "code": "TEAM",
       "name": "TEAM",
       "sector": ""
     },
     {
-      "code": "PANW",
-      "name": "Palo Alto Networks",
+      "code": "HPE",
+      "name": "Hewlett Packard Enterprise",
       "sector": "Information Technology"
     },
     {
-      "code": "MU",
-      "name": "Micron Technology",
+      "code": "SNDK",
+      "name": "Sandisk",
+      "sector": "Information Technology"
+    },
+    {
+      "code": "PANW",
+      "name": "Palo Alto Networks",
       "sector": "Information Technology"
     }
   ],
-  "semis_leading": true
+  "semis_leading": false
 }
