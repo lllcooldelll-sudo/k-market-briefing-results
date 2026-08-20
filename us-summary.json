@@ -1,28 +1,28 @@
 {
-  "as_of": "2026-08-19",
+  "as_of": "2026-08-20",
   "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
   "regime_tone": "risk_on",
-  "oscillator": null,
-  "sector_leaders": "바이오(80) · 클라우드(76) · 금광(68·과열) · 에너지 E&P(67)",
+  "oscillator": {
+    "level": "탐욕",
+    "stance": "신중",
+    "label": "탐욕 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.71, osc -0.006 ↓)"
+  },
+  "sector_leaders": "클라우드(75) · 바이오(74) · 금광(74·과열) · 에너지 E&P(70)",
   "peakout": {
-    "date": "2026-08-19",
+    "date": "2026-08-20",
     "n": 40,
-    "breadth_score": 51.8,
-    "above_ma20": 30.0,
-    "above_ma60": 12.0,
+    "breadth_score": 47.5,
+    "above_ma20": 32.0,
+    "above_ma60": 18.0,
     "above_ma200": 78.0,
-    "slope_5d": 2.6,
-    "slope_10d": 10.2,
-    "falling_days_10d": 3,
-    "breadth_from_20d_high": -5.1,
+    "slope_5d": -4.1,
+    "slope_10d": 3.4,
+    "falling_days_10d": 4,
+    "breadth_from_20d_high": -9.3,
     "bearish_divergence": false,
     "strong_divergence": false,
-    "risk_level": "중립",
+    "risk_level": "약세 반등",
     "series": [
-      {
-        "i": 337.73,
-        "b": 66.1
-      },
       {
         "i": 322.52,
         "b": 63.0
@@ -498,21 +498,20 @@
       {
         "i": 591.7,
         "b": 51.8
+      },
+      {
+        "i": 605.2,
+        "b": 47.5
       }
     ]
   },
   "exposure": {
-    "max_pct": 85,
+    "max_pct": 55,
     "margin_ok": false,
     "note": "선별 접근 — 신용 자제",
-    "risk_level": "중립"
+    "risk_level": "약세 반등"
   },
   "rs_top5": [
-    {
-      "code": "MRNA",
-      "name": "Moderna",
-      "sector": "Health Care"
-    },
     {
       "code": "TEAM",
       "name": "TEAM",
@@ -531,6 +530,11 @@
     {
       "code": "MU",
       "name": "Micron Technology",
+      "sector": "Information Technology"
+    },
+    {
+      "code": "MRVL",
+      "name": "Marvell Technology",
       "sector": "Information Technology"
     }
   ],
