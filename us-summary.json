@@ -1,33 +1,29 @@
 {
-  "as_of": "2026-08-26",
+  "as_of": "2026-08-27",
   "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
   "regime_tone": "risk_on",
   "oscillator": {
     "level": "탐욕",
-    "stance": "신중",
-    "label": "탐욕 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.72, MACD +0.003 0선위, hist -0.011 ↓)"
+    "stance": "우호",
+    "label": "탐욕 · 공포 진정·반등 초입 → 눌림 매수 유효 (F&G 0.74, MACD +0.003 0선위, hist -0.009 ↑)"
   },
-  "sector_leaders": "바이오(77) · 금광(77·과열) · 클라우드(74) · 에너지 E&P(65)",
+  "sector_leaders": "클라우드(80) · 금광(78·과열) · 바이오(76) · 소프트웨어(69·과열)",
   "peakout": {
-    "date": "2026-08-27",
+    "date": "2026-08-28",
     "n": 40,
     "stale_n": 30,
-    "leader_breadth": 36.0,
-    "above_ma20": 42.0,
-    "above_ma60": 15.0,
-    "above_ma200": 80.0,
-    "slope_5d": -11.5,
-    "slope_10d": -15.6,
-    "falling_days_10d": 7,
-    "breadth_from_20d_high": -20.8,
+    "leader_breadth": 39.3,
+    "above_ma20": 50.0,
+    "above_ma60": 22.0,
+    "above_ma200": 85.0,
+    "slope_5d": -3.8,
+    "slope_10d": -14.3,
+    "falling_days_10d": 6,
+    "breadth_from_20d_high": -17.6,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "위험",
     "series": [
-      {
-        "i": 337.4,
-        "b": 64.5
-      },
       {
         "i": 347.73,
         "b": 65.7
@@ -501,13 +497,17 @@
         "b": 36.4
       },
       {
-        "i": 597.97,
-        "b": 36.0
+        "i": 601.2,
+        "b": 37.5
+      },
+      {
+        "i": 600.35,
+        "b": 39.3
       }
     ]
   },
   "exposure": {
-    "max_pct": 45,
+    "max_pct": 60,
     "margin_ok": false,
     "note": "주도주 둔화 — 비중 축소·신용 금지",
     "risk_level": "위험"
@@ -529,13 +529,13 @@
       "sector": "Information Technology"
     },
     {
-      "code": "HPE",
-      "name": "Hewlett Packard Enterprise",
+      "code": "PANW",
+      "name": "Palo Alto Networks",
       "sector": "Information Technology"
     },
     {
-      "code": "SNDK",
-      "name": "Sandisk",
+      "code": "CRWD",
+      "name": "CrowdStrike",
       "sector": "Information Technology"
     }
   ],
