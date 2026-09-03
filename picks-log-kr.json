@@ -3287,8 +3287,7 @@
           "ret_w1": 14.04,
           "cur": -5.11,
           "broke": false,
-          "ret_m1": -5.11,
-          "ret_m1_prov": true
+          "ret_m1": -5.11
         },
         {
           "code": "105560",
@@ -3304,8 +3303,7 @@
           "ret_w1": 1.3,
           "cur": 4.96,
           "broke": false,
-          "ret_m1": 4.96,
-          "ret_m1_prov": true
+          "ret_m1": 4.96
         },
         {
           "code": "001450",
@@ -3321,8 +3319,7 @@
           "ret_w1": 9.92,
           "cur": 43.43,
           "broke": false,
-          "ret_m1": 43.43,
-          "ret_m1_prov": true
+          "ret_m1": 43.43
         },
         {
           "code": "000810",
@@ -3338,8 +3335,7 @@
           "ret_w1": 2.27,
           "cur": 13.96,
           "broke": false,
-          "ret_m1": 13.96,
-          "ret_m1_prov": true
+          "ret_m1": 13.96
         },
         {
           "code": "086790",
@@ -3355,8 +3351,7 @@
           "ret_w1": 2.76,
           "cur": 9.93,
           "broke": false,
-          "ret_m1": 9.93,
-          "ret_m1_prov": true
+          "ret_m1": 9.93
         },
         {
           "code": "069730",
@@ -3372,8 +3367,7 @@
           "ret_w1": 11.62,
           "cur": 7.24,
           "broke": false,
-          "ret_m1": 7.24,
-          "ret_m1_prov": true
+          "ret_m1": 7.24
         },
         {
           "code": "055550",
@@ -3389,8 +3383,7 @@
           "ret_w1": 3.6,
           "cur": 11.49,
           "broke": false,
-          "ret_m1": 11.49,
-          "ret_m1_prov": true
+          "ret_m1": 11.49
         },
         {
           "code": "483650",
@@ -3406,8 +3399,7 @@
           "ret_w1": 8.05,
           "cur": -14.77,
           "broke": false,
-          "ret_m1": -14.77,
-          "ret_m1_prov": true
+          "ret_m1": -14.77
         },
         {
           "code": "161390",
@@ -3423,8 +3415,7 @@
           "ret_w1": 4.79,
           "cur": -0.45,
           "broke": false,
-          "ret_m1": -0.45,
-          "ret_m1_prov": true
+          "ret_m1": -0.45
         },
         {
           "code": "161890",
@@ -3440,8 +3431,7 @@
           "ret_w1": 9.4,
           "cur": 55.58,
           "broke": false,
-          "ret_m1": 55.58,
-          "ret_m1_prov": true
+          "ret_m1": 55.58
         },
         {
           "code": "019540",
@@ -3457,8 +3447,7 @@
           "ret_w1": 7.51,
           "cur": -15.65,
           "broke": false,
-          "ret_m1": -15.65,
-          "ret_m1_prov": true
+          "ret_m1": -15.65
         },
         {
           "code": "439090",
@@ -3474,8 +3463,7 @@
           "ret_w1": 9.89,
           "cur": 0.13,
           "broke": false,
-          "ret_m1": 0.13,
-          "ret_m1_prov": true
+          "ret_m1": 0.13
         },
         {
           "code": "052330",
@@ -3491,8 +3479,7 @@
           "ret_w1": 4.98,
           "cur": 0.08,
           "broke": false,
-          "ret_m1": 0.08,
-          "ret_m1_prov": true
+          "ret_m1": 0.08
         },
         {
           "code": "241710",
@@ -3508,8 +3495,7 @@
           "ret_w1": 19.65,
           "cur": 69.02,
           "broke": false,
-          "ret_m1": 69.02,
-          "ret_m1_prov": true
+          "ret_m1": 69.02
         },
         {
           "code": "053280",
@@ -3525,8 +3511,7 @@
           "ret_w1": 2.52,
           "cur": -0.63,
           "broke": false,
-          "ret_m1": -0.63,
-          "ret_m1_prov": true
+          "ret_m1": -0.63
         },
         {
           "code": "368970",
@@ -3542,8 +3527,7 @@
           "ret_w1": 2.21,
           "cur": 13.27,
           "broke": false,
-          "ret_m1": 13.27,
-          "ret_m1_prov": true
+          "ret_m1": 13.27
         },
         {
           "code": "192390",
@@ -3559,8 +3543,7 @@
           "ret_w1": 0.16,
           "cur": -1.1,
           "broke": false,
-          "ret_m1": -1.1,
-          "ret_m1_prov": true
+          "ret_m1": -1.1
         },
         {
           "code": "004780",
@@ -3576,8 +3559,7 @@
           "ret_w1": 1.36,
           "cur": 3.35,
           "broke": false,
-          "ret_m1": 3.35,
-          "ret_m1_prov": true
+          "ret_m1": 3.35
         },
         {
           "code": "053060",
@@ -3593,8 +3575,7 @@
           "ret_w1": 3.13,
           "cur": -8.67,
           "broke": false,
-          "ret_m1": -8.67,
-          "ret_m1_prov": true
+          "ret_m1": -8.67
         },
         {
           "code": "101160",
@@ -3610,8 +3591,7 @@
           "ret_w1": -0.34,
           "cur": -1.86,
           "broke": false,
-          "ret_m1": -1.86,
-          "ret_m1_prov": true
+          "ret_m1": -1.86
         }
       ]
     },
@@ -9142,8 +9122,7 @@
           "ret_d1": 1.25,
           "ret_d1_prov": true,
           "ret_d3": -2.82,
-          "ret_w1": -2.82,
-          "ret_w1_prov": true
+          "ret_w1": -2.82
         },
         {
           "code": "017900",
@@ -9168,8 +9147,7 @@
           "ret_d1": 3.55,
           "ret_d1_prov": true,
           "ret_d3": -3.94,
-          "ret_w1": -9.59,
-          "ret_w1_prov": true
+          "ret_w1": -9.59
         },
         {
           "code": "483650",
@@ -9194,8 +9172,7 @@
           "ret_d1": -3.89,
           "ret_d1_prov": true,
           "ret_d3": -10.37,
-          "ret_w1": -17.71,
-          "ret_w1_prov": true
+          "ret_w1": -17.71
         },
         {
           "code": "010060",
@@ -9220,8 +9197,7 @@
           "ret_d1": 0.18,
           "ret_d1_prov": true,
           "ret_d3": -4.36,
-          "ret_w1": -17.42,
-          "ret_w1_prov": true
+          "ret_w1": -17.42
         },
         {
           "code": "003060",
@@ -9246,8 +9222,7 @@
           "ret_d1": -3.54,
           "ret_d1_prov": true,
           "ret_d3": -10.87,
-          "ret_w1": -11.44,
-          "ret_w1_prov": true
+          "ret_w1": -11.44
         },
         {
           "code": "066570",
@@ -9272,8 +9247,7 @@
           "ret_d1": -1.1,
           "ret_d1_prov": true,
           "ret_d3": 2.99,
-          "ret_w1": -0.4,
-          "ret_w1_prov": true
+          "ret_w1": -0.4
         },
         {
           "code": "181710",
@@ -9298,8 +9272,7 @@
           "ret_d1": 7.35,
           "ret_d1_prov": true,
           "ret_d3": 7.81,
-          "ret_w1": 0.92,
-          "ret_w1_prov": true
+          "ret_w1": 0.92
         },
         {
           "code": "475150",
@@ -9324,8 +9297,7 @@
           "ret_d1": 3.53,
           "ret_d1_prov": true,
           "ret_d3": -3.9,
-          "ret_w1": -7.79,
-          "ret_w1_prov": true
+          "ret_w1": -7.79
         },
         {
           "code": "044820",
@@ -9350,8 +9322,7 @@
           "ret_d1": 0.81,
           "ret_d1_prov": true,
           "ret_d3": 3.64,
-          "ret_w1": 1.01,
-          "ret_w1_prov": true
+          "ret_w1": 1.01
         },
         {
           "code": "009150",
@@ -9376,8 +9347,7 @@
           "ret_d1": 4.14,
           "ret_d1_prov": true,
           "ret_d3": 7.52,
-          "ret_w1": 1.35,
-          "ret_w1_prov": true
+          "ret_w1": 1.35
         },
         {
           "code": "036710",
@@ -9402,8 +9372,7 @@
           "ret_d1": 1.34,
           "ret_d1_prov": true,
           "ret_d3": -0.37,
-          "ret_w1": -6.46,
-          "ret_w1_prov": true
+          "ret_w1": -6.46
         },
         {
           "code": "010170",
@@ -9428,8 +9397,7 @@
           "ret_d1": 10.07,
           "ret_d1_prov": true,
           "ret_d3": -1.41,
-          "ret_w1": -4.81,
-          "ret_w1_prov": true
+          "ret_w1": -4.81
         },
         {
           "code": "222800",
@@ -9454,8 +9422,7 @@
           "ret_d1": 12.6,
           "ret_d1_prov": true,
           "ret_d3": 11.45,
-          "ret_w1": 4.26,
-          "ret_w1_prov": true
+          "ret_w1": 4.26
         },
         {
           "code": "131290",
@@ -9480,8 +9447,7 @@
           "ret_d1": 0.6,
           "ret_d1_prov": true,
           "ret_d3": -11.33,
-          "ret_w1": -10.93,
-          "ret_w1_prov": true
+          "ret_w1": -10.93
         },
         {
           "code": "142210",
@@ -9506,8 +9472,7 @@
           "ret_d1": -1.32,
           "ret_d1_prov": true,
           "ret_d3": -0.66,
-          "ret_w1": -3.45,
-          "ret_w1_prov": true
+          "ret_w1": -3.45
         },
         {
           "code": "052330",
@@ -9532,8 +9497,7 @@
           "ret_d1": -0.51,
           "ret_d1_prov": true,
           "ret_d3": 0.76,
-          "ret_w1": 0.17,
-          "ret_w1_prov": true
+          "ret_w1": 0.17
         },
         {
           "code": "038540",
@@ -9558,8 +9522,7 @@
           "ret_d1": -0.74,
           "ret_d1_prov": true,
           "ret_d3": -0.98,
-          "ret_w1": -0.98,
-          "ret_w1_prov": true
+          "ret_w1": -0.98
         },
         {
           "code": "241770",
@@ -9584,8 +9547,7 @@
           "ret_d1": 1.05,
           "ret_d1_prov": true,
           "ret_d3": 1.84,
-          "ret_w1": -0.26,
-          "ret_w1_prov": true
+          "ret_w1": -0.26
         },
         {
           "code": "014100",
@@ -9610,8 +9572,7 @@
           "ret_d1": -0.12,
           "ret_d1_prov": true,
           "ret_d3": -2.15,
-          "ret_w1": -3.6,
-          "ret_w1_prov": true
+          "ret_w1": -3.6
         },
         {
           "code": "122350",
@@ -9636,8 +9597,7 @@
           "ret_d1": 0.98,
           "ret_d1_prov": true,
           "ret_d3": 10.54,
-          "ret_w1": 7.99,
-          "ret_w1_prov": true
+          "ret_w1": 7.99
         }
       ],
       "final": true
@@ -10152,8 +10112,7 @@
           "cur": -7.92,
           "broke": true,
           "ret_d1": -7.53,
-          "ret_d3": -7.92,
-          "ret_d3_prov": true
+          "ret_d3": -7.92
         },
         {
           "code": "007460",
@@ -10176,8 +10135,7 @@
           "cur": -11.11,
           "broke": true,
           "ret_d1": -7.69,
-          "ret_d3": -11.11,
-          "ret_d3_prov": true
+          "ret_d3": -11.11
         },
         {
           "code": "002990",
@@ -10200,8 +10158,7 @@
           "cur": 0.3,
           "broke": false,
           "ret_d1": 0.24,
-          "ret_d3": 0.3,
-          "ret_d3_prov": true
+          "ret_d3": 0.3
         },
         {
           "code": "017900",
@@ -10224,8 +10181,7 @@
           "cur": -8.27,
           "broke": true,
           "ret_d1": -2.53,
-          "ret_d3": -8.27,
-          "ret_d3_prov": true
+          "ret_d3": -8.27
         },
         {
           "code": "073240",
@@ -10248,8 +10204,7 @@
           "cur": -3.26,
           "broke": false,
           "ret_d1": 1.22,
-          "ret_d3": -3.26,
-          "ret_d3_prov": true
+          "ret_d3": -3.26
         },
         {
           "code": "010060",
@@ -10272,8 +10227,7 @@
           "cur": -18.02,
           "broke": true,
           "ret_d1": -5.05,
-          "ret_d3": -18.02,
-          "ret_d3_prov": true
+          "ret_d3": -18.02
         },
         {
           "code": "009150",
@@ -10296,8 +10250,7 @@
           "cur": -7.54,
           "broke": true,
           "ret_d1": -1.92,
-          "ret_d3": -7.54,
-          "ret_d3_prov": true
+          "ret_d3": -7.54
         },
         {
           "code": "402340",
@@ -10320,8 +10273,7 @@
           "cur": -5.4,
           "broke": false,
           "ret_d1": 2.89,
-          "ret_d3": -5.4,
-          "ret_d3_prov": true
+          "ret_d3": -5.4
         },
         {
           "code": "006340",
@@ -10344,8 +10296,7 @@
           "cur": -8.66,
           "broke": true,
           "ret_d1": -2.5,
-          "ret_d3": -8.66,
-          "ret_d3_prov": true
+          "ret_d3": -8.66
         },
         {
           "code": "475150",
@@ -10368,8 +10319,7 @@
           "cur": -9.64,
           "broke": true,
           "ret_d1": -5.82,
-          "ret_d3": -9.64,
-          "ret_d3_prov": true
+          "ret_d3": -9.64
         },
         {
           "code": "032580",
@@ -10392,8 +10342,7 @@
           "cur": -6.74,
           "broke": false,
           "ret_d1": -2.38,
-          "ret_d3": -6.74,
-          "ret_d3_prov": true
+          "ret_d3": -6.74
         },
         {
           "code": "131290",
@@ -10416,8 +10365,7 @@
           "cur": -5.49,
           "broke": true,
           "ret_d1": -5.91,
-          "ret_d3": -5.49,
-          "ret_d3_prov": true
+          "ret_d3": -5.49
         },
         {
           "code": "010170",
@@ -10440,8 +10388,7 @@
           "cur": -7.95,
           "broke": true,
           "ret_d1": -4.66,
-          "ret_d3": -7.95,
-          "ret_d3_prov": true
+          "ret_d3": -7.95
         },
         {
           "code": "125020",
@@ -10464,8 +10411,7 @@
           "cur": 2.47,
           "broke": false,
           "ret_d1": 6.71,
-          "ret_d3": 2.47,
-          "ret_d3_prov": true
+          "ret_d3": 2.47
         },
         {
           "code": "140860",
@@ -10488,8 +10434,7 @@
           "cur": -3.24,
           "broke": false,
           "ret_d1": -4.76,
-          "ret_d3": -3.24,
-          "ret_d3_prov": true
+          "ret_d3": -3.24
         },
         {
           "code": "311320",
@@ -10512,8 +10457,7 @@
           "cur": -1.06,
           "broke": false,
           "ret_d1": 2.35,
-          "ret_d3": -1.06,
-          "ret_d3_prov": true
+          "ret_d3": -1.06
         },
         {
           "code": "071200",
@@ -10536,8 +10480,7 @@
           "cur": -5.14,
           "broke": true,
           "ret_d1": -3.12,
-          "ret_d3": -5.14,
-          "ret_d3_prov": true
+          "ret_d3": -5.14
         },
         {
           "code": "241770",
@@ -10560,8 +10503,7 @@
           "cur": 0.0,
           "broke": false,
           "ret_d1": 2.11,
-          "ret_d3": 0.0,
-          "ret_d3_prov": true
+          "ret_d3": 0.0
         },
         {
           "code": "093190",
@@ -10584,8 +10526,7 @@
           "cur": -1.4,
           "broke": false,
           "ret_d1": 0.94,
-          "ret_d3": -1.4,
-          "ret_d3_prov": true
+          "ret_d3": -1.4
         },
         {
           "code": "052330",
@@ -10608,8 +10549,7 @@
           "cur": 0.51,
           "broke": false,
           "ret_d1": 1.1,
-          "ret_d3": 0.51,
-          "ret_d3_prov": true
+          "ret_d3": 0.51
         }
       ],
       "final": false
@@ -11152,8 +11092,7 @@
           "align_days": 0,
           "cur": -0.4,
           "broke": false,
-          "ret_d1": -0.4,
-          "ret_d1_prov": true
+          "ret_d1": -0.4
         },
         {
           "code": "069730",
@@ -11184,8 +11123,7 @@
           "align_days": 34,
           "cur": -0.18,
           "broke": false,
-          "ret_d1": -0.18,
-          "ret_d1_prov": true
+          "ret_d1": -0.18
         },
         {
           "code": "000810",
@@ -11216,8 +11154,7 @@
           "align_days": 0,
           "cur": 6.85,
           "broke": false,
-          "ret_d1": 6.85,
-          "ret_d1_prov": true
+          "ret_d1": 6.85
         },
         {
           "code": "475150",
@@ -11248,8 +11185,7 @@
           "align_days": 31,
           "cur": -2.36,
           "broke": false,
-          "ret_d1": -2.36,
-          "ret_d1_prov": true
+          "ret_d1": -2.36
         },
         {
           "code": "322000",
@@ -11280,8 +11216,7 @@
           "align_days": 0,
           "cur": -2.34,
           "broke": false,
-          "ret_d1": -2.34,
-          "ret_d1_prov": true
+          "ret_d1": -2.34
         },
         {
           "code": "002810",
@@ -11312,8 +11247,7 @@
           "align_days": 24,
           "cur": 0.0,
           "broke": false,
-          "ret_d1": 0.0,
-          "ret_d1_prov": true
+          "ret_d1": 0.0
         },
         {
           "code": "000500",
@@ -11344,8 +11278,7 @@
           "align_days": 0,
           "cur": 3.73,
           "broke": false,
-          "ret_d1": 3.73,
-          "ret_d1_prov": true
+          "ret_d1": 3.73
         },
         {
           "code": "078930",
@@ -11376,8 +11309,7 @@
           "align_days": 31,
           "cur": -0.92,
           "broke": false,
-          "ret_d1": -0.92,
-          "ret_d1_prov": true
+          "ret_d1": -0.92
         },
         {
           "code": "009150",
@@ -11408,8 +11340,7 @@
           "align_days": 0,
           "cur": -3.71,
           "broke": true,
-          "ret_d1": -3.71,
-          "ret_d1_prov": true
+          "ret_d1": -3.71
         },
         {
           "code": "181710",
@@ -11440,8 +11371,7 @@
           "align_days": 15,
           "cur": -3.09,
           "broke": false,
-          "ret_d1": -3.09,
-          "ret_d1_prov": true
+          "ret_d1": -3.09
         },
         {
           "code": "003350",
@@ -11472,8 +11402,7 @@
           "align_days": 0,
           "cur": -4.06,
           "broke": false,
-          "ret_d1": -4.06,
-          "ret_d1_prov": true
+          "ret_d1": -4.06
         },
         {
           "code": "006340",
@@ -11504,8 +11433,7 @@
           "align_days": 18,
           "cur": -2.28,
           "broke": false,
-          "ret_d1": -2.28,
-          "ret_d1_prov": true
+          "ret_d1": -2.28
         },
         {
           "code": "317400",
@@ -11536,8 +11464,7 @@
           "align_days": 29,
           "cur": 10.74,
           "broke": false,
-          "ret_d1": 10.74,
-          "ret_d1_prov": true
+          "ret_d1": 10.74
         },
         {
           "code": "044820",
@@ -11568,8 +11495,7 @@
           "align_days": 8,
           "cur": 0.6,
           "broke": false,
-          "ret_d1": 0.6,
-          "ret_d1_prov": true
+          "ret_d1": 0.6
         },
         {
           "code": "013700",
@@ -11600,8 +11526,7 @@
           "align_days": 2,
           "cur": -4.16,
           "broke": false,
-          "ret_d1": -4.16,
-          "ret_d1_prov": true
+          "ret_d1": -4.16
         },
         {
           "code": "278470",
@@ -11632,8 +11557,7 @@
           "align_days": 5,
           "cur": -3.1,
           "broke": true,
-          "ret_d1": -3.1,
-          "ret_d1_prov": true
+          "ret_d1": -3.1
         },
         {
           "code": "031510",
@@ -11664,8 +11588,7 @@
           "align_days": 28,
           "cur": 4.16,
           "broke": false,
-          "ret_d1": 4.16,
-          "ret_d1_prov": true
+          "ret_d1": 4.16
         },
         {
           "code": "010170",
@@ -11696,8 +11619,7 @@
           "align_days": 0,
           "cur": -5.31,
           "broke": true,
-          "ret_d1": -5.31,
-          "ret_d1_prov": true
+          "ret_d1": -5.31
         },
         {
           "code": "036710",
@@ -11728,8 +11650,7 @@
           "align_days": 1,
           "cur": -3.64,
           "broke": false,
-          "ret_d1": -3.64,
-          "ret_d1_prov": true
+          "ret_d1": -3.64
         },
         {
           "code": "094840",
@@ -11760,8 +11681,7 @@
           "align_days": 71,
           "cur": -4.51,
           "broke": false,
-          "ret_d1": -4.51,
-          "ret_d1_prov": true
+          "ret_d1": -4.51
         },
         {
           "code": "038540",
@@ -11792,8 +11712,7 @@
           "align_days": 0,
           "cur": -1.71,
           "broke": false,
-          "ret_d1": -1.71,
-          "ret_d1_prov": true
+          "ret_d1": -1.71
         },
         {
           "code": "096870",
@@ -11824,8 +11743,7 @@
           "align_days": 0,
           "cur": 0.89,
           "broke": false,
-          "ret_d1": 0.89,
-          "ret_d1_prov": true
+          "ret_d1": 0.89
         },
         {
           "code": "340570",
@@ -11856,8 +11774,7 @@
           "align_days": 17,
           "cur": -2.01,
           "broke": false,
-          "ret_d1": -2.01,
-          "ret_d1_prov": true
+          "ret_d1": -2.01
         },
         {
           "code": "093190",
@@ -11888,8 +11805,7 @@
           "align_days": 46,
           "cur": -0.12,
           "broke": false,
-          "ret_d1": -0.12,
-          "ret_d1_prov": true
+          "ret_d1": -0.12
         },
         {
           "code": "092460",
@@ -11920,8 +11836,7 @@
           "align_days": 0,
           "cur": 1.3,
           "broke": false,
-          "ret_d1": 1.3,
-          "ret_d1_prov": true
+          "ret_d1": 1.3
         },
         {
           "code": "142210",
@@ -11952,8 +11867,7 @@
           "align_days": 0,
           "cur": -1.34,
           "broke": false,
-          "ret_d1": -1.34,
-          "ret_d1_prov": true
+          "ret_d1": -1.34
         },
         {
           "code": "066590",
@@ -11984,8 +11898,7 @@
           "align_days": 0,
           "cur": -0.81,
           "broke": false,
-          "ret_d1": -0.81,
-          "ret_d1_prov": true
+          "ret_d1": -0.81
         },
         {
           "code": "131290",
@@ -12016,8 +11929,7 @@
           "align_days": 4,
           "cur": -4.27,
           "broke": false,
-          "ret_d1": -4.27,
-          "ret_d1_prov": true
+          "ret_d1": -4.27
         },
         {
           "code": "241770",
@@ -12048,8 +11960,7 @@
           "align_days": 0,
           "cur": -1.69,
           "broke": false,
-          "ret_d1": -1.69,
-          "ret_d1_prov": true
+          "ret_d1": -1.69
         },
         {
           "code": "080010",
@@ -12080,8 +11991,7 @@
           "align_days": 28,
           "cur": 0.14,
           "broke": false,
-          "ret_d1": 0.14,
-          "ret_d1_prov": true
+          "ret_d1": 0.14
         },
         {
           "code": "031980",
@@ -12112,8 +12022,7 @@
           "align_days": 0,
           "cur": 6.15,
           "broke": false,
-          "ret_d1": 6.15,
-          "ret_d1_prov": true
+          "ret_d1": 6.15
         },
         {
           "code": "011560",
@@ -12144,8 +12053,7 @@
           "align_days": 3,
           "cur": -2.85,
           "broke": false,
-          "ret_d1": -2.85,
-          "ret_d1_prov": true
+          "ret_d1": -2.85
         }
       ],
       "final": true
@@ -12170,14 +12078,14 @@
           "gated": false,
           "ambig": false,
           "turnover": 199305665725.0,
-          "sup_amt1": -221.6,
+          "sup_amt1": -55.7,
           "big_buy": false,
-          "sup_bp5": 5.5,
-          "sup_bp1": -6.81,
-          "sup_score": 0.13,
-          "sup5": 67838,
-          "sup20": 1180456,
-          "spread": 0.867,
+          "sup_bp5": 6.22,
+          "sup_bp1": -1.71,
+          "sup_score": 0.38,
+          "sup5": 79779,
+          "sup20": 895237,
+          "spread": 0.859,
           "align": "없음",
           "align_days": 0,
           "cur": 0.0,
@@ -12200,14 +12108,14 @@
           "gated": false,
           "ambig": false,
           "turnover": 56629422075.0,
-          "sup_amt1": -22.9,
+          "sup_amt1": 29.7,
           "big_buy": false,
-          "sup_bp5": 18.64,
-          "sup_bp1": -1.31,
-          "sup_score": 0.63,
-          "sup5": 135503,
-          "sup20": 489701,
-          "spread": 0.992,
+          "sup_bp5": 14.18,
+          "sup_bp1": 1.7,
+          "sup_score": 0.75,
+          "sup5": 102663,
+          "sup20": 408951,
+          "spread": 1.0,
           "align": "이평",
           "align_days": 14,
           "cur": 0.0,
@@ -12230,14 +12138,14 @@
           "gated": false,
           "ambig": false,
           "turnover": 121363362200.0,
-          "sup_amt1": 5.4,
+          "sup_amt1": -135.3,
           "big_buy": false,
-          "sup_bp5": 15.93,
-          "sup_bp1": 0.35,
-          "sup_score": 0.5,
-          "sup5": 52403,
-          "sup20": 396916,
-          "spread": 0.987,
+          "sup_bp5": 5.27,
+          "sup_bp1": -8.9,
+          "sup_score": 0.13,
+          "sup5": 12929,
+          "sup20": 438615,
+          "spread": 0.917,
           "align": "이평",
           "align_days": 6,
           "cur": 0.0,
@@ -12260,14 +12168,14 @@
           "gated": false,
           "ambig": false,
           "turnover": 455903845.0,
-          "sup_amt1": -0.2,
+          "sup_amt1": -0.1,
           "big_buy": false,
-          "sup_bp5": -1.96,
-          "sup_bp1": -0.54,
+          "sup_bp5": -2.55,
+          "sup_bp1": -0.19,
           "sup_score": 0.0,
-          "sup5": -3619,
-          "sup20": 2453,
-          "spread": 0.668,
+          "sup5": -4709,
+          "sup20": -8216,
+          "spread": 0.662,
           "align": "이평",
           "align_days": 25,
           "cur": 0.0,
@@ -12634,66 +12542,6 @@
           "broke": false
         },
         {
-          "code": "010170",
-          "name": "대한광통신",
-          "market": "KOSDAQ",
-          "sector": "통신장비",
-          "type": "눌림",
-          "tier": 1,
-          "regime": "중립",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 12850.0,
-          "stop": 11950.5,
-          "exp_pct": 60,
-          "exp_risk": "위험",
-          "gated": false,
-          "ambig": false,
-          "turnover": 141706393289.5,
-          "sup_amt1": 6.7,
-          "big_buy": false,
-          "sup_bp5": 36.16,
-          "sup_bp1": 3.33,
-          "sup_score": 0.909,
-          "sup5": 323681,
-          "sup20": -6099502,
-          "spread": 0.318,
-          "align": "없음",
-          "align_days": 0,
-          "cur": 0.0,
-          "broke": false
-        },
-        {
-          "code": "011560",
-          "name": "세보엠이씨",
-          "market": "KOSDAQ",
-          "sector": "건설",
-          "type": "눌림",
-          "tier": 2,
-          "regime": "중립",
-          "status": "눌림 조건 양호",
-          "rank": 2,
-          "close": 23850.0,
-          "stop": 23247.5,
-          "exp_pct": 60,
-          "exp_risk": "위험",
-          "gated": false,
-          "ambig": false,
-          "turnover": 1422884580.0,
-          "sup_amt1": 1.1,
-          "big_buy": false,
-          "sup_bp5": 15.61,
-          "sup_bp1": 4.72,
-          "sup_score": 0.818,
-          "sup5": 15504,
-          "sup20": -37526,
-          "spread": 0.525,
-          "align": "완전",
-          "align_days": 4,
-          "cur": 0.0,
-          "broke": false
-        },
-        {
           "code": "096870",
           "name": "엘디티",
           "market": "KOSDAQ",
@@ -12710,44 +12558,14 @@
           "gated": false,
           "ambig": false,
           "turnover": 56795986.5,
-          "sup_amt1": 0.1,
+          "sup_amt1": -0.0,
           "big_buy": false,
-          "sup_bp5": 5.59,
-          "sup_bp1": 3.32,
-          "sup_score": 0.727,
-          "sup5": 4643,
-          "sup20": 60352,
-          "spread": 1.0,
-          "align": "없음",
-          "align_days": 0,
-          "cur": 0.0,
-          "broke": false
-        },
-        {
-          "code": "092460",
-          "name": "한라IMS",
-          "market": "KOSDAQ",
-          "sector": "조선",
-          "type": "눌림",
-          "tier": 1,
-          "regime": "횡보",
-          "status": "초기 반등 관찰",
-          "rank": 3,
-          "close": 17160.0,
-          "stop": 15958.8,
-          "exp_pct": 60,
-          "exp_risk": "위험",
-          "gated": false,
-          "ambig": false,
-          "turnover": 396046567.5,
-          "sup_amt1": 0.5,
-          "big_buy": false,
-          "sup_bp5": -0.07,
-          "sup_bp1": 1.83,
-          "sup_score": 0.545,
-          "sup5": 148,
-          "sup20": 99603,
-          "spread": 1.0,
+          "sup_bp5": 6.72,
+          "sup_bp1": -0.34,
+          "sup_score": 0.698,
+          "sup5": 5538,
+          "sup20": 58187,
+          "spread": 0.995,
           "align": "없음",
           "align_days": 0,
           "cur": 0.0,
@@ -12770,13 +12588,13 @@
           "gated": false,
           "ambig": false,
           "turnover": 478103445.5,
-          "sup_amt1": -0.4,
+          "sup_amt1": -0.3,
           "big_buy": false,
-          "sup_bp5": -7.67,
-          "sup_bp1": -2.65,
-          "sup_score": 0.153,
-          "sup5": -14707,
-          "sup20": -117015,
+          "sup_bp5": -6.95,
+          "sup_bp1": -1.61,
+          "sup_score": 0.425,
+          "sup5": -13290,
+          "sup20": -114233,
           "spread": 0.0,
           "align": "이평",
           "align_days": 47,
@@ -12800,16 +12618,46 @@
           "gated": false,
           "ambig": false,
           "turnover": 3090835997.5,
-          "sup_amt1": -1.9,
+          "sup_amt1": -0.0,
           "big_buy": false,
-          "sup_bp5": 5.52,
-          "sup_bp1": -4.0,
-          "sup_score": 0.516,
-          "sup5": 8449,
-          "sup20": -97579,
+          "sup_bp5": 12.66,
+          "sup_bp1": -0.05,
+          "sup_score": 0.789,
+          "sup5": 19192,
+          "sup20": -150545,
           "spread": 0.357,
           "align": "이평",
           "align_days": 18,
+          "cur": 0.0,
+          "broke": false
+        },
+        {
+          "code": "092460",
+          "name": "한라IMS",
+          "market": "KOSDAQ",
+          "sector": "조선",
+          "type": "눌림",
+          "tier": 1,
+          "regime": "횡보",
+          "status": "초기 반등 관찰",
+          "rank": 3,
+          "close": 17160.0,
+          "stop": 15958.8,
+          "exp_pct": 60,
+          "exp_risk": "위험",
+          "gated": false,
+          "ambig": false,
+          "turnover": 396046567.5,
+          "sup_amt1": 0.7,
+          "big_buy": false,
+          "sup_bp5": 6.49,
+          "sup_bp1": 2.55,
+          "sup_score": 0.727,
+          "sup5": 11069,
+          "sup20": 99066,
+          "spread": 1.0,
+          "align": "없음",
+          "align_days": 0,
           "cur": 0.0,
           "broke": false
         },
@@ -12830,16 +12678,46 @@
           "gated": false,
           "ambig": false,
           "turnover": 2050759050.0,
-          "sup_amt1": 2.1,
+          "sup_amt1": -4.1,
           "big_buy": false,
-          "sup_bp5": -0.4,
-          "sup_bp1": 3.32,
-          "sup_score": 0.455,
-          "sup5": -489,
-          "sup20": 85624,
-          "spread": 0.68,
+          "sup_bp5": -4.65,
+          "sup_bp1": -6.53,
+          "sup_score": 0.516,
+          "sup5": -5219,
+          "sup20": 76459,
+          "spread": 0.637,
           "align": "없음",
           "align_days": 0,
+          "cur": 0.0,
+          "broke": false
+        },
+        {
+          "code": "011560",
+          "name": "세보엠이씨",
+          "market": "KOSDAQ",
+          "sector": "건설",
+          "type": "눌림",
+          "tier": 2,
+          "regime": "중립",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 23850.0,
+          "stop": 23247.5,
+          "exp_pct": 60,
+          "exp_risk": "위험",
+          "gated": false,
+          "ambig": false,
+          "turnover": 1422884580.0,
+          "sup_amt1": -0.2,
+          "big_buy": false,
+          "sup_bp5": -7.94,
+          "sup_bp1": -0.7,
+          "sup_score": 0.244,
+          "sup5": -8738,
+          "sup20": -41440,
+          "spread": 0.483,
+          "align": "완전",
+          "align_days": 4,
           "cur": 0.0,
           "broke": false
         },
@@ -12860,46 +12738,16 @@
           "gated": false,
           "ambig": false,
           "turnover": 111311248835.0,
-          "sup_amt1": -100.6,
+          "sup_amt1": -106.5,
           "big_buy": false,
-          "sup_bp5": -51.62,
-          "sup_bp1": -22.54,
+          "sup_bp5": -132.77,
+          "sup_bp1": -23.86,
           "sup_score": 0.0,
-          "sup5": -189022,
-          "sup20": -526301,
-          "spread": 0.512,
+          "sup5": -481062,
+          "sup20": -486282,
+          "spread": 0.429,
           "align": "완전",
           "align_days": 2,
-          "cur": 0.0,
-          "broke": false
-        },
-        {
-          "code": "052330",
-          "name": "코텍",
-          "market": "KOSDAQ",
-          "sector": "디스플레이패널",
-          "type": "눌림",
-          "tier": 1,
-          "regime": "횡보",
-          "status": "단기 반등 신호",
-          "rank": 4,
-          "close": 11860.0,
-          "stop": 11029.8,
-          "exp_pct": 60,
-          "exp_risk": "위험",
-          "gated": false,
-          "ambig": false,
-          "turnover": 354984680.0,
-          "sup_amt1": -0.2,
-          "big_buy": false,
-          "sup_bp5": -4.99,
-          "sup_bp1": -1.0,
-          "sup_score": 0.244,
-          "sup5": -8927,
-          "sup20": 446,
-          "spread": 0.631,
-          "align": "이평",
-          "align_days": 30,
           "cur": 0.0,
           "broke": false
         },
@@ -12920,16 +12768,46 @@
           "gated": false,
           "ambig": false,
           "turnover": 3982351037.0,
-          "sup_amt1": 1.6,
+          "sup_amt1": 0.4,
           "big_buy": false,
-          "sup_bp5": -20.02,
-          "sup_bp1": 2.75,
-          "sup_score": 0.182,
-          "sup5": -59979,
-          "sup20": 194730,
-          "spread": 0.926,
+          "sup_bp5": -9.07,
+          "sup_bp1": 0.69,
+          "sup_score": 0.273,
+          "sup5": -26608,
+          "sup20": 173726,
+          "spread": 0.929,
           "align": "없음",
           "align_days": 0,
+          "cur": 0.0,
+          "broke": false
+        },
+        {
+          "code": "052330",
+          "name": "코텍",
+          "market": "KOSDAQ",
+          "sector": "디스플레이패널",
+          "type": "눌림",
+          "tier": 1,
+          "regime": "횡보",
+          "status": "단기 반등 신호",
+          "rank": 4,
+          "close": 11860.0,
+          "stop": 11029.8,
+          "exp_pct": 60,
+          "exp_risk": "위험",
+          "gated": false,
+          "ambig": false,
+          "turnover": 354984680.0,
+          "sup_amt1": -0.9,
+          "big_buy": false,
+          "sup_bp5": -7.94,
+          "sup_bp1": -4.22,
+          "sup_score": 0.244,
+          "sup5": -14158,
+          "sup20": -8079,
+          "spread": 0.553,
+          "align": "이평",
+          "align_days": 30,
           "cur": 0.0,
           "broke": false
         },
@@ -12950,14 +12828,44 @@
           "gated": false,
           "ambig": false,
           "turnover": 57516398350.0,
-          "sup_amt1": -22.0,
+          "sup_amt1": 57.7,
           "big_buy": false,
-          "sup_bp5": -110.73,
-          "sup_bp1": -6.02,
+          "sup_bp5": -91.25,
+          "sup_bp1": 15.84,
+          "sup_score": 0.182,
+          "sup5": -134835,
+          "sup20": -366987,
+          "spread": 0.083,
+          "align": "없음",
+          "align_days": 0,
+          "cur": 0.0,
+          "broke": false
+        },
+        {
+          "code": "010170",
+          "name": "대한광통신",
+          "market": "KOSDAQ",
+          "sector": "통신장비",
+          "type": "눌림",
+          "tier": 1,
+          "regime": "중립",
+          "status": "눌림 조건 양호",
+          "rank": 2,
+          "close": 12850.0,
+          "stop": 11950.5,
+          "exp_pct": 60,
+          "exp_risk": "위험",
+          "gated": false,
+          "ambig": false,
+          "turnover": 141706393289.5,
+          "sup_amt1": -68.1,
+          "big_buy": false,
+          "sup_bp5": -238.49,
+          "sup_bp1": -34.08,
           "sup_score": 0.0,
-          "sup5": -163265,
-          "sup20": -391578,
-          "spread": 0.0,
+          "sup5": -3440824,
+          "sup20": -3958557,
+          "spread": 0.26,
           "align": "없음",
           "align_days": 0,
           "cur": 0.0,
@@ -13114,7 +13022,7 @@
           "broke": false
         }
       ],
-      "final": false
+      "final": true
     }
   ]
 }
