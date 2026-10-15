@@ -1,33 +1,29 @@
 {
-  "as_of": "2026-10-14",
+  "as_of": "2026-10-15",
   "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
   "regime_tone": "risk_on",
   "oscillator": {
     "level": "중립",
     "stance": "신중",
-    "label": "중립 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.57, MACD +0.004 0선위, hist -0.003 ↓)"
+    "label": "중립 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.57, MACD -0.003 0선아래, hist -0.008 ↓)"
   },
-  "sector_leaders": "Energy(72) · 에너지 E&P(72) · 클라우드(67) · 소프트웨어(60)",
+  "sector_leaders": "클라우드(70) · 에너지 E&P(68) · Energy(68) · 소프트웨어(63)",
   "peakout": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "n": 40,
     "stale_n": 0,
-    "leader_breadth": 61.2,
-    "above_ma20": 18.0,
-    "above_ma60": 38.0,
-    "above_ma200": 72.0,
-    "slope_5d": -21.3,
-    "slope_10d": -12.3,
-    "falling_days_10d": 5,
-    "breadth_from_20d_high": -21.3,
+    "leader_breadth": 52.3,
+    "above_ma20": 2.0,
+    "above_ma60": 22.0,
+    "above_ma200": 60.0,
+    "slope_5d": -28.7,
+    "slope_10d": -23.6,
+    "falling_days_10d": 6,
+    "breadth_from_20d_high": -30.3,
     "bearish_divergence": false,
     "strong_divergence": false,
-    "risk_level": "정상",
+    "risk_level": "주의",
     "series": [
-      {
-        "i": 489.26,
-        "b": 96.0
-      },
       {
         "i": 502.57,
         "b": 95.6
@@ -503,14 +499,18 @@
       {
         "i": 578.57,
         "b": 61.2
+      },
+      {
+        "i": 556.15,
+        "b": 52.3
       }
     ]
   },
   "exposure": {
-    "max_pct": 75,
+    "max_pct": 60,
     "margin_ok": false,
-    "note": "선별 접근 — 신용 자제",
-    "risk_level": "정상"
+    "note": "주도주 둔화 — 비중 축소·신용 금지",
+    "risk_level": "주의"
   },
   "rs_top5": [
     {
@@ -519,14 +519,14 @@
       "sector": "Health Care"
     },
     {
-      "code": "MPC",
-      "name": "Marathon Petroleum",
-      "sector": "Energy"
-    },
-    {
       "code": "TEAM",
       "name": "TEAM",
       "sector": ""
+    },
+    {
+      "code": "MPC",
+      "name": "Marathon Petroleum",
+      "sector": "Energy"
     },
     {
       "code": "VLO",
@@ -534,9 +534,9 @@
       "sector": "Energy"
     },
     {
-      "code": "PSX",
-      "name": "Phillips 66",
-      "sector": "Energy"
+      "code": "VEEV",
+      "name": "Veeva Systems",
+      "sector": "Health Care"
     }
   ],
   "semis_leading": false
