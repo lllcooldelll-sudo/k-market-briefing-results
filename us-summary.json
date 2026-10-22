@@ -1,33 +1,29 @@
 {
-  "as_of": "2026-10-21",
-  "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
-  "regime_tone": "risk_on",
+  "as_of": "2026-10-22",
+  "regime": "혼조 — 선별 접근 (벤치마크가 MA50·MA200 사이)",
+  "regime_tone": "mixed",
   "oscillator": {
     "level": "중립",
-    "stance": "우호",
-    "label": "중립 · 공포 진정·반등 초입 → 눌림 매수 유효 (F&G 0.55, MACD -0.027 0선아래, hist -0.015 ↑)"
+    "stance": "신중",
+    "label": "중립 · 위험회피 강화 → 눌림 매수 신중 (F&G 0.43, MACD -0.036 0선아래, hist -0.018 ↓)"
   },
-  "sector_leaders": "Energy(71) · 에너지 E&P(71) · 클라우드(68) · Health Care(63)",
+  "sector_leaders": "Energy(71) · 에너지 E&P(71) · Health Care(68·과열) · 클라우드(67)",
   "peakout": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "n": 40,
     "stale_n": 0,
-    "leader_breadth": 31.1,
-    "above_ma20": 2.0,
-    "above_ma60": 28.0,
-    "above_ma200": 60.0,
-    "slope_5d": -30.1,
-    "slope_10d": -51.4,
+    "leader_breadth": 28.8,
+    "above_ma20": 0.0,
+    "above_ma60": 2.0,
+    "above_ma200": 35.0,
+    "slope_5d": -23.5,
+    "slope_10d": -52.2,
     "falling_days_10d": 10,
-    "breadth_from_20d_high": -51.4,
+    "breadth_from_20d_high": -53.8,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "투매 진행",
     "series": [
-      {
-        "i": 563.92,
-        "b": 95.9
-      },
       {
         "i": 596.23,
         "b": 96.3
@@ -503,11 +499,15 @@
       {
         "i": 575.25,
         "b": 31.1
+      },
+      {
+        "i": 531.22,
+        "b": 28.8
       }
     ]
   },
   "exposure": {
-    "max_pct": 40,
+    "max_pct": 30,
     "margin_ok": false,
     "note": "주도주 폭 붕괴 — 현금 비중 확대·신용 금지",
     "risk_level": "투매 진행"
@@ -534,9 +534,9 @@
       "sector": "Health Care"
     },
     {
-      "code": "VLO",
-      "name": "Valero Energy",
-      "sector": "Energy"
+      "code": "VEEV",
+      "name": "Veeva Systems",
+      "sector": "Health Care"
     }
   ],
   "semis_leading": false
