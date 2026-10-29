@@ -1,33 +1,29 @@
 {
-  "as_of": "2026-10-28",
+  "as_of": "2026-10-29",
   "regime": "우호 — 눌림 매수 유효 구간 (벤치마크 MA50·MA200 위)",
   "regime_tone": "risk_on",
   "oscillator": {
     "level": "중립",
     "stance": "우호",
-    "label": "중립 · 공포 진정·반등 초입 → 눌림 매수 유효 (F&G 0.54, MACD -0.038 0선아래, hist -0.006 ↑)"
+    "label": "중립 · 공포 진정·반등 초입 → 눌림 매수 유효 (F&G 0.50, MACD -0.036 0선아래, hist -0.003 ↑)"
   },
-  "sector_leaders": "클라우드(73) · 에너지 E&P(71) · Energy(71) · 소프트웨어(65)",
+  "sector_leaders": "Energy(72) · 에너지 E&P(70) · 클라우드(68) · Health Care(68·과열)",
   "peakout": {
-    "date": "2026-10-28",
+    "date": "2026-10-29",
     "n": 40,
     "stale_n": 0,
-    "leader_breadth": 24.7,
-    "above_ma20": 22.0,
-    "above_ma60": 28.0,
-    "above_ma200": 60.0,
-    "slope_5d": -6.4,
-    "slope_10d": -36.5,
-    "falling_days_10d": 9,
-    "breadth_from_20d_high": -57.8,
+    "leader_breadth": 28.0,
+    "above_ma20": 20.0,
+    "above_ma60": 22.0,
+    "above_ma200": 57.0,
+    "slope_5d": -0.8,
+    "slope_10d": -24.2,
+    "falling_days_10d": 8,
+    "breadth_from_20d_high": -54.5,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "투매 진행",
     "series": [
-      {
-        "i": 616.29,
-        "b": 96.9
-      },
       {
         "i": 596.56,
         "b": 96.2
@@ -503,6 +499,10 @@
       {
         "i": 601.94,
         "b": 24.7
+      },
+      {
+        "i": 593.39,
+        "b": 28.0
       }
     ]
   },
@@ -519,24 +519,24 @@
       "sector": "Health Care"
     },
     {
+      "code": "CRL",
+      "name": "Charles River Laboratories",
+      "sector": "Health Care"
+    },
+    {
       "code": "TEAM",
       "name": "TEAM",
       "sector": ""
     },
     {
-      "code": "CRL",
-      "name": "Charles River Laboratories",
+      "code": "RVTY",
+      "name": "Revvity",
       "sector": "Health Care"
     },
     {
       "code": "ZS",
       "name": "ZS",
       "sector": ""
-    },
-    {
-      "code": "CRWD",
-      "name": "CrowdStrike",
-      "sector": "Information Technology"
     }
   ],
   "semis_leading": false
