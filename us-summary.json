@@ -1,33 +1,29 @@
 {
-  "as_of": "2026-11-11",
+  "as_of": "2026-11-12",
   "regime": "혼조 — 선별 접근 (벤치마크가 MA50·MA200 사이)",
   "regime_tone": "mixed",
   "oscillator": {
     "level": "중립",
     "stance": "우호",
-    "label": "중립 · 위험선호 강화 → 추세 순응 (F&G 0.47, MACD -0.049 0선아래, hist +0.006 ↑)"
+    "label": "중립 · 위험선호 강화 → 추세 순응 (F&G 0.46, MACD -0.042 0선아래, hist +0.010 ↑)"
   },
-  "sector_leaders": "Health Care(73) · Consumer Staples(63) · 리테일(61) · Financials(59·과열)",
+  "sector_leaders": "Health Care(72) · Consumer Staples(62) · Energy(60) · Financials(58)",
   "peakout": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "n": 40,
     "stale_n": 0,
-    "leader_breadth": 11.0,
-    "above_ma20": 28.0,
-    "above_ma60": 15.0,
+    "leader_breadth": 14.7,
+    "above_ma20": 25.0,
+    "above_ma60": 18.0,
     "above_ma200": 28.0,
-    "slope_5d": -7.5,
-    "slope_10d": -13.7,
+    "slope_5d": 2.3,
+    "slope_10d": -13.3,
     "falling_days_10d": 8,
-    "breadth_from_20d_high": -41.3,
+    "breadth_from_20d_high": -27.7,
     "bearish_divergence": false,
     "strong_divergence": false,
-    "risk_level": "투매 진행",
+    "risk_level": "투매 후 반등",
     "series": [
-      {
-        "i": 631.65,
-        "b": 95.7
-      },
       {
         "i": 646.44,
         "b": 95.8
@@ -503,14 +499,18 @@
       {
         "i": 450.05,
         "b": 11.0
+      },
+      {
+        "i": 441.66,
+        "b": 14.7
       }
     ]
   },
   "exposure": {
-    "max_pct": 40,
+    "max_pct": 60,
     "margin_ok": false,
-    "note": "주도주 폭 붕괴 — 현금 비중 확대·신용 금지",
-    "risk_level": "투매 진행"
+    "note": "선별 접근 — 신용 자제",
+    "risk_level": "투매 후 반등"
   },
   "rs_top5": [
     {
@@ -534,9 +534,9 @@
       "sector": "Information Technology"
     },
     {
-      "code": "SWK",
-      "name": "Stanley Black & Decker",
-      "sector": "Industrials"
+      "code": "PTC",
+      "name": "PTC Inc.",
+      "sector": "Information Technology"
     }
   ],
   "semis_leading": false
