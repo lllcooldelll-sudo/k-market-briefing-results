@@ -4,322 +4,322 @@
 <style>
 *{box-sizing:border-box}body{margin:0;background:#f2f5f8;color:#0b1a2c;font-family:Arial,'Noto Sans KR',sans-serif}header{padding:56px max(24px,calc((100% - 1400px)/2));background:#071527;color:white}header p{color:#b8c7d8;line-height:1.7}main{max-width:1400px;margin:28px auto;padding:0 18px}.grid{display:grid;grid-template-columns:1fr 1fr;gap:20px}section{background:#e9eef4;border-radius:20px;padding:18px}section h2{padding:0 8px}.card{background:white;border-radius:14px;padding:18px;margin:10px 0}.card-head,.card-head>div{display:flex;align-items:center;gap:10px}.card-head{justify-content:space-between}h3{margin:0}small{color:#7c8998}.badge{padding:7px 10px;border-radius:99px;font-size:11px;font-weight:700}.positive{background:#d8f5eb;color:#087866}.risk{background:#fae4e6;color:#a84449}.watch,.mixed{background:#f4efd9;color:#76672d}.neutral{background:#e6eef8;color:#315b87}.metrics{display:grid;grid-template-columns:repeat(3,1fr);gap:1px;margin:16px 0;background:#e3e8ee;border:1px solid #e3e8ee;border-radius:10px;overflow:hidden}.metrics div{display:grid;padding:10px;background:#f8fafc}.metrics span{font-size:10px;color:#738095}.metrics strong{margin-top:5px}.card p{font-size:12px;line-height:1.7;color:#59677a}footer{max-width:1400px;margin:0 auto;padding:10px 24px 40px;color:#69768a;font-size:11px}@media(max-width:900px){.grid{grid-template-columns:1fr}}@media(max-width:540px){.metrics{grid-template-columns:1fr 1fr}}
 </style></head><body>
-<header><h1>코스피·코스닥 눌림목 레이더</h1><p>기준일 2026-11-20 · 상대강도 → 눌림 → 소르티노 하방 효율 → RSI·가격 반등 확인</p><p style="margin:6px 0 0;color:#b8c7d8"><b>코스피:</b> 경계 — 눌림 매수 억제·관망 (지수 MA50·MA200 아래) · 폭 약함(MA50 위 16.6%)</p><p style="margin:2px 0 0;color:#8fb8d8">🧭 코스피 피어앤그리드: 중립 · 탐욕권 둔화 → 과열 경계 (F&amp;G 0.42, MACD -0.010 0선아래, hist +0.001 ↓)</p><p style="margin:6px 0 0;color:#b8c7d8"><b>코스닥:</b> 경계 — 눌림 매수 억제·관망 (지수 MA50·MA200 아래) · 폭 약함(MA50 위 13.8%)</p><p style="margin:2px 0 0;color:#8fb8d8">🧭 코스닥 피어앤그리드: 중립 · 탐욕권 둔화 → 과열 경계 (F&amp;G 0.45, MACD -0.024 0선아래, hist +0.005 ↓)</p><p style="margin-top:10px"><a href="candidates-kr.html" style="color:#9fd0ff;font-weight:700">🎯 매매 후보(승자 필터) →</a> &nbsp;·&nbsp; <a href="validation-kr.html" style="color:#9fd0ff;font-weight:600">📊 검증 성적표 →</a></p></header>
-<main><section style='margin:16px 0;background:#fae4e6;border-radius:14px;padding:14px 16px'><div style='font-size:15px;color:#0b1a2c'>🛡️ <b>주도주(AI·반도체) 상태: 투매 진행</b> → 🎯 제안 투자비중 <b>40%</b> · 신용 자제</div><div style='margin-top:4px;color:#a84449;font-weight:600'>주도주 폭 붕괴 — 현금 비중 확대·신용 금지</div><div style='margin-top:6px;font-size:12px;color:#59677a'>주도주폭 8 · 기울기 -7 · MA20위 5% · MA60위 3% · MA200위 8%</div><svg viewBox="0 0 620 150" width="100%" style="max-width:620px;display:block;margin-top:10px" xmlns="http://www.w3.org/2000/svg"><line x1="8" y1="48.2" x2="612" y2="48.2" stroke="#e3e8ee" stroke-width="1"/><line x1="8" y1="75.0" x2="612" y2="75.0" stroke="#e3e8ee" stroke-width="1"/><line x1="8" y1="101.8" x2="612" y2="101.8" stroke="#e3e8ee" stroke-width="1"/><polyline points="8.0,15.1 13.1,16.2 18.2,17.4 23.2,21.7 28.3,23.8 33.4,23.4 38.5,21.5 43.5,21.1 48.6,18.2 53.7,17.2 58.8,16.7 63.8,16.8 68.9,17.4 74.0,17.9 79.1,19.0 84.1,22.3 89.2,24.6 94.3,25.6 99.4,27.0 104.4,30.5 109.5,32.5 114.6,34.9 119.7,39.4 124.7,43.8 129.8,44.2 134.9,44.3 140.0,47.3 145.0,48.3 150.1,49.0 155.2,55.0 160.3,62.7 165.3,68.7 170.4,71.1 175.5,73.3 180.6,71.2 185.6,71.1 190.7,71.8 195.8,78.5 200.9,87.1 205.9,93.9 211.0,96.2 216.1,97.2 221.2,91.2 226.3,85.9 231.3,82.2 236.4,78.9 241.5,76.3 246.6,77.9 251.6,75.4 256.7,72.1 261.8,69.8 266.9,65.8 271.9,67.5 277.0,73.1 282.1,78.9 287.2,84.9 292.2,92.6 297.3,93.9 302.4,93.5 307.5,92.0 312.5,91.8 317.6,90.5 322.7,92.6 327.8,93.5 332.8,97.1 337.9,97.5 343.0,97.5 348.1,93.2 353.1,88.9 358.2,85.9 363.3,83.7 368.4,86.1 373.4,90.0 378.5,94.2 383.6,94.4 388.7,92.0 393.7,83.7 398.8,75.4 403.9,66.8 409.0,59.1 414.1,53.6 419.1,50.5 424.2,47.3 429.3,44.3 434.4,41.0 439.4,38.7 444.5,34.5 449.6,32.3 454.7,31.2 459.7,33.3 464.8,35.2 469.9,41.0 475.0,49.5 480.0,59.6 485.1,71.5 490.2,84.8 495.3,94.3 500.3,100.2 505.4,100.5 510.5,103.5 515.6,105.6 520.6,107.7 525.7,107.3 530.8,108.6 535.9,104.3 540.9,105.3 546.0,107.0 551.1,111.2 556.2,116.8 561.2,125.0 566.3,127.8 571.4,128.5 576.5,129.3 581.5,126.9 586.6,121.8 591.7,119.1 596.8,120.7 601.8,122.6 606.9,126.6 612.0,131.4" fill="none" stroke="#e08a00" stroke-width="2.4"/><polyline points="8.0,63.0 13.1,59.8 18.2,58.3 23.2,66.8 28.3,54.0 33.4,47.1 38.5,29.7 43.5,35.3 48.6,29.5 53.7,16.7 58.8,15.1 63.8,8.0 68.9,31.1 74.0,31.3 79.1,18.8 84.1,35.7 89.2,24.6 94.3,17.5 99.4,31.4 104.4,53.1 109.5,49.5 114.6,46.8 119.7,60.9 124.7,60.7 129.8,49.8 134.9,48.2 140.0,64.1 145.0,58.8 150.1,63.0 155.2,78.1 160.3,80.6 165.3,80.5 170.4,66.0 175.5,65.0 180.6,62.5 185.6,76.4 190.7,81.2 195.8,99.6 200.9,110.4 205.9,95.2 211.0,85.2 216.1,84.2 221.2,72.9 226.3,73.9 231.3,78.7 236.4,78.2 241.5,82.2 246.6,81.1 251.6,70.9 256.7,66.1 261.8,61.6 266.9,57.1 271.9,71.3 277.0,80.5 282.1,75.5 287.2,76.4 292.2,83.1 297.3,78.3 302.4,74.1 307.5,71.3 312.5,77.2 317.6,76.5 322.7,80.9 327.8,81.5 332.8,82.3 337.9,74.2 343.0,71.3 348.1,66.6 353.1,64.7 358.2,70.8 363.3,70.4 368.4,84.0 373.4,85.0 378.5,79.5 383.6,76.1 388.7,68.2 393.7,60.9 398.8,57.1 403.9,58.1 409.0,59.4 414.1,56.6 419.1,61.1 424.2,57.2 429.3,57.4 434.4,50.0 439.4,49.0 444.5,47.1 449.6,46.5 454.7,49.6 459.7,58.3 464.8,56.3 469.9,64.7 475.0,70.2 480.0,80.6 485.1,90.1 490.2,97.1 495.3,94.4 500.3,95.9 505.4,90.8 510.5,105.6 515.6,104.9 520.6,100.8 525.7,91.8 530.8,83.4 535.9,84.7 540.9,100.4 546.0,110.3 551.1,109.3 556.2,116.8 561.2,142.0 566.3,140.1 571.4,131.0 576.5,129.6 581.5,118.2 586.6,120.7 591.7,126.2 596.8,137.4 601.8,137.9 606.9,136.1 612.0,137.5" fill="none" stroke="#111827" stroke-width="1.8"/></svg><div style="font-size:11px;color:#69768a;margin-top:2px">— 검정: AI테크 동일가중 지수 · — 주황: 주도주 브레스(0~100) · 지수는 버티는데 주황이 꺾이면 <b>피크아웃</b></div></section><section style='margin:16px 0;background:#eef3f9;border:1px solid #dbe4ee;border-radius:14px;padding:14px 16px'><div style='font-size:14px;color:#0b1a2c'>📊 <b>성적표</b> — 어제(2026-11-19) 32콜 → 익일 평균 <b>-1.2%</b> · 승률 <b>31%</b> | 누적 승률 45% (n=928, 평균 -0.4%)</div><div style='margin-top:6px;font-size:13px;color:#59677a'>🔀 ↓이탈 13 · ＋신규 13</div></section><section style='margin:18px 0'><h2 style='padding:0 4px'>🔥 코스피 섹터 로테이션</h2><div style='display:flex;flex-wrap:wrap;gap:8px'><div style="flex:1 1 120px;min-width:120px;background:hsl(117, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>운송</span><b style='font-size:20px'>93</b><small style='opacity:.85'>mom +0.04</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(115, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>미디어 🔥</span><b style='font-size:20px'>92</b><small style='opacity:.85'>mom +0.01</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(108, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>은행</span><b style='font-size:20px'>87</b><small style='opacity:.85'>mom +0.00</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(104, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>화장품</span><b style='font-size:20px'>83</b><small style='opacity:.85'>mom -0.03</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(96, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>IT</span><b style='font-size:20px'>76</b><small style='opacity:.85'>mom -0.07</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(70, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>바이오</span><b style='font-size:20px'>56</b><small style='opacity:.85'>mom -0.08</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(60, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>자동차</span><b style='font-size:20px'>48</b><small style='opacity:.85'>mom -0.12</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(59, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>2차전지</span><b style='font-size:20px'>47</b><small style='opacity:.85'>mom -0.06</small></div></div><p style='font-size:11px;color:#69768a;margin:8px 4px 0'>숫자=정규화 상대강도(RS, 높을수록 주도) · 🔥=과열(247일 97분위 초과)</p></section><div class="grid"><section><h2>코스피 관찰</h2><p style='font-size:12px;color:#7c8998;padding:0 8px'>조건 혼합·추세 훼손 3종목 제외</p>
+<header><h1>코스피·코스닥 눌림목 레이더</h1><p>기준일 2026-11-20 · 상대강도 → 눌림 → 소르티노 하방 효율 → RSI·가격 반등 확인</p><p style="margin:6px 0 0;color:#b8c7d8"><b>코스피:</b> 경계 — 눌림 매수 억제·관망 (지수 MA50·MA200 아래) · 폭 약함(MA50 위 15.5%)</p><p style="margin:2px 0 0;color:#8fb8d8">🧭 코스피 피어앤그리드: 중립 · 탐욕권 둔화 → 과열 경계 (F&amp;G 0.42, MACD -0.009 0선아래, hist +0.002 ↓)</p><p style="margin:6px 0 0;color:#b8c7d8"><b>코스닥:</b> 경계 — 눌림 매수 억제·관망 (지수 MA50·MA200 아래) · 폭 약함(MA50 위 13.8%)</p><p style="margin:2px 0 0;color:#8fb8d8">🧭 코스닥 피어앤그리드: 중립 · 탐욕권 둔화 → 과열 경계 (F&amp;G 0.44, MACD -0.020 0선아래, hist +0.006 ↓)</p><p style="margin-top:10px"><a href="candidates-kr.html" style="color:#9fd0ff;font-weight:700">🎯 매매 후보(승자 필터) →</a> &nbsp;·&nbsp; <a href="validation-kr.html" style="color:#9fd0ff;font-weight:600">📊 검증 성적표 →</a></p></header>
+<main><section style='margin:16px 0;background:#fae4e6;border-radius:14px;padding:14px 16px'><div style='font-size:15px;color:#0b1a2c'>🛡️ <b>주도주(AI·반도체) 상태: 투매 진행</b> → 🎯 제안 투자비중 <b>40%</b> · 신용 자제</div><div style='margin-top:4px;color:#a84449;font-weight:600'>주도주 폭 붕괴 — 현금 비중 확대·신용 금지</div><div style='margin-top:6px;font-size:12px;color:#59677a'>주도주폭 8 · 기울기 -7 · MA20위 5% · MA60위 3% · MA200위 8%</div><svg viewBox="0 0 620 150" width="100%" style="max-width:620px;display:block;margin-top:10px" xmlns="http://www.w3.org/2000/svg"><line x1="8" y1="48.2" x2="612" y2="48.2" stroke="#e3e8ee" stroke-width="1"/><line x1="8" y1="75.0" x2="612" y2="75.0" stroke="#e3e8ee" stroke-width="1"/><line x1="8" y1="101.8" x2="612" y2="101.8" stroke="#e3e8ee" stroke-width="1"/><polyline points="8.0,15.1 13.1,16.2 18.2,17.4 23.2,21.7 28.3,23.8 33.4,23.4 38.5,21.5 43.5,21.1 48.6,18.2 53.7,17.2 58.8,16.7 63.8,16.8 68.9,17.4 74.0,17.9 79.1,19.0 84.1,22.3 89.2,24.6 94.3,25.6 99.4,27.0 104.4,30.5 109.5,32.5 114.6,34.9 119.7,39.4 124.7,43.8 129.8,44.2 134.9,44.3 140.0,47.3 145.0,48.3 150.1,49.0 155.2,55.0 160.3,62.7 165.3,68.7 170.4,71.1 175.5,73.3 180.6,71.2 185.6,71.1 190.7,71.8 195.8,78.5 200.9,87.1 205.9,93.9 211.0,96.2 216.1,97.2 221.2,91.2 226.3,85.9 231.3,82.2 236.4,78.9 241.5,76.3 246.6,77.9 251.6,75.4 256.7,72.1 261.8,69.8 266.9,65.8 271.9,67.5 277.0,73.1 282.1,78.9 287.2,84.9 292.2,92.6 297.3,93.9 302.4,93.5 307.5,92.0 312.5,91.8 317.6,90.5 322.7,92.6 327.8,93.5 332.8,97.1 337.9,97.5 343.0,97.5 348.1,93.2 353.1,88.9 358.2,85.9 363.3,83.7 368.4,86.1 373.4,90.0 378.5,94.2 383.6,94.4 388.7,92.0 393.7,83.7 398.8,75.4 403.9,66.8 409.0,59.1 414.1,53.6 419.1,50.5 424.2,47.3 429.3,44.3 434.4,41.0 439.4,38.7 444.5,34.5 449.6,32.3 454.7,31.2 459.7,33.3 464.8,35.2 469.9,41.0 475.0,49.5 480.0,59.6 485.1,71.5 490.2,84.8 495.3,94.3 500.3,100.2 505.4,100.5 510.5,103.5 515.6,105.6 520.6,107.7 525.7,107.3 530.8,108.6 535.9,104.3 540.9,105.3 546.0,107.0 551.1,111.2 556.2,116.8 561.2,125.0 566.3,127.8 571.4,128.5 576.5,129.3 581.5,126.9 586.6,121.8 591.7,119.1 596.8,120.7 601.8,122.6 606.9,126.6 612.0,131.4" fill="none" stroke="#e08a00" stroke-width="2.4"/><polyline points="8.0,63.0 13.1,59.8 18.2,58.3 23.2,66.8 28.3,54.0 33.4,47.1 38.5,29.7 43.5,35.3 48.6,29.5 53.7,16.7 58.8,15.1 63.8,8.0 68.9,31.1 74.0,31.3 79.1,18.8 84.1,35.7 89.2,24.6 94.3,17.5 99.4,31.4 104.4,53.1 109.5,49.5 114.6,46.8 119.7,60.9 124.7,60.7 129.8,49.8 134.9,48.2 140.0,64.1 145.0,58.8 150.1,63.0 155.2,78.1 160.3,80.6 165.3,80.5 170.4,66.0 175.5,65.0 180.6,62.5 185.6,76.4 190.7,81.2 195.8,99.6 200.9,110.4 205.9,95.2 211.0,85.2 216.1,84.2 221.2,72.9 226.3,73.9 231.3,78.7 236.4,78.2 241.5,82.2 246.6,81.1 251.6,70.9 256.7,66.1 261.8,61.6 266.9,57.1 271.9,71.3 277.0,80.5 282.1,75.5 287.2,76.4 292.2,83.1 297.3,78.3 302.4,74.1 307.5,71.3 312.5,77.2 317.6,76.5 322.7,80.9 327.8,81.5 332.8,82.3 337.9,74.2 343.0,71.3 348.1,66.6 353.1,64.7 358.2,70.8 363.3,70.4 368.4,84.0 373.4,85.0 378.5,79.5 383.6,76.1 388.7,68.2 393.7,60.9 398.8,57.1 403.9,58.1 409.0,59.4 414.1,56.6 419.1,61.1 424.2,57.2 429.3,57.4 434.4,50.0 439.4,49.0 444.5,47.1 449.6,46.5 454.7,49.6 459.7,58.3 464.8,56.3 469.9,64.7 475.0,70.2 480.0,80.6 485.1,90.1 490.2,97.1 495.3,94.4 500.3,95.9 505.4,90.8 510.5,105.6 515.6,104.9 520.6,100.8 525.7,91.8 530.8,83.4 535.9,84.7 540.9,100.4 546.0,110.3 551.1,109.3 556.2,116.8 561.2,142.0 566.3,140.1 571.4,131.0 576.5,129.6 581.5,118.2 586.6,120.7 591.7,126.2 596.8,137.4 601.8,137.9 606.9,136.1 612.0,137.5" fill="none" stroke="#111827" stroke-width="1.8"/></svg><div style="font-size:11px;color:#69768a;margin-top:2px">— 검정: AI테크 동일가중 지수 · — 주황: 주도주 브레스(0~100) · 지수는 버티는데 주황이 꺾이면 <b>피크아웃</b></div></section><section style='margin:16px 0;background:#eef3f9;border:1px solid #dbe4ee;border-radius:14px;padding:14px 16px'><div style='font-size:14px;color:#0b1a2c'>📊 <b>성적표</b> — 어제(2026-11-19) 32콜 → 익일 평균 <b>-1.3%</b> · 승률 <b>25%</b> | 누적 승률 45% (n=928, 평균 -0.4%)</div><div style='margin-top:6px;font-size:13px;color:#59677a'>🔀 ↑승격 코웨이, 코스맥스, 한미사이언스, ES큐브 · ↓이탈 12 · ＋신규 12</div></section><section style='margin:18px 0'><h2 style='padding:0 4px'>🔥 코스피 섹터 로테이션</h2><div style='display:flex;flex-wrap:wrap;gap:8px'><div style="flex:1 1 120px;min-width:120px;background:hsl(116, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>운송</span><b style='font-size:20px'>93</b><small style='opacity:.85'>mom +0.04</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(114, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>미디어 🔥</span><b style='font-size:20px'>91</b><small style='opacity:.85'>mom -0.00</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(106, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>은행</span><b style='font-size:20px'>85</b><small style='opacity:.85'>mom -0.00</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(100, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>화장품</span><b style='font-size:20px'>80</b><small style='opacity:.85'>mom -0.04</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(93, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>IT</span><b style='font-size:20px'>75</b><small style='opacity:.85'>mom -0.08</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(69, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>바이오</span><b style='font-size:20px'>55</b><small style='opacity:.85'>mom -0.08</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(59, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>자동차</span><b style='font-size:20px'>47</b><small style='opacity:.85'>mom -0.12</small></div><div style="flex:1 1 120px;min-width:120px;background:hsl(59, 58%, 42%);color:#fff;border-radius:10px;padding:10px 12px;display:flex;flex-direction:column;gap:2px"><span style='font-size:12px'>2차전지</span><b style='font-size:20px'>47</b><small style='opacity:.85'>mom -0.06</small></div></div><p style='font-size:11px;color:#69768a;margin:8px 4px 0'>숫자=정규화 상대강도(RS, 높을수록 주도) · 🔥=과열(247일 97분위 초과)</p></section><div class="grid"><section><h2>코스피 관찰</h2><p style='font-size:12px;color:#7c8998;padding:0 8px'>조건 혼합·추세 훼손 3종목 제외</p>
     <article class="card">
       <div class="card-head">
-        <div><b>01</b><h3>HMM</h3><small>011200 · 🚀강세지속</small></div>
+        <div><b>01</b><h3>계룡건설</h3><small>013580</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>92.1</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-5.9%</strong></div>
-        <div><span>RSI 14</span><strong>51.4</strong><small>하락 중</small></div>
+        <div><span>Norm RS</span><strong>94.5</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-9.9%</strong></div>
+        <div><span>RSI 14</span><strong>50.5</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>93 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-6.1%</strong></div>
+        <div><span>거래량</span><strong>0.84×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 94.5로 높고, 최근 20거래일 최고 종가에서 9.9% 조정받았습니다. RSI는 50.5로 전일보다 7.2포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -6.1%, MA20 아래, MA60 대비 +5.9%, 거래량은 20일 평균의 0.8배입니다. 소르티노 시장 백분위는 93로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>02</b><h3>유한양행</h3><small>000100 · 🚀강세지속</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>87.2</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-3.7%</strong></div>
+        <div><span>RSI 14</span><strong>51.6</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>74 백분위</strong><small>주의</small></div>
+        <div><span>당일 종가</span><strong>-1.0%</strong></div>
+        <div><span>거래량</span><strong>0.60×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 87.2로 높고, 최근 20거래일 최고 종가에서 3.7% 조정받았습니다. RSI는 51.6로 전일보다 2.1포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.0%, MA20 위, MA60 대비 +1.3%, 거래량은 20일 평균의 0.6배입니다. 소르티노 시장 백분위는 74로 낮아, 최근 수익에 비해 하락 충격이 컸는지 확인해야 합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>03</b><h3>LG유플러스</h3><small>032640</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>88.5</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-9.6%</strong></div>
+        <div><span>RSI 14</span><strong>46.5</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>84 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-2.1%</strong></div>
+        <div><span>거래량</span><strong>0.54×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 88.5로 높고, 최근 20거래일 최고 종가에서 9.6% 조정받았습니다. RSI는 46.5로 전일보다 4.2포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.1%, MA20 아래, MA60 대비 +0.2%, 거래량은 20일 평균의 0.5배입니다. 소르티노 시장 백분위는 84로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>04</b><h3>HMM</h3><small>011200</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>91.6</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-7.2%</strong></div>
+        <div><span>RSI 14</span><strong>49.5</strong><small>하락 중</small></div>
         <div><span>소르티노</span><strong>91 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-1.6%</strong></div>
-        <div><span>거래량</span><strong>0.27×</strong></div>
+        <div><span>당일 종가</span><strong>-2.7%</strong></div>
+        <div><span>거래량</span><strong>0.64×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 92.1로 높고, 최근 20거래일 최고 종가에서 5.9% 조정받았습니다. RSI는 51.4로 전일보다 2.9포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.6%, MA20 위, MA60 대비 +2.0%, 거래량은 20일 평균의 0.3배입니다. 소르티노 시장 백분위는 91로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+      <p>시장 대비 상대강도는 91.6로 높고, 최근 20거래일 최고 종가에서 7.2% 조정받았습니다. RSI는 49.5로 전일보다 4.8포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.7%, MA20 아래, MA60 대비 +0.6%, 거래량은 20일 평균의 0.6배입니다. 소르티노 시장 백분위는 91로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
-        <div><b>02</b><h3>LG유플러스</h3><small>032640</small></div>
+        <div><b>05</b><h3>SIMPAC</h3><small>009160 · 🚀강세지속</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>88.7</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-8.9%</strong></div>
-        <div><span>RSI 14</span><strong>47.9</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>85 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-1.3%</strong></div>
-        <div><span>거래량</span><strong>0.23×</strong></div>
+        <div><span>Norm RS</span><strong>91.9</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-5.6%</strong></div>
+        <div><span>RSI 14</span><strong>52.1</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>86 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-1.7%</strong></div>
+        <div><span>거래량</span><strong>1.32×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 88.7로 높고, 최근 20거래일 최고 종가에서 8.9% 조정받았습니다. RSI는 47.9로 전일보다 2.7포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.3%, MA20 아래, MA60 대비 +1.0%, 거래량은 20일 평균의 0.2배입니다. 소르티노 시장 백분위는 85로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+      <p>시장 대비 상대강도는 91.9로 높고, 최근 20거래일 최고 종가에서 5.6% 조정받았습니다. RSI는 52.1로 전일보다 3.5포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.7%, MA20 위, MA60 대비 +3.7%, 거래량은 20일 평균의 1.3배입니다. 소르티노 시장 백분위는 86로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
-        <div><b>03</b><h3>LG씨엔에스</h3><small>064400</small></div>
+        <div><b>06</b><h3>SK디스커버리</h3><small>006120</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>88.6</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-8.6%</strong></div>
-        <div><span>RSI 14</span><strong>46.8</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>88 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-3.1%</strong></div>
-        <div><span>거래량</span><strong>0.28×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 88.6로 높고, 최근 20거래일 최고 종가에서 8.6% 조정받았습니다. RSI는 46.8로 전일보다 3.5포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -3.1%, MA20 아래, MA60 대비 +0.1%, 거래량은 20일 평균의 0.3배입니다. 소르티노 시장 백분위는 88로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>04</b><h3>SK디스커버리</h3><small>006120</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>95.4</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-9.8%</strong></div>
-        <div><span>RSI 14</span><strong>50.3</strong><small>하락 중</small></div>
+        <div><span>Norm RS</span><strong>94.6</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-12.2%</strong></div>
+        <div><span>RSI 14</span><strong>47.2</strong><small>하락 중</small></div>
         <div><span>소르티노</span><strong>96 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-4.2%</strong></div>
-        <div><span>거래량</span><strong>0.16×</strong></div>
+        <div><span>당일 종가</span><strong>-6.5%</strong></div>
+        <div><span>거래량</span><strong>0.40×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 95.4로 높고, 최근 20거래일 최고 종가에서 9.8% 조정받았습니다. RSI는 50.3로 전일보다 6.6포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -4.2%, MA20 위, MA60 대비 +5.9%, 거래량은 20일 평균의 0.2배입니다. 소르티노 시장 백분위는 96로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>05</b><h3>우성</h3><small>006980</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>89.5</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-8.7%</strong></div>
-        <div><span>RSI 14</span><strong>45.8</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>88 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-1.2%</strong></div>
-        <div><span>거래량</span><strong>0.16×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 89.5로 높고, 최근 20거래일 최고 종가에서 8.7% 조정받았습니다. RSI는 45.8로 전일보다 1.7포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.2%, MA20 아래, MA60 대비 +0.9%, 거래량은 20일 평균의 0.2배입니다. 소르티노 시장 백분위는 88로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>06</b><h3>조흥</h3><small>002600 · 🚀강세지속</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>88.9</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-3.0%</strong></div>
-        <div><span>RSI 14</span><strong>52.9</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>82 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-0.3%</strong></div>
-        <div><span>거래량</span><strong>0.44×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 88.9로 높고, 최근 20거래일 최고 종가에서 3.0% 조정받았습니다. RSI는 52.9로 전일보다 1.6포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -0.3%, MA20 위, MA60 대비 +1.7%, 거래량은 20일 평균의 0.4배입니다. 소르티노 시장 백분위는 82로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+      <p>시장 대비 상대강도는 94.6로 높고, 최근 20거래일 최고 종가에서 12.2% 조정받았습니다. RSI는 47.2로 전일보다 9.8포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -6.5%, MA20 아래, MA60 대비 +3.2%, 거래량은 20일 평균의 0.4배입니다. 소르티노 시장 백분위는 96로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 주간 변동폭이 15.9%로 높은 편입니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
         <div><b>07</b><h3>신영와코루</h3><small>005800 · 🚀강세지속</small></div>
-        <span class="badge positive">단기 반등 신호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>88.8</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-5.9%</strong></div>
-        <div><span>RSI 14</span><strong>52.5</strong><small>반등 시도</small></div>
-        <div><span>소르티노</span><strong>85 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>+0.1%</strong></div>
-        <div><span>거래량</span><strong>2.10×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 88.8로 높고, 최근 20거래일 최고 종가에서 5.9% 조정받았습니다. RSI는 52.5로 전일보다 0.1포인트 올라 단기 모멘텀이 회복되는 모습입니다. 당일 등락률은 +0.1%, MA20 위, MA60 대비 +1.7%, 거래량은 20일 평균의 2.1배입니다. 소르티노 시장 백분위는 85로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>08</b><h3>SIMPAC</h3><small>009160 · 🚀강세지속</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>92.4</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-4.3%</strong></div>
-        <div><span>RSI 14</span><strong>54.8</strong><small>보합</small></div>
-        <div><span>소르티노</span><strong>87 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-0.4%</strong></div>
-        <div><span>거래량</span><strong>0.60×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 92.4로 높고, 최근 20거래일 최고 종가에서 4.3% 조정받았습니다. RSI는 54.8로 전일보다 0.8포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -0.4%, MA20 위, MA60 대비 +5.1%, 거래량은 20일 평균의 0.6배입니다. 소르티노 시장 백분위는 87로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>09</b><h3>태양금속</h3><small>004100 · 🚀강세지속</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>93.9</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-6.6%</strong></div>
-        <div><span>RSI 14</span><strong>49.7</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>97 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-1.8%</strong></div>
-        <div><span>거래량</span><strong>0.29×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 93.9로 높고, 최근 20거래일 최고 종가에서 6.6% 조정받았습니다. RSI는 49.7로 전일보다 2.4포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.8%, MA20 위, MA60 대비 +2.7%, 거래량은 20일 평균의 0.3배입니다. 소르티노 시장 백분위는 97로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>10</b><h3>NICE평가정보</h3><small>030190</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>92.0</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-7.8%</strong></div>
-        <div><span>RSI 14</span><strong>43.8</strong><small>보합</small></div>
-        <div><span>소르티노</span><strong>95 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-0.2%</strong></div>
-        <div><span>거래량</span><strong>0.18×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 92.0로 높고, 최근 20거래일 최고 종가에서 7.8% 조정받았습니다. RSI는 43.8로 전일보다 0.4포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -0.2%, MA20 아래, MA60 대비 +0.8%, 거래량은 20일 평균의 0.2배입니다. 소르티노 시장 백분위는 95로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>11</b><h3>녹십자</h3><small>006280</small></div>
-        <span class="badge watch">초기 반등 관찰</span>
       </div>
       <div class="metrics">
         <div><span>Norm RS</span><strong>89.3</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-6.8%</strong></div>
-        <div><span>RSI 14</span><strong>49.1</strong><small>반등 시도</small></div>
-        <div><span>소르티노</span><strong>89 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>+0.5%</strong></div>
-        <div><span>거래량</span><strong>0.52×</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-5.7%</strong></div>
+        <div><span>RSI 14</span><strong>52.4</strong><small>보합</small></div>
+        <div><span>소르티노</span><strong>86 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>+0.0%</strong></div>
+        <div><span>거래량</span><strong>2.50×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 89.3로 높고, 최근 20거래일 최고 종가에서 6.8% 조정받았습니다. RSI는 49.1로 전일보다 1.3포인트 올라 단기 모멘텀이 회복되는 모습입니다. 당일 등락률은 +0.5%, MA20 아래, MA60 대비 +2.3%, 거래량은 20일 평균의 0.5배입니다. 소르티노 시장 백분위는 89로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+      <p>시장 대비 상대강도는 89.3로 높고, 최근 20거래일 최고 종가에서 5.7% 조정받았습니다. RSI는 52.4로 전일과 큰 차이가 없어 방향 확인이 더 필요합니다. 당일 등락률은 +0.0%, MA20 위, MA60 대비 +1.8%, 거래량은 20일 평균의 2.5배입니다. 소르티노 시장 백분위는 86로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
-        <div><b>12</b><h3>KT&amp;G</h3><small>033780</small></div>
+        <div><b>08</b><h3>조흥</h3><small>002600 · 🚀강세지속</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>89.3</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-3.0%</strong></div>
+        <div><span>RSI 14</span><strong>52.9</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>82 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-0.3%</strong></div>
+        <div><span>거래량</span><strong>0.51×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 89.3로 높고, 최근 20거래일 최고 종가에서 3.0% 조정받았습니다. RSI는 52.9로 전일보다 1.6포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -0.3%, MA20 위, MA60 대비 +1.7%, 거래량은 20일 평균의 0.5배입니다. 소르티노 시장 백분위는 82로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>09</b><h3>NICE평가정보</h3><small>030190</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
         <div><span>Norm RS</span><strong>91.5</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-7.4%</strong></div>
-        <div><span>RSI 14</span><strong>47.8</strong><small>보합</small></div>
-        <div><span>소르티노</span><strong>94 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-0.1%</strong></div>
-        <div><span>거래량</span><strong>0.44×</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-9.1%</strong></div>
+        <div><span>RSI 14</span><strong>40.8</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>95 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-1.6%</strong></div>
+        <div><span>거래량</span><strong>0.50×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 91.5로 높고, 최근 20거래일 최고 종가에서 7.4% 조정받았습니다. RSI는 47.8로 전일보다 0.3포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -0.1%, MA20 아래, MA60 대비 +1.1%, 거래량은 20일 평균의 0.4배입니다. 소르티노 시장 백분위는 94로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+      <p>시장 대비 상대강도는 91.5로 높고, 최근 20거래일 최고 종가에서 9.1% 조정받았습니다. RSI는 40.8로 전일보다 3.5포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.6%, MA20 아래, MA60 대비 -0.5%, 거래량은 20일 평균의 0.5배입니다. 소르티노 시장 백분위는 95로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 현재가가 MA60 아래라 추세 회복 확인이 필요합니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
-        <div><b>13</b><h3>아센디오</h3><small>012170</small></div>
+        <div><b>10</b><h3>코웨이</h3><small>021240 · 🚀강세지속</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>99.8</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-9.6%</strong></div>
-        <div><span>RSI 14</span><strong>49.3</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>100 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-4.3%</strong></div>
-        <div><span>거래량</span><strong>0.37×</strong></div>
+        <div><span>Norm RS</span><strong>94.4</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-5.7%</strong></div>
+        <div><span>RSI 14</span><strong>51.5</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>95 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-1.7%</strong></div>
+        <div><span>거래량</span><strong>0.90×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 99.8로 높고, 최근 20거래일 최고 종가에서 9.6% 조정받았습니다. RSI는 49.3로 전일보다 5.8포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -4.3%, MA20 아래, MA60 대비 +6.7%, 거래량은 20일 평균의 0.4배입니다. 소르티노 시장 백분위는 100로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article></section><section><h2>코스닥 관찰</h2><p style='font-size:12px;color:#7c8998;padding:0 8px'>조건 혼합·추세 훼손 5종목 제외</p>
+      <p>시장 대비 상대강도는 94.4로 높고, 최근 20거래일 최고 종가에서 5.7% 조정받았습니다. RSI는 51.5로 전일보다 3.3포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.7%, MA20 위, MA60 대비 +2.5%, 거래량은 20일 평균의 0.9배입니다. 소르티노 시장 백분위는 95로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>11</b><h3>녹십자</h3><small>006280</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>87.9</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-8.8%</strong></div>
+        <div><span>RSI 14</span><strong>43.9</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>87 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-1.7%</strong></div>
+        <div><span>거래량</span><strong>0.75×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 87.9로 높고, 최근 20거래일 최고 종가에서 8.8% 조정받았습니다. RSI는 43.9로 전일보다 4.0포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.7%, MA20 아래, MA60 대비 +0.2%, 거래량은 20일 평균의 0.8배입니다. 소르티노 시장 백분위는 87로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>12</b><h3>태양금속</h3><small>004100 · 🚀강세지속</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>94.5</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-6.0%</strong></div>
+        <div><span>RSI 14</span><strong>51.4</strong><small>보합</small></div>
+        <div><span>소르티노</span><strong>97 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-0.5%</strong></div>
+        <div><span>거래량</span><strong>0.40×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 94.5로 높고, 최근 20거래일 최고 종가에서 6.0% 조정받았습니다. RSI는 51.4로 전일보다 0.7포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -0.5%, MA20 위, MA60 대비 +3.4%, 거래량은 20일 평균의 0.4배입니다. 소르티노 시장 백분위는 97로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>13</b><h3>KT&amp;G</h3><small>033780</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>90.8</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-8.7%</strong></div>
+        <div><span>RSI 14</span><strong>44.4</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>92 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-1.5%</strong></div>
+        <div><span>거래량</span><strong>0.94×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 90.8로 높고, 최근 20거래일 최고 종가에서 8.7% 조정받았습니다. RSI는 44.4로 전일보다 3.7포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.5%, MA20 아래, MA60 대비 -0.4%, 거래량은 20일 평균의 0.9배입니다. 소르티노 시장 백분위는 92로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 현재가가 MA60 아래라 추세 회복 확인이 필요합니다.</p>
+    </article></section><section><h2>코스닥 관찰</h2><p style='font-size:12px;color:#7c8998;padding:0 8px'>조건 혼합·추세 훼손 6종목 제외</p>
     <article class="card">
       <div class="card-head">
         <div><b>01</b><h3>인피니트헬스케어</h3><small>071200</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>96.9</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-8.0%</strong></div>
-        <div><span>RSI 14</span><strong>45.9</strong><small>하락 중</small></div>
+        <div><span>Norm RS</span><strong>97.0</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-8.6%</strong></div>
+        <div><span>RSI 14</span><strong>44.9</strong><small>하락 중</small></div>
         <div><span>소르티노</span><strong>97 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-0.9%</strong></div>
-        <div><span>거래량</span><strong>0.81×</strong></div>
+        <div><span>당일 종가</span><strong>-1.7%</strong></div>
+        <div><span>거래량</span><strong>1.85×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 96.9로 높고, 최근 20거래일 최고 종가에서 8.0% 조정받았습니다. RSI는 45.9로 전일보다 1.4포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -0.9%, MA20 아래, MA60 대비 -0.9%, 거래량은 20일 평균의 0.8배입니다. 소르티노 시장 백분위는 97로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 현재가가 MA60 아래라 추세 회복 확인이 필요합니다.</p>
+      <p>시장 대비 상대강도는 97.0로 높고, 최근 20거래일 최고 종가에서 8.6% 조정받았습니다. RSI는 44.9로 전일보다 2.5포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.7%, MA20 아래, MA60 대비 -1.6%, 거래량은 20일 평균의 1.9배입니다. 소르티노 시장 백분위는 97로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 현재가가 MA60 아래라 추세 회복 확인이 필요합니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
-        <div><b>02</b><h3>백금T&amp;A</h3><small>046310</small></div>
+        <div><b>02</b><h3>키이스트</h3><small>054780</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>89.1</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-10.5%</strong></div>
-        <div><span>RSI 14</span><strong>47.4</strong><small>하락 중</small></div>
+        <div><span>Norm RS</span><strong>88.9</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-10.3%</strong></div>
+        <div><span>RSI 14</span><strong>49.4</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>88 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-1.3%</strong></div>
+        <div><span>거래량</span><strong>0.99×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 88.9로 높고, 최근 20거래일 최고 종가에서 10.3% 조정받았습니다. RSI는 49.4로 전일보다 1.8포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.3%, MA20 위, MA60 대비 +2.2%, 거래량은 20일 평균의 1.0배입니다. 소르티노 시장 백분위는 88로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 주간 변동폭이 23.7%로 높은 편입니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>03</b><h3>백금T&amp;A</h3><small>046310</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>90.3</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-10.3%</strong></div>
+        <div><span>RSI 14</span><strong>47.7</strong><small>하락 중</small></div>
         <div><span>소르티노</span><strong>85 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-2.8%</strong></div>
-        <div><span>거래량</span><strong>0.10×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 89.1로 높고, 최근 20거래일 최고 종가에서 10.5% 조정받았습니다. RSI는 47.4로 전일보다 4.7포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.8%, MA20 아래, MA60 대비 +3.3%, 거래량은 20일 평균의 0.1배입니다. 소르티노 시장 백분위는 85로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>03</b><h3>디지털대성</h3><small>068930 · 🚀강세지속</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>95.1</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-3.1%</strong></div>
-        <div><span>RSI 14</span><strong>52.2</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>99 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-2.2%</strong></div>
-        <div><span>거래량</span><strong>0.36×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 95.1로 높고, 최근 20거래일 최고 종가에서 3.1% 조정받았습니다. RSI는 52.2로 전일보다 8.7포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.2%, MA20 위, MA60 대비 +3.6%, 거래량은 20일 평균의 0.4배입니다. 소르티노 시장 백분위는 99로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>04</b><h3>유진기업</h3><small>023410 · 🚀강세지속</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>86.4</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-6.8%</strong></div>
-        <div><span>RSI 14</span><strong>50.0</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>81 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-1.5%</strong></div>
-        <div><span>거래량</span><strong>0.34×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 86.4로 높고, 최근 20거래일 최고 종가에서 6.8% 조정받았습니다. RSI는 50.0로 전일보다 4.3포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.5%, MA20 위, MA60 대비 +1.6%, 거래량은 20일 평균의 0.3배입니다. 소르티노 시장 백분위는 81로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>05</b><h3>미디어젠</h3><small>279600 · 🚀강세지속</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>86.1</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-6.1%</strong></div>
-        <div><span>RSI 14</span><strong>52.8</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>82 백분위</strong><small>양호</small></div>
         <div><span>당일 종가</span><strong>-2.5%</strong></div>
-        <div><span>거래량</span><strong>0.51×</strong></div>
+        <div><span>거래량</span><strong>0.28×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 86.1로 높고, 최근 20거래일 최고 종가에서 6.1% 조정받았습니다. RSI는 52.8로 전일보다 3.3포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.5%, MA20 위, MA60 대비 +3.4%, 거래량은 20일 평균의 0.5배입니다. 소르티노 시장 백분위는 82로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 주간 변동폭이 17.8%로 높은 편입니다.</p>
+      <p>시장 대비 상대강도는 90.3로 높고, 최근 20거래일 최고 종가에서 10.3% 조정받았습니다. RSI는 47.7로 전일보다 4.4포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.5%, MA20 아래, MA60 대비 +3.5%, 거래량은 20일 평균의 0.3배입니다. 소르티노 시장 백분위는 85로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
-        <div><b>06</b><h3>로스웰</h3><small>900260</small></div>
+        <div><b>04</b><h3>웹젠</h3><small>069080 · 🚀강세지속</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>94.3</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-7.0%</strong></div>
-        <div><span>RSI 14</span><strong>48.2</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>98 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-1.1%</strong></div>
-        <div><span>거래량</span><strong>0.17×</strong></div>
+        <div><span>Norm RS</span><strong>91.6</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-4.4%</strong></div>
+        <div><span>RSI 14</span><strong>50.9</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>92 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-3.7%</strong></div>
+        <div><span>거래량</span><strong>0.52×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 94.3로 높고, 최근 20거래일 최고 종가에서 7.0% 조정받았습니다. RSI는 48.2로 전일보다 1.5포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.1%, MA20 아래, MA60 대비 +0.6%, 거래량은 20일 평균의 0.2배입니다. 소르티노 시장 백분위는 98로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+      <p>시장 대비 상대강도는 91.6로 높고, 최근 20거래일 최고 종가에서 4.4% 조정받았습니다. RSI는 50.9로 전일보다 8.3포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -3.7%, MA20 위, MA60 대비 +3.3%, 거래량은 20일 평균의 0.5배입니다. 소르티노 시장 백분위는 92로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
-        <div><b>07</b><h3>디젠스</h3><small>113810 · 🚀강세지속</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
+        <div><b>05</b><h3>ES큐브</h3><small>050120</small></div>
+        <span class="badge watch">초기 반등 관찰</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>91.1</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-6.6%</strong></div>
-        <div><span>RSI 14</span><strong>51.3</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>91 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-1.9%</strong></div>
-        <div><span>거래량</span><strong>0.44×</strong></div>
+        <div><span>Norm RS</span><strong>94.4</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-9.7%</strong></div>
+        <div><span>RSI 14</span><strong>45.8</strong><small>반등 시도</small></div>
+        <div><span>소르티노</span><strong>87 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>+1.5%</strong></div>
+        <div><span>거래량</span><strong>0.30×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 91.1로 높고, 최근 20거래일 최고 종가에서 6.6% 조정받았습니다. RSI는 51.3로 전일보다 3.5포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -1.9%, MA20 위, MA60 대비 +2.1%, 거래량은 20일 평균의 0.4배입니다. 소르티노 시장 백분위는 91로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 주간 변동폭이 17.8%로 높은 편입니다.</p>
+      <p>시장 대비 상대강도는 94.4로 높고, 최근 20거래일 최고 종가에서 9.7% 조정받았습니다. RSI는 45.8로 전일보다 2.7포인트 올라 단기 모멘텀이 회복되는 모습입니다. 당일 등락률은 +1.5%, MA20 아래, MA60 대비 +0.5%, 거래량은 20일 평균의 0.3배입니다. 소르티노 시장 백분위는 87로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 주간 변동폭이 22.9%로 높은 편입니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
-        <div><b>08</b><h3>동일기연</h3><small>032960</small></div>
+        <div><b>06</b><h3>유진기업</h3><small>023410 · 🚀강세지속</small></div>
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>92.6</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-9.3%</strong></div>
-        <div><span>RSI 14</span><strong>46.9</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>95 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-5.8%</strong></div>
-        <div><span>거래량</span><strong>0.84×</strong></div>
+        <div><span>Norm RS</span><strong>88.7</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-5.7%</strong></div>
+        <div><span>RSI 14</span><strong>53.4</strong><small>보합</small></div>
+        <div><span>소르티노</span><strong>83 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-0.3%</strong></div>
+        <div><span>거래량</span><strong>0.69×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 92.6로 높고, 최근 20거래일 최고 종가에서 9.3% 조정받았습니다. RSI는 46.9로 전일보다 6.2포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -5.8%, MA20 아래, MA60 대비 +3.8%, 거래량은 20일 평균의 0.8배입니다. 소르티노 시장 백분위는 95로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 주간 변동폭이 24.4%로 높은 편입니다.</p>
+      <p>시장 대비 상대강도는 88.7로 높고, 최근 20거래일 최고 종가에서 5.7% 조정받았습니다. RSI는 53.4로 전일보다 0.9포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -0.3%, MA20 위, MA60 대비 +2.8%, 거래량은 20일 평균의 0.7배입니다. 소르티노 시장 백분위는 83로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>07</b><h3>로스웰</h3><small>900260 · 🚀강세지속</small></div>
+        <span class="badge positive">단기 반등 신호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>96.0</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-3.9%</strong></div>
+        <div><span>RSI 14</span><strong>52.6</strong><small>상승 전환</small></div>
+        <div><span>소르티노</span><strong>99 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>+2.2%</strong></div>
+        <div><span>거래량</span><strong>0.23×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 96.0로 높고, 최근 20거래일 최고 종가에서 3.9% 조정받았습니다. RSI는 52.6로 전일보다 3.0포인트 올라 단기 모멘텀이 회복되는 모습입니다. 당일 등락률은 +2.2%, MA20 위, MA60 대비 +3.8%, 거래량은 20일 평균의 0.2배입니다. 소르티노 시장 백분위는 99로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>08</b><h3>디에스엠</h3><small>104040</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>94.4</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-10.0%</strong></div>
+        <div><span>RSI 14</span><strong>47.4</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>90 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-2.3%</strong></div>
+        <div><span>거래량</span><strong>1.55×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 94.4로 높고, 최근 20거래일 최고 종가에서 10.0% 조정받았습니다. RSI는 47.4로 전일보다 2.6포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.3%, MA20 아래, MA60 대비 +3.9%, 거래량은 20일 평균의 1.6배입니다. 소르티노 시장 백분위는 90로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 주간 변동폭이 15.5%로 높은 편입니다.</p>
     </article>
     <article class="card">
       <div class="card-head">
@@ -327,44 +327,29 @@
         <span class="badge neutral">눌림 조건 양호</span>
       </div>
       <div class="metrics">
-        <div><span>Norm RS</span><strong>87.3</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-7.7%</strong></div>
-        <div><span>RSI 14</span><strong>51.7</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>58 백분위</strong><small>주의</small></div>
-        <div><span>당일 종가</span><strong>-5.1%</strong></div>
-        <div><span>거래량</span><strong>0.33×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 87.3로 높고, 최근 20거래일 최고 종가에서 7.7% 조정받았습니다. RSI는 51.7로 전일보다 8.1포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -5.1%, MA20 위, MA60 대비 +4.5%, 거래량은 20일 평균의 0.3배입니다. 소르티노 시장 백분위는 58로 낮아, 최근 수익에 비해 하락 충격이 컸는지 확인해야 합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>10</b><h3>코아시아</h3><small>045970 · 🚀강세지속</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>90.7</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-6.9%</strong></div>
-        <div><span>RSI 14</span><strong>52.7</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>89 백분위</strong><small>양호</small></div>
-        <div><span>당일 종가</span><strong>-2.6%</strong></div>
-        <div><span>거래량</span><strong>0.26×</strong></div>
-      </div>
-      <p>시장 대비 상대강도는 90.7로 높고, 최근 20거래일 최고 종가에서 6.9% 조정받았습니다. RSI는 52.7로 전일보다 2.6포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.6%, MA20 위, MA60 대비 +6.4%, 거래량은 20일 평균의 0.3배입니다. 소르티노 시장 백분위는 89로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
-    </article>
-    <article class="card">
-      <div class="card-head">
-        <div><b>11</b><h3>아이크래프트</h3><small>052460</small></div>
-        <span class="badge neutral">눌림 조건 양호</span>
-      </div>
-      <div class="metrics">
-        <div><span>Norm RS</span><strong>98.5</strong></div>
-        <div><span>고점 대비 눌림</span><strong>-14.6%</strong></div>
-        <div><span>RSI 14</span><strong>49.5</strong><small>하락 중</small></div>
-        <div><span>소르티노</span><strong>95 백분위</strong><small>양호</small></div>
+        <div><span>Norm RS</span><strong>88.7</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-7.6%</strong></div>
+        <div><span>RSI 14</span><strong>52.0</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>59 백분위</strong><small>주의</small></div>
         <div><span>당일 종가</span><strong>-5.0%</strong></div>
-        <div><span>거래량</span><strong>0.37×</strong></div>
+        <div><span>거래량</span><strong>0.52×</strong></div>
       </div>
-      <p>시장 대비 상대강도는 98.5로 높고, 최근 20거래일 최고 종가에서 14.6% 조정받았습니다. RSI는 49.5로 전일보다 3.9포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -5.0%, MA20 아래, MA60 대비 +1.8%, 거래량은 20일 평균의 0.4배입니다. 소르티노 시장 백분위는 95로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 주간 변동폭이 24.9%로 높은 편입니다.</p>
+      <p>시장 대비 상대강도는 88.7로 높고, 최근 20거래일 최고 종가에서 7.6% 조정받았습니다. RSI는 52.0로 전일보다 7.9포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -5.0%, MA20 위, MA60 대비 +4.6%, 거래량은 20일 평균의 0.5배입니다. 소르티노 시장 백분위는 59로 낮아, 최근 수익에 비해 하락 충격이 컸는지 확인해야 합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
+    </article>
+    <article class="card">
+      <div class="card-head">
+        <div><b>10</b><h3>코아시아</h3><small>045970</small></div>
+        <span class="badge neutral">눌림 조건 양호</span>
+      </div>
+      <div class="metrics">
+        <div><span>Norm RS</span><strong>89.7</strong></div>
+        <div><span>고점 대비 눌림</span><strong>-9.5%</strong></div>
+        <div><span>RSI 14</span><strong>52.6</strong><small>하락 중</small></div>
+        <div><span>소르티노</span><strong>88 백분위</strong><small>양호</small></div>
+        <div><span>당일 종가</span><strong>-2.8%</strong></div>
+        <div><span>거래량</span><strong>0.50×</strong></div>
+      </div>
+      <p>시장 대비 상대강도는 89.7로 높고, 최근 20거래일 최고 종가에서 9.5% 조정받았습니다. RSI는 52.6로 전일보다 2.8포인트 내려 아직 하락 압력이 남아 있습니다. 당일 등락률은 -2.8%, MA20 위, MA60 대비 +3.6%, 거래량은 20일 평균의 0.5배입니다. 소르티노 시장 백분위는 88로, 하락 변동성 대비 수익 흐름이 상대적으로 양호합니다. 주의: 핵심 위치 조건은 비교적 균형적이지만 실제 반등 지속 여부는 다음 거래일 확인이 필요합니다.</p>
     </article></section></div></main>
 <footer>가격 데이터 기반 조건 검색이며 투자 권유가 아닙니다. 소르티노는 보조지표로 종합점수에 가중하지 않습니다.</footer>
 </body></html>
