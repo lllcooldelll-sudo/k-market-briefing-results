@@ -9,25 +9,21 @@
   },
   "sector_leaders": "Health Care(76) · Consumer Staples(74) · 바이오(69) · 리테일(65)",
   "peakout": {
-    "date": "2026-11-25",
+    "date": "2026-11-26",
     "n": 40,
-    "stale_n": 0,
-    "leader_breadth": 2.2,
+    "stale_n": 30,
+    "leader_breadth": 1.7,
     "above_ma20": 2.0,
     "above_ma60": 0.0,
     "above_ma200": 2.0,
-    "slope_5d": -9.0,
-    "slope_10d": -8.8,
-    "falling_days_10d": 8,
-    "breadth_from_20d_high": -25.8,
+    "slope_5d": -6.0,
+    "slope_10d": -13.0,
+    "falling_days_10d": 9,
+    "breadth_from_20d_high": -25.6,
     "bearish_divergence": false,
     "strong_divergence": false,
     "risk_level": "투매 진행",
     "series": [
-      {
-        "i": 635.46,
-        "b": 88.5
-      },
       {
         "i": 656.86,
         "b": 88.8
@@ -501,8 +497,12 @@
         "b": 3.4
       },
       {
-        "i": 337.18,
+        "i": 348.72,
         "b": 2.2
+      },
+      {
+        "i": 350.8,
+        "b": 1.7
       }
     ]
   },
